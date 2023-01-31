@@ -1,0 +1,13 @@
+soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files; inherits some unnecessary complexity from socnetwork7.rb)
+extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files)
+process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
+output dir: dist
+wrapper2.rb
+
+test_extract_users: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual)
+test_mix_conllu_token: mix the texts in each set, create 6 texts (threshold = 3 * actual)
+test_delta.rb: run the ranking system (threshold = actual)
+test_wrapper2.rb
+
+ttests_dist.rb: run t-tests on the output in dist (currently int vs no-int)
+supersummary.rb = summarize the results in dist
