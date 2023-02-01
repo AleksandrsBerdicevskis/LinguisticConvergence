@@ -8,9 +8,9 @@ require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\file_tools.rb"
 
 
 
-PATH = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
+PATH4 = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
 PATH1 = "C:\\Sasha\\D\\DGU\\CassandraMy\\KorpApi\\"
-PATH2 = "C:\\Sasha\\D\\DGU\\CassandraMy\\SocNetwork\\dist\\"
+PATH2 = "dist\\"
 PATH3 = "C:\\Sasha\\D\\DGU\\CassandraMy\\Gramino\\GeneralStatsSumTokensUpdated\\"
 
 corpus_label = ARGV[0]
@@ -18,7 +18,7 @@ maincorpus = get_maincorpus(corpus_label)
 subforums = read_corpus_label(corpus_label)
 filenames = []
 subforums.each do |subforum|
-    filenames << "#{PATH}#{subforum}_sentence.conllu"
+    filenames << "#{PATH4}#{subforum}_sentence.conllu"
 end
 
 if ARGV[1].nil?

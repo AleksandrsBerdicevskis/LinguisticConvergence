@@ -1,10 +1,19 @@
-for i in 1..6
+for i in 8..10
+    system "ruby soclingprox2.rb flashback-network#{i} 12000 5 3 365 10 366 both true farthest"
+end
+
+for i in 7..10
     system "ruby soclingprox2.rb flashback-network#{i} 6000 5 3 365 10 366 both true farthest"
 end
 
-for i in 1..6
-    system "ruby soclingprox2.rb flashback-network#{i} 12000 5 3 365 10 366 both true farthest"
-end
+
+#for i in 1..6
+#    system "ruby soclingprox2.rb flashback-network#{i} 6000 5 3 365 10 366 both true farthest"
+#end
+
+#for i in 1..6
+#    system "ruby soclingprox2.rb flashback-network#{i} 12000 5 3 365 10 366 both true farthest"
+#end
 
 
 __END__

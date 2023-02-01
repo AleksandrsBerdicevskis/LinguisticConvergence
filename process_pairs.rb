@@ -1,5 +1,5 @@
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\corpus_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\math_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\math_tools.rb"
 
 corpus_label = ARGV[0]
 subforums = read_corpus_label(corpus_label)

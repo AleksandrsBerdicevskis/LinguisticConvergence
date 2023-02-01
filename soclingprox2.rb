@@ -1,7 +1,7 @@
 
 
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\date_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\corpus_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\date_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
 
 #change reading variable? (remove variable. Can be added separately)
 
@@ -10,9 +10,13 @@ require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\corpus_tools.rb"
 
 corpus_label = ARGV[0]
 forum = get_maincorpus(corpus_label)
-subforums = read_corpus_label(corpus_label)
+STDERR.puts forum
+subforums = read_corpus_label(corpus_label,"array")
+STDERR.puts subforums
 subforum1 = subforums[0].split("-")[1]
+STDERR.puts subforum1
 subforum2 = subforums[1].split("-")[1]
+STDERR.puts subforum2
 subforums = [subforum1,subforum2]
 sflabel = corpus_label.split("-")[1]
 
@@ -93,7 +97,7 @@ if nowrapper_mode
         end
     
     
-    PATH = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
+    PATH2 = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
     PATH1 = "C:\\Sasha\\D\\DGU\\CassandraMy\\KorpApi\\"
     
     
@@ -198,7 +202,7 @@ if nowrapper_mode
     
     
     subforums.each do |subforum|
-        f = File.open("#{PATH}#{forum}-#{subforum}_post.conllu","r:utf-8")
+        f = File.open("#{PATH2}#{forum}-#{subforum}_post.conllu","r:utf-8")
         
         current_user = ""
         prev_thread = ""
@@ -391,6 +395,7 @@ if nowrapper_mode
     outtsv2.close
 end
 
+__END__
 if no == "" or no == "both"
     system "ruby extract_pairs.rb #{corpus_label} #{threshold} #{threshold_time_distance} #{threshold_post_distance} #{interaction_time_threshold} #{interaction_threshold} #{post_interaction_threshold} yes #{date_mode}"
 end
