@@ -1,0 +1,5053 @@
+1	Sluta	sluta	VB	VB.IMP.AKT
+2	med	med	PP	PP
+3	den	den	DT	DT.UTR.SIN.DEF
+4	där	där	AB	AB
+5	jävla	jävla	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	bullshiten	bullshit	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Skriv	skriva	VB	VB.IMP.AKT
+2	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+3	,	,	MID	MID
+4	om	om	SN	SN
+5	du	du	PN	PN.UTR.SIN.DEF.SUB
+6	kan	kunna	VB	VB.PRS.AKT
+7	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+8	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	uppgradering	uppgradering	NN	NN.UTR.SIN.IND.NOM
+3	kostar	kosta	VB	VB.PRS.AKT
+4	800kr	800kr	RG	RG.NOM
+5	monterat	montera	PC	PC.PRF.NEU.SIN.IND.NOM
+6	och	och	KN	KN
+7	klart	klar	AB	AB.POS
+8	på	på	PP	PP
+9	Saab	Saab	PM	PM.NOM
+10	.	.	MAD	MAD
+
+1	325kr	325kr	RG	RG.NOM
+2	om	om	SN	SN
+3	du	du	PN	PN.UTR.SIN.DEF.SUB
+4	köper	köpa	VB	VB.PRS.AKT
+5	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	på	på	PP	PP
+8	Speedparts	Speedparts	PM	PM.NOM
+9	.	.	MAD	MAD
+
+1	Vet	veta	VB	VB.PRS.AKT
+2	inte	inte	AB	AB
+3	vart	vart	HA	HA
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	får	få	VB	VB.PRS.AKT
+6	dina	du	PS	PS.UTR+NEU.PLU.DEF
+7	4-5	4-5	RG	RG.NOM
+8	tusen	tusen	RG	RG.NOM
+9	ifrån	ifrån	PP	PP
+10	.	.	MAD	MAD
+
+1	Dyrare	dyr	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	försäkring	försäkring	NN	NN.UTR.SIN.IND.NOM
+3	?	?	MAD	MAD
+
+1	Knappast	knapp	AB	AB.SUV
+2	med	med	PP	PP
+3	LTT	LTT	PM	PM.NOM
+4	.	.	MAD	MAD
+
+1	Dyrare	dyr	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	om	om	SN	SN
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	pajjar	pajjar	VB	VB.PRS.AKT
+5	-	-	MID	MID
+6	Ja	ja	IN	IN
+7	.	.	MAD	MAD
+
+1	Därför	därför	AB	AB
+2	skulle	skola	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	föreslå	föreslå	VB	VB.INF.AKT
+5	denna	denna	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	:	:	MAD	MAD
+
+1	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	NN	NN.AN
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	,	,	MID	MID
+3	9000	9000	RG	RG.NOM
+4	aeron	aeron	NN	NN.UTR.PLU.IND.NOM
+5	alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+6	dagar	dag	NN	NN.UTR.PLU.IND.NOM
+7	i	i	PP	PP
+8	veckan	vecka	NN	NN.UTR.SIN.DEF.NOM
+9	.	.	MAD	MAD
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	garantera	garantera	VB	VB.INF.AKT
+3	att	att	SN	SN
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	sitter	sitta	VB	VB.PRS.AKT
+6	fint	fin	AB	AB.POS
+7	i	i	PP	PP
+8	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+9	.	.	MAD	MAD
+
+1	http://img844.imageshack.us/img844/3776/aerostolar.jpg	http://img844.imageshack.us/img844/3776/aerostolar.jpg	NN	NN.AN
+
+1	Kompisen	kompis	NN	NN.UTR.SIN.DEF.NOM
+2	köpte	köpa	VB	VB.PRT.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	9-5	9-5	RG	RG.NOM
+5	2010	2010	RG	RG.NOM
+6	diesel	diesel	NN	NN.UTR.SIN.IND.NOM
+7	3	3	RG	RG.NOM
+8	år	år	NN	NN.NEU.PLU.IND.NOM
+9	gammal	gammal	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Gått	gå	VB	VB.SUP.AKT
+2	som	som	KN	KN
+3	långfärdstaxi	långfärdstaxi	NN	NN.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	48	48	RG	RG.NOM
+2	000	000	RG	RG.NOM
+3	mil	mil	NN	NN.UTR.PLU.IND.NOM
+4	.	.	MAD	MAD
+
+1	I	i	PP	PP
+2	Norrlands	Norrland	PM	PM.GEN
+3	inland	inland	NN	NN.NEU.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Inte	inte	AB	AB
+2	en	en	DT	DT.UTR.SIN.IND
+3	rostfläck	rostfläck	NN	NN.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Såg	se	VB	VB.PRT.AKT
+2	nästan	nästan	AB	AB
+3	ny	ny	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	ut	ut	AB	AB
+5	under	under	PP	PP
+6	.	.	MAD	MAD
+
+1	Volvo	Volvo	PM	PM.NOM
+2	240	240	RG	RG.NOM
+3	/	/	MID	MID
+4	740	740	RG	RG.NOM
+5	/	/	MID	MID
+6	940	940	RG	RG.NOM
+7	TDI	TDI	NN	NN.AN
+8	.	.	MAD	MAD
+
+1	Dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+2	går	gå	VB	VB.PRS.AKT
+3	som	som	KN	KN
+4	bara	bara	AB	AB
+5	fan	fan	IN	IN
+6	!	!	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	gissar	gissa	VB	VB.PRS.AKT
+3	på	på	PP	PP
+4	Lada	Lada	PM	PM.NOM
+5	Niva	Niva	PM	PM.NOM
+6	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+3	hund	hund	NN	NN.UTR.SIN.IND.NOM
+4	?	?	MAD	MAD
+
+1	Om	om	SN	SN
+2	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+3	har	ha	VB	VB.PRS.AKT
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	får	få	VB	VB.PRS.AKT
+6	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+7	Gratulera	gratulera	VB	VB.INF.AKT
+8	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	meddela	meddela	VB	VB.INF.AKT
+3	att	att	SN	SN
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	är	vara	VB	VB.PRS.AKT
+6	en	en	DT	DT.UTR.SIN.IND
+7	V70	V70	PM	PM.NOM
+8	som	som	HP	HP.-.-.-
+9	gäller	gälla	VB	VB.PRS.AKT
+10	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	sista	sista	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+4	haken	hake	NN	NN.UTR.SIN.DEF.NOM
+5	in	in	AB	AB
+6	i	i	PP	PP
+7	Svensson	Svensson	PM	PM.NOM
+8	världen	värld	NN	NN.UTR.SIN.DEF.NOM
+9	.	.	MAD	MAD
+
+1	http://www.konsumentverket.se/bilar/...rta-berakning/	http://www.konsumentverket.se/bilar/...rta-berakning/	NN	NN.AN
+
+1	Har	ha	VB	VB.PRS.AKT
+2	hört	höra	VB	VB.SUP.AKT
+3	V50	V50	PM	PM.NOM
+4	ska	skola	VB	VB.PRS.AKT
+5	krångla	krångla	VB	VB.INF.AKT
+6	som	som	KN	KN
+7	fan	fan	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Massa	massa	NN	NN.UTR.SIN.IND.NOM
+2	fel	fel	NN	NN.NEU.PLU.IND.NOM
+3	,	,	MID	MID
+4	småt	småt	AB	AB
+5	irriterande	irritera	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	skit	skit	NN	NN.UTR.SIN.IND.NOM
+7	fel	fel	NN	NN.NEU.SIN.IND.NOM
+8	och	och	KN	KN
+9	liknande	likna	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+10	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	undvika	undvika	VB	VB.INF.AKT
+3	den	den	DT	DT.UTR.SIN.DEF
+4	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+5	när	när	HA	HA
+6	marknaden	marknad	NN	NN.UTR.SIN.DEF.NOM
+7	är	vara	VB	VB.PRS.AKT
+8	så	så	AB	AB
+9	stor	stor	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	http://www.blocket.se/skaraborg/Saab....htm?ca=14&w=3	http://www.blocket.se/skaraborg/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	Hellre	gärna	AB	AB.KOM
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	.	.	MAD	MAD
+
+1	Allt	all	PN	PN.NEU.SIN.IND.SUB+OBJ
+2	förutom	förutom	PP	PP
+3	V50	V50	PM	PM.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	mest	mycket	AB	AB.SUV
+4	en	en	DT	DT.UTR.SIN.IND
+5	smak	smak	NN	NN.UTR.SIN.IND.NOM
+6	sak	sak	NN	NN.UTR.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Vi	vi	PN	PN.UTR.PLU.DEF.SUB
+2	kan	kunna	VB	VB.PRS.AKT
+3	inte	inte	AB	AB
+4	sitta	sitta	VB	VB.INF.AKT
+5	och	och	KN	KN
+6	berätta	berätta	VB	VB.INF.AKT
+7	vad	vad	HP	HP.NEU.SIN.IND
+8	för	för	PP	PP
+9	bil	bil	NN	NN.UTR.SIN.IND.NOM
+10	du	du	PN	PN.UTR.SIN.DEF.SUB
+11	ska	skola	VB	VB.PRS.AKT
+12	köpa	köpa	VB	VB.INF.AKT
+13	.	.	MAD	MAD
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	får	få	VB	VB.PRS.AKT
+3	känna	känna	VB	VB.INF.AKT
+4	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+5	fram	fram	PL	PL
+6	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	snabb	snabb	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	googling	googling	NN	NN.UTR.SIN.IND.NOM
+4	ger	ge	VB	VB.PRS.AKT
+5	många	många	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+6	trådar	tråd	NN	NN.UTR.PLU.IND.NOM
+7	på	på	PP	PP
+8	garaget	garage	NN	NN.NEU.SIN.DEF.NOM
+9	,	,	MID	MID
+10	zatzy	zatzy	NN	NN.UTR.SIN.IND.NOM
+11	etc.	etc.	AB	AB.AN
+
+1	Samt	samt	KN	KN
+2	artiklar	artikel	NN	NN.UTR.PLU.IND.NOM
+3	i	i	PP	PP
+4	olika	olik	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	motortidningar	motortidning	NN	NN.UTR.PLU.IND.NOM
+6	.	.	MAD	MAD
+
+1	Bl.a	Bl.a	NN	NN.AN
+
+1	http://www.aftonbladet.se/bil/article873561.ab	http://www.aftonbladet.se/bil/article873561.ab	RG	RG.NOM
+2	http://www.teknikensvarld.se/nyheter...-fel/index.xml	http://www.teknikensvarld.se/nyheter...-fel/index.xml	NN	NN.AN
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	gammal	gammal	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	Volvo	Volvo	PM	PM.NOM
+5	.	.	MAD	MAD
+
+1	Min	jag	PS	PS.UTR.SIN.DEF
+2	945:a	945:a	NN	NN.UTR.SIN.IND.NOM
+3	håller	hålla	VB	VB.PRS.AKT
+4	ganska	ganska	AB	AB
+5	bra	bra	AB	AB.POS
+6	.	.	MAD	MAD
+
+1	Svinar	Svinar	NN	NN.UTR.PLU.IND.NOM
+2	som	som	KN	KN
+3	f	f	PM	PM.NOM
+4	*	*	MID	MID
+5	n	n	PM	PM.NOM
+6	med	med	PP	PP
+7	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+8	.	.	MAD	MAD
+
+1	Sladdar	sladd	NN	NN.UTR.PLU.IND.NOM
+2	på	på	PP	PP
+3	varvstoppet	varvstopp	NN	NN.NEU.SIN.DEF.NOM
+4	hela	hel	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+5	tin	tin	NN	NN.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Hoppar	hoppa	VB	VB.PRS.AKT
+2	genom	genom	PP	PP
+3	snödrivor	snödriva	NN	NN.UTR.PLU.IND.NOM
+4	och	och	KN	KN
+5	plöjer	plöja	VB	VB.PRS.AKT
+6	över	över	PP	PP
+7	det	den	DT	DT.NEU.SIN.DEF
+8	mesta	mycken	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+9	.	.	MAD	MAD
+
+1	https://www.blocket.se/vastmanland/T....htm?ca=14&w=3	https://www.blocket.se/vastmanland/T....htm?ca=14&w=3	NN	NN.AN
+
+1	Tänker	tänka	VB	VB.PRS.AKT
+2	bryta	bryta	VB	VB.INF.AKT
+3	TS	TS	PM	PM.NOM
+4	vilja	vilja	VB	VB.INF.AKT
+5	direkt	direkt	AB	AB.POS
+6	.	.	MAD	MAD
+
+1	http://www.blocket.se/malmo/Ferrari_....htm?ca=14&w=3	http://www.blocket.se/malmo/Ferrari_....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/ystad/Ferrari_....htm?ca=14&w=3	http://www.blocket.se/ystad/Ferrari_....htm?ca=14&w=3	NN	NN.AN
+
+1	550	550	RG	RG.NOM
+2	maranello	maranello	NN	NN.UTR.PLU.IND.NOM
+3	är	vara	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	riktigt	riktig	AB	AB
+6	förtjust	förtjust	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	i	i	PP	PP
+8	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	sådan	sån	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	hade	ha	VB	VB.PRT.AKT
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	blivit	bli	VB	VB.SUP.AKT
+6	.	.	MAD	MAD
+
+1	När	när	HA	HA
+2	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+3	slutade	sluta	VB	VB.PRT.AKT
+4	på	på	PP	PP
+5	Volvo	Volvo	PM	PM.NOM
+6	i	i	PP	PP
+7	början	början	NN	NN.UTR.SIN.DEF.NOM
+8	av	av	PP	PP
+9	2015	2015	RG	RG.NOM
+10	var	vara	VB	VB.PRT.AKT
+11	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+12	räknat	räkna	PC	PC.PRF.NEU.SIN.IND.NOM
+13	på	på	PP	PP
+14	att	att	SN	SN
+15	hållbarheten	hållbarhet	NN	NN.UTR.SIN.DEF.NOM
+16	på	på	PP	PP
+17	en	en	DT	DT.UTR.SIN.IND
+18	XC60	XC60	PM	PM.NOM
+19	var	vara	VB	VB.PRT.AKT
+20	14	14	RG	RG.NOM
+21	år	år	NN	NN.NEU.PLU.IND.NOM
+22	innan	innan	SN	SN
+23	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+24	hade	ha	VB	VB.PRT.AKT
+25	gjort	göra	VB	VB.SUP.AKT
+26	sitt	sig	PS	PS.NEU.SIN.DEF
+27	och	och	KN	KN
+28	ansågs	anse	VB	VB.PRT.SFO
+29	förbrukad	förbruka	PC	PC.PRF.UTR.SIN.IND.NOM
+30	.	.	MAD	MAD
+
+1	Inget	ingen	DT	DT.NEU.SIN.IND
+2	franskt	fransk	JJ	JJ.POS.NEU.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	Japanskt	japansk	AB	AB.POS
+2	säger	säga	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	.	.	MAD	MAD
+
+1	Man	man	PN	PN.UTR.SIN.IND.SUB
+2	kanske	kanske	AB	AB
+3	vill	vilja	VB	VB.PRS.AKT
+4	åka	åka	VB	VB.INF.AKT
+5	skönt	skön	AB	AB.POS
+6	och	och	KN	KN
+7	bekvämt	bekväm	AB	AB.POS
+8	och	och	KN	KN
+9	inte	inte	AB	AB
+10	i	i	PP	PP
+11	nån	någon	DT	DT.UTR.SIN.IND
+12	plåtlåda	plåtlåda	NN	NN.UTR.SIN.IND.NOM
+13	,	,	MID	MID
+14	t.ex	t.ex	AB	AB.AN
+15	en	en	DT	DT.UTR.SIN.IND
+16	Lupo	Lupo	PM	PM.NOM
+17	TDI	TDI	PM	PM.NOM
+18	som	som	HP	HP.-.-.-
+19	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+20	kan	kunna	VB	VB.PRS.AKT
+21	tänka	tänka	VB	VB.INF.AKT
+22	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+23	ligger	ligga	VB	VB.PRS.AKT
+24	runt	runt	PP	PP
+25	0.3-0.4	0.3-0.4	RG	RG.NOM
+26	dl	dl	NN	NN.AN
+27	milen	mil	NN	NN.UTR.SIN.DEF.NOM
+28	.	.	MAD	MAD
+
+1	BMW	BMW	PM	PM.NOM
+2	520D	520D	RG	RG.NOM
+3	är	vara	VB	VB.PRS.AKT
+4	snål	snål	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	,	,	MID	MID
+6	och	och	KN	KN
+7	billig	billig	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	i	i	PP	PP
+9	skatt	skatt	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	https://www.blocket.se/kristianstad/....htm?ca=14&w=3	https://www.blocket.se/kristianstad/....htm?ca=14&w=3	NN	NN.AN
+
+1	150	150	RG	RG.NOM
+2	000kr	000kr	RG	RG.NOM
+3	tycker	tycka	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	får	få	VB	VB.PRS.AKT
+6	klassas	klassa	VB	VB.INF.SFO
+7	som	som	KN	KN
+8	ett	en	DT	DT.NEU.SIN.IND
+9	normalt	normal	JJ	JJ.POS.NEU.SIN.IND.NOM
+10	inköp	inköp	NN	NN.NEU.SIN.IND.NOM
+11	på	på	PP	PP
+12	en	en	DT	DT.UTR.SIN.IND
+13	bil	bil	NN	NN.UTR.SIN.IND.NOM
+14	idag	idag	AB	AB
+15	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	inte	inte	AB	AB
+4	dyrt	dyr	JJ	JJ.POS.NEU.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	inte	inte	AB	AB
+5	heller	heller	AB	AB
+6	billigt	billig	JJ	JJ.POS.NEU.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	finns	finna	VB	VB.PRS.SFO
+3	ju	ju	AB	AB
+4	3	3	RG	RG.NOM
+5	serie	serie	NN	NN.UTR.SIN.IND.NOM
+6	med	med	PP	PP
+7	.	.	MAD	MAD
+
+1	T.ex	T.ex	NN	NN.AN
+2	316D	316D	RG	RG.NOM
+3	,	,	MID	MID
+4	318D	318D	RG	RG.NOM
+5	,	,	MID	MID
+6	320D	320D	RG	RG.NOM
+7	.	.	MAD	MAD
+
+1	Lite	lite	AB	AB.POS
+2	beroende	bero	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+3	på	på	PP	PP
+4	vad	vad	HP	HP.NEU.SIN.IND
+5	man	man	PN	PN.UTR.SIN.IND.SUB
+6	vill	vilja	VB	VB.PRS.AKT
+7	ha	ha	VB	VB.INF.AKT
+8	för	för	PP	PP
+9	motor	motor	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Franska	fransk	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+2	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+3	skulle	skola	VB	VB.PRT.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	inte	inte	AB	AB
+6	kunna	kunna	VB	VB.INF.AKT
+7	pendla	pendla	VB	VB.INF.AKT
+8	med	med	PP	PP
+9	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	skulle	skola	VB	VB.PRT.AKT
+3	stå	stå	VB	VB.INF.AKT
+4	ut	ut	PL	PL
+5	ungefär	ungefär	AB	AB
+6	2	2	RG	RG.NOM
+7	dagar	dag	NN	NN.UTR.PLU.IND.NOM
+8	innan	innan	SN	SN
+9	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+10	troligtvis	troligtvis	AB	AB
+11	hade	ha	VB	VB.PRT.AKT
+12	bytt	byta	VB	VB.SUP.AKT
+13	bil	bil	NN	NN.UTR.SIN.IND.NOM
+14	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	har	ha	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	personligen	personligen	AB	AB
+5	lite	lite	AB	AB.POS
+6	mer	mer	AB	AB.KOM
+7	att	att	IE	IE
+8	lägga	lägga	VB	VB.INF.AKT
+9	till	till	PL	PL
+10	om	om	SN	SN
+11	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+12	ska	skola	VB	VB.PRS.AKT
+13	spendera	spendera	VB	VB.INF.AKT
+14	så	så	AB	AB
+15	mycket	mycket	JJ	JJ.POS.NEU.SIN.IND.NOM
+16	tid	tid	NN	NN.UTR.SIN.IND.NOM
+17	med	med	PP	PP
+18	en	en	DT	DT.UTR.SIN.IND
+19	bil	bil	NN	NN.UTR.SIN.IND.NOM
+20	som	som	KN	KN
+21	att	att	IE	IE
+22	pendla	pendla	VB	VB.INF.AKT
+23	10	10	RG	RG.NOM
+24	mil	mil	NN	NN.UTR.PLU.IND.NOM
+25	om	om	PP	PP
+26	dagen	dag	NN	NN.UTR.SIN.DEF.NOM
+27	.	.	MAD	MAD
+
+1	Komfort	komfort	NN	NN.UTR.SIN.IND.NOM
+2	,	,	MID	MID
+3	känsla	känsla	NN	NN.UTR.SIN.IND.NOM
+4	,	,	MID	MID
+5	upplevelse	upplevelse	NN	NN.UTR.SIN.IND.NOM
+6	,	,	MID	MID
+7	ljudssystem	ljudssystem	NN	NN.NEU.SIN.IND.NOM
+8	,	,	MID	MID
+9	prestanda	prestanda	NN	NN.UTR.PLU.IND.NOM
+10	etc.	etc.	AB	AB.AN
+
+1	Inte	inte	AB	AB
+2	speciellt	speciell	AB	AB.POS
+3	snål	snål	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	?	?	MAD	MAD
+
+1	Skämtar	skämta	VB	VB.PRS.AKT
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	?	?	MAD	MAD
+
+1	0.45L	0.45L	RG	RG.NOM
+2	/	/	MID	MID
+3	milen	mil	NN	NN.UTR.SIN.DEF.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	daterad	datera	PC	PC.PRF.UTR.SIN.IND.NOM
+7	till	till	PP	PP
+8	enligt	enligt	PP	PP
+9	denna	denna	DT	DT.UTR.SIN.DEF
+10	källa	källa	NN	NN.UTR.SIN.IND.NOM
+11	:	:	MAD	MAD
+
+1	http://www.mestmotor.se/automotorspo...-i-co2-utslapp	http://www.mestmotor.se/automotorspo...-i-co2-utslapp	NN	NN.UTR.SIN.IND.NOM
+
+1	Med	med	PP	PP
+2	den	den	DT	DT.UTR.SIN.DEF
+3	storleken	storlek	NN	NN.UTR.SIN.DEF.NOM
+4	,	,	MID	MID
+5	komforten	komfort	NN	NN.UTR.SIN.DEF.NOM
+6	,	,	MID	MID
+7	körglädje	körglädje	NN	NN.UTR.SIN.IND.NOM
+8	(	(	PAD	PAD
+9	i	i	PP	PP
+10	jämfört	jämfört	AB	AB
+11	med	med	PP	PP
+12	vissa	viss	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+13	andra	andra	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+14	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+15	)	)	PAD	PAD
+16	etc.	etc.	AB	AB.AN
+
+1	Så	så	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+4	högt	hög	AB	AB.POS
+5	upp	upp	AB	AB
+6	på	på	PP	PP
+7	listan	lista	NN	NN.UTR.SIN.DEF.NOM
+8	.	.	MAD	MAD
+
+1	Peugeot	Peugeot	PM	PM.NOM
+2	307	307	RG	RG.NOM
+3	som	som	HP	HP.-.-.-
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	nämnde	nämna	VB	VB.PRT.AKT
+6	ligger	ligga	VB	VB.PRS.AKT
+7	på	på	PP	PP
+8	0.54L	0.54L	RG	RG.NOM
+9	milen	mil	NN	NN.UTR.SIN.DEF.NOM
+10	.	.	MAD	MAD
+
+1	http://beg.vibilagare.se/test/peugeot/307/762	http://beg.vibilagare.se/test/peugeot/307/762	NN	NN.AN
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	brukar	bruka	VB	VB.PRS.AKT
+3	hålla	hålla	VB	VB.INF.AKT
+4	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+5	så	så	AB	AB
+6	långt	lång	AB	AB.POS
+7	ifrån	ifrån	PP	PP
+8	franska	fransk	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+9	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+10	som	som	KN	KN
+11	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	tumregel	tumregel	NN	NN.UTR.SIN.IND.NOM
+4	och	och	KN	KN
+5	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+6	kommer	komma	VB	VB.PRS.AKT
+7	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+8	inte	inte	AB	AB
+9	tumma	tumma	VB	VB.INF.AKT
+10	på	på	PL	PL
+11	under	under	PP	PP
+12	min	jag	PS	PS.UTR.SIN.DEF
+13	livstid	livstid	NN	NN.UTR.SIN.IND.NOM
+14	.	.	MAD	MAD
+
+1	Kamremsbyte	kamremsbyte	NN	NN.NEU.SIN.IND.NOM
+2	kostar	kosta	VB	VB.PRS.AKT
+3	ingenting	ingenting	PN	PN.NEU.SIN.IND.SUB+OBJ
+4	.	.	MAD	MAD
+
+1	För	för	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	finns	finna	VB	VB.PRS.SFO
+4	ingen	ingen	PN	PN.UTR.SIN.IND.SUB+OBJ
+5	.	.	MAD	MAD
+
+1	Att	att	SN	SN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	dåliga	dålig	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	ljudsystem	ljudsystem	NN	NN.NEU.PLU.IND.NOM
+6	i	i	PP	PP
+7	franska	fransk	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+8	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+9	är	vara	VB	VB.PRS.AKT
+10	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	har	ha	VB	VB.PRS.AKT
+3	aldrig	aldrig	AB	AB
+4	ägt	äga	VB	VB.SUP.AKT
+5	nån	någon	PN	PN.UTR.SIN.IND.SUB+OBJ
+6	och	och	KN	KN
+7	kommer	komma	VB	VB.PRS.AKT
+8	aldrig	aldrig	AB	AB
+9	göra	göra	VB	VB.INF.AKT
+10	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	vägljudet	vägljud	NN	NN.NEU.SIN.DEF.NOM
+3	har	ha	VB	VB.PRS.AKT
+4	överröstat	överrösta	VB	VB.SUP.AKT
+5	radion	radio	NN	NN.UTR.SIN.DEF.NOM
+6	i	i	PP	PP
+7	de	en	DT	DT.UTR+NEU.PLU.DEF
+8	modeller	modell	NN	NN.UTR.PLU.IND.NOM
+9	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+10	tyvärr	tyvärr	AB	AB
+11	åkt	åka	VB	VB.SUP.AKT
+12	i	i	PP	PP
+13	.	.	MAD	MAD
+
+1	Prestanda	prestanda	NN	NN.UTR.PLU.IND.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	så	så	AB	AB
+4	mycket	mycket	AB	AB.POS
+5	mer	mer	AB	AB.KOM
+6	än	än	KN	KN
+7	0-150km	0-150km	RG	RG.NOM
+8	/	/	MID	MID
+9	h	h	NN	NN.AN
+10	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	finns	finna	VB	VB.PRS.SFO
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	fina	fin	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	utvecklingsmöjligheter	utvecklingsmöjlighet	NN	NN.UTR.PLU.IND.NOM
+6	på	på	PP	PP
+7	BMWn	BMWn	PM	PM.NOM
+8	.	.	MAD	MAD
+
+1	http://www.gdmperformance.se/280-steg-1-diesel-bmw-f10	http://www.gdmperformance.se/280-steg-1-diesel-bmw-f10	NN	NN.UTR.SIN.IND.NOM
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	optimering	optimering	NN	NN.UTR.SIN.IND.NOM
+3	kan	kunna	VB	VB.PRS.AKT
+4	säkert	säker	AB	AB.POS
+5	minska	minska	VB	VB.INF.AKT
+6	bränsleförbrukningen	bränsleförbrukning	NN	NN.UTR.SIN.DEF.NOM
+7	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+8	med	med	PP	PP
+9	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+3	köper	köpa	VB	VB.PRS.AKT
+4	hellre	hellre	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Bättre	bra	AB	AB.KOM
+2	köpa	köpa	VB	VB.INF.AKT
+3	begagnad	begagna	PC	PC.PRF.UTR.SIN.IND.NOM
+4	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+5	än	än	KN	KN
+6	ny	ny	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	kvantitet	kvantitet	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Min	jag	PS	PS.UTR.SIN.DEF
+2	preferenser	preferens	NN	NN.UTR.PLU.IND.NOM
+3	på	på	PP	PP
+4	en	en	DT	DT.UTR.SIN.IND
+5	pendlar	pendla	VB	VB.PRS.AKT
+6	bil	bil	NN	NN.UTR.SIN.IND.NOM
+7	är	vara	VB	VB.PRS.AKT
+8	:	:	MID	MID
+9	Tyst	tyst	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Skönt	skön	JJ	JJ.POS.NEU.SIN.IND.NOM
+2	.	.	MAD	MAD
+
+1	Bekvämt	bekväm	AB	AB.POS
+2	.	.	MAD	MAD
+
+1	Körglädje	körglädje	NN	NN.UTR.SIN.IND.NOM
+2	.	.	MAD	MAD
+
+1	Prestanda	prestanda	NN	NN.UTR.PLU.IND.NOM
+2	/	/	MID	MID
+3	effekt	effekt	NN	NN.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Ljudsystem	ljudsystem	NN	NN.NEU.SIN.IND.NOM
+2	.	.	MAD	MAD
+
+1	Bränsleförbrukning	bränsleförbrukning	NN	NN.UTR.SIN.IND.NOM
+2	som	som	HP	HP.-.-.-
+3	inte	inte	AB	AB
+4	är	vara	VB	VB.PRS.AKT
+5	åt	åt	PP	PP
+6	helvete	helvete	NN	NN.NEU.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Dvs	dvs	AB	AB.AN
+2	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	vill	vilja	VB	VB.PRS.AKT
+3	kunna	kunna	VB	VB.INF.AKT
+4	åka	åka	VB	VB.INF.AKT
+5	bekvämt	bekväm	AB	AB.POS
+6	,	,	MID	MID
+7	tyst	tyst	AB	AB.POS
+8	och	och	KN	KN
+9	lugnt	lugn	AB	AB.POS
+10	hem	hem	AB	AB
+11	efter	efter	PP	PP
+12	en	en	DT	DT.UTR.SIN.IND
+13	dag	dag	NN	NN.UTR.SIN.IND.NOM
+14	på	på	PP	PP
+15	jobbet	jobb	NN	NN.NEU.SIN.DEF.NOM
+16	.	.	MAD	MAD
+
+1	Bara	bara	AB	AB
+2	glida	glida	VB	VB.INF.AKT
+3	hemåt	hemåt	PL	PL
+4	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	den	den	DT	DT.UTR.SIN.DEF
+3	andra	andra	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+4	dagen	dag	NN	NN.UTR.SIN.DEF.NOM
+5	kanske	kanske	AB	AB
+6	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+7	vill	vilja	VB	VB.PRS.AKT
+8	köra	köra	VB	VB.INF.AKT
+9	lite	lite	AB	AB.POS
+10	mer	mer	AB	AB.KOM
+11	aktivt	aktiv	AB	AB.POS
+12	hem	hem	AB	AB
+13	och	och	KN	KN
+14	kunna	kunna	VB	VB.INF.AKT
+15	lyssna	lyssna	VB	VB.INF.AKT
+16	på	på	PP	PP
+17	min	jag	PS	PS.UTR.SIN.DEF
+18	favorit	favorit	JJ	JJ.POS.UTR.SIN.IND.NOM
+19	musik	musik	NN	NN.UTR.SIN.IND.NOM
+20	efter	efter	PP	PP
+21	att	att	SN	SN
+22	man	man	PN	PN.UTR.SIN.IND.SUB
+23	haft	ha	VB	VB.SUP.AKT
+24	en	en	DT	DT.UTR.SIN.IND
+25	riktigt	riktig	AB	AB
+26	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+27	dag	dag	NN	NN.UTR.SIN.IND.NOM
+28	på	på	PP	PP
+29	jobbet	jobb	NN	NN.NEU.SIN.DEF.NOM
+30	.	.	MAD	MAD
+
+1	Att	att	IE	IE
+2	åka	åka	VB	VB.INF.AKT
+3	så	så	AB	AB
+4	billigt	billig	AB	AB.POS
+5	som	som	KN	KN
+6	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+7	från	från	PP	PP
+8	A	A	NN	NN.NEU.SIN.IND.NOM
+9	till	till	PP	PP
+10	B	B	NN	NN.NEU.SIN.IND.NOM
+11	är	vara	VB	VB.PRS.AKT
+12	inte	inte	AB	AB
+13	min	jag	PS	PS.UTR.SIN.DEF
+14	grej	grej	NN	NN.UTR.SIN.IND.NOM
+15	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	betalar	betala	VB	VB.PRS.AKT
+3	gärna	gärna	AB	AB.POS
+4	extra	extra	AB	AB
+5	för	för	PP	PP
+6	att	att	IE	IE
+7	få	få	VB	VB.INF.AKT
+8	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+9	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+10	vill	vilja	VB	VB.PRS.AKT
+11	ha	ha	VB	VB.INF.AKT
+12	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	tur	tur	NN	NN.UTR.SIN.IND.NOM
+3	till	till	PP	PP
+4	Norge	Norge	PM	PM.NOM
+5	eller	eller	KN	KN
+6	Tyskland	Tyskland	PM	PM.NOM
+7	för	för	PP	PP
+8	lite	lite	AB	AB.POS
+9	inreggning	inreggning	NN	NN.UTR.SIN.IND.NOM
+10	och	och	KN	KN
+11	sen	sen	AB	AB
+12	importera	importera	VB	VB.INF.AKT
+13	tillbaka	tillbaka	PL	PL
+14	så	så	AB	AB
+15	får	få	VB	VB.PRS.AKT
+16	du	du	PN	PN.UTR.SIN.DEF.SUB
+17	rulla	rulla	VB	VB.INF.AKT
+18	hur	hur	HA	HA
+19	mycket	mycket	AB	AB.POS
+20	du	du	PN	PN.UTR.SIN.DEF.SUB
+21	vill	vilja	VB	VB.PRS.AKT
+22	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	de	en	DT	DT.UTR+NEU.PLU.DEF
+3	flesta	mången	JJ	JJ.SUV.UTR+NEU.PLU.DEF.NOM
+4	9-4X	9-4X	RG	RG.NOM
+5	som	som	HP	HP.-.-.-
+6	står	stå	VB	VB.PRS.AKT
+7	där	där	AB	AB
+8	får	få	VB	VB.PRS.AKT
+9	köras	köra	VB	VB.INF.SFO
+10	i	i	PP	PP
+11	Sverige	Sverige	PM	PM.NOM
+12	.	.	MAD	MAD
+
+1	Måste	måste	VB	VB.PRS.AKT
+2	bara	bara	AB	AB
+3	lösas	lösa	VB	VB.INF.SFO
+4	ut	ut	PL	PL
+5	ur	ur	PP	PP
+6	tullen	tull	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	hittat	hitta	VB	VB.SUP.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	bil	bil	NN	NN.UTR.SIN.IND.NOM
+5	i	i	PP	PP
+6	Tyskland	Tyskland	PM	PM.NOM
+7	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+8	är	vara	VB	VB.PRS.AKT
+9	intresserad	intressera	PC	PC.PRF.UTR.SIN.IND.NOM
+10	av	av	PP	PP
+11	.	.	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	kostar	kosta	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	utöver	utöver	PP	PP
+5	köpet	köp	NN	NN.NEU.SIN.DEF.NOM
+6	att	att	IE	IE
+7	få	få	VB	VB.INF.AKT
+8	hem	hem	PL	PL
+9	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+10	?	?	MAD	MAD
+
+1	Precis	precis	AB	AB
+2	varenda	varenda	DT	DT.UTR+NEU.SIN.IND
+3	kostnad	kostnad	NN	NN.UTR.SIN.IND.NOM
+4	,	,	MID	MID
+5	förutom	förutom	PP	PP
+6	bensin	bensin	NN	NN.UTR.SIN.IND.NOM
+7	då	då	AB	AB
+8	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	ska	skola	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	räkna	räkna	VB	VB.INF.AKT
+5	på	på	PP	PP
+6	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Räcker	räcka	VB	VB.PRS.AKT
+2	10	10	RG	RG.NOM
+3	000	000	RG	RG.NOM
+4	?	?	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	går	gå	VB	VB.PRS.AKT
+3	Mclaren	Mclaren	PM	PM.NOM
+4	MP4-12C	MP4-12C	RG	RG.NOM
+5	loss	loss	AB	AB
+6	på	på	PP	PP
+7	,	,	MID	MID
+8	om	om	SN	SN
+9	man	man	PN	PN.UTR.SIN.IND.SUB
+10	ens	ens	AB	AB
+11	kan	kunna	VB	VB.PRS.AKT
+12	köpa	köpa	VB	VB.INF.AKT
+13	en	man	PN	PN.UTR.SIN.IND.SUB+OBJ
+14	i	i	PP	PP
+15	Sverige	Sverige	PM	PM.NOM
+16	?	?	MAD	MAD
+
+1	I	i	PP	PP
+2	vilket	vilket	HD	HD.NEU.SIN.IND
+3	fall	fall	NN	NN.NEU.SIN.IND.NOM
+4	hade	ha	VB	VB.PRT.AKT
+5	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+6	satsat	satsa	VB	VB.SUP.AKT
+7	på	på	PP	PP
+8	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+9	om	om	SN	SN
+10	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+11	hade	ha	VB	VB.PRT.AKT
+12	pengarna	peng	NN	NN.UTR.PLU.DEF.NOM
+13	.	.	MAD	MAD
+
+1	Om	om	SN	SN
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	kan	kunna	VB	VB.PRS.AKT
+4	skruva	skruva	VB	VB.INF.AKT
+5	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	så	så	AB	AB
+7	kan	kunna	VB	VB.PRS.AKT
+8	man	man	PN	PN.UTR.SIN.IND.SUB
+9	göra	göra	VB	VB.INF.AKT
+10	fynd	fynd	NN	NN.NEU.PLU.IND.NOM
+11	.	.	MAD	MAD
+
+1	Köpte	köpa	VB	VB.PRT.AKT
+2	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	en	en	DT	DT.UTR.SIN.IND
+4	VW	VW	PM	PM.NOM
+5	Vento	Vento	PM	PM.NOM
+6	97a	97a	RG	RG.NOM
+7	i	i	PP	PP
+8	höstas	i höstas:7	NN	NN.-.-.-.-
+9	där	där	HA	HA
+10	gubben	gubbe	NN	NN.UTR.SIN.DEF.NOM
+11	ville	vilja	VB	VB.PRT.AKT
+12	skrota	skrota	VB	VB.INF.AKT
+13	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+14	för	för	PP	PP
+15	en	en	DT	DT.UTR.SIN.IND
+16	2a	2a	RG	RG.NOM
+17	på	på	PP	PP
+18	spindelleden	spindelled	NN	NN.UTR.SIN.DEF.NOM
+19	.	.	MAD	MAD
+
+1	Bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+2	hade	ha	VB	VB.PRT.AKT
+3	endast	endast	AB	AB
+4	gått	gå	VB	VB.SUP.AKT
+5	15	15	RG	RG.NOM
+6	000	000	RG	RG.NOM
+7	mil	mil	NN	NN.UTR.PLU.IND.NOM
+8	och	och	KN	KN
+9	relativt	relativ	AB	AB.POS
+10	nybytt	nybytt	PC	PC.PRF.UTR.SIN.IND.NOM
+11	kamrem	kamrem	NN	NN.UTR.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Köpte	köpa	VB	VB.PRT.AKT
+2	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+3	för	för	PP	PP
+4	ett	en	DT	DT.NEU.SIN.IND
+5	par	par	NN	NN.NEU.SIN.IND.NOM
+6	tusen	tusen	RG	RG.NOM
+7	,	,	MID	MID
+8	bytte	byta	VB	VB.PRT.AKT
+9	spindelleden	spindelled	NN	NN.UTR.SIN.DEF.NOM
+10	som	som	HP	HP.-.-.-
+11	finns	finna	VB	VB.PRS.SFO
+12	på	på	PP	PP
+13	biltema	biltema	NN	NN.UTR.SIN.IND.NOM
+14	för	för	PP	PP
+15	skit	skit	NN	NN.UTR.SIN.IND.NOM
+16	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+17	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	rulla	rulla	VB	VB.IMP.AKT
+3	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+4	igenom	igenom	PL	PL
+5	med	med	PP	PP
+6	blankt	blank	JJ	JJ.POS.NEU.SIN.IND.NOM
+7	papper	papper	NN	NN.NEU.SIN.IND.NOM
+8	och	och	KN	KN
+9	har	ha	VB	VB.PRS.AKT
+10	funkat	funka	VB	VB.SUP.AKT
+11	kalas	kalas	NN	NN.NEU.SIN.IND.NOM
+12	sedan	sedan	PP	PP
+13	dess	sedan dess:12	AB	AB
+14	.	.	MAD	MAD
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	Vector	Vector	PM	PM.NOM
+4	.	.	MAD	MAD
+
+1	http://www.blocket.se/malmo/Saab_9_3....htm?ca=14&w=3	http://www.blocket.se/malmo/Saab_9_3....htm?ca=14&w=3	NN	NN.AN
+
+1	Mera	Mera	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	Bl.a	Bl.a	NN	NN.AN
+2	bättre	bra	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+3	stolar	stol	NN	NN.UTR.PLU.IND.NOM
+4	/	/	MID	MID
+5	inredning	inredning	NN	NN.UTR.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Ljudsystem	ljudsystem	NN	NN.NEU.SIN.IND.NOM
+2	.	.	MAD	MAD
+
+1	Annat	annan	JJ	JJ.POS.NEU.SIN.IND.NOM
+2	kjolpaket	kjolpaket	NN	NN.NEU.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	Andra	andra	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+2	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+3	.	.	MAD	MAD
+
+1	Mera	Mera	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	bil	bil	NN	NN.UTR.SIN.IND.NOM
+3	helt	hel	AB	AB.POS
+4	enkelt	enkel	AB	AB.POS
+5	.	.	MAD	MAD
+
+1	Sök	söka	VB	VB.IMP.AKT
+2	på	på	PL	PL
+3	upp	upp	AB	AB
+4	till	till	PP	PP
+5	60	60	RG	RG.NOM
+6	000kr	000kr	RG	RG.NOM
+7	på	på	PP	PP
+8	blocket	block	NN	NN.NEU.SIN.DEF.NOM
+9	.	.	MAD	MAD
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	bör	böra	VB	VB.PRS.AKT
+3	kunna	kunna	VB	VB.INF.AKT
+4	pruta	pruta	VB	VB.INF.AKT
+5	rätt	rätt	AB	AB
+6	rejält	rejäl	AB	AB.POS
+7	på	på	PP	PP
+8	Saabarna	Saabarna	PM	PM.NOM
+9	.	.	MAD	MAD
+
+1	Mazda	Mazda	PM	PM.NOM
+2	323F	323F	RG	RG.NOM
+3	90-94	90-94	RG	RG.NOM
+4	1	1	RG	RG.NOM
+5	,	,	MID	MID
+6	8i	8i	RG	RG.NOM
+7	?	?	MAD	MAD
+
+1	Allt	all	DT	DT.NEU.SIN.IND+DEF
+2	annat	annan	PN	PN.NEU.SIN.IND.SUB+OBJ
+3	än	än	KN	KN
+4	en	en	DT	DT.UTR.SIN.IND
+5	fin	fin	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	cab	cab	NN	NN.UTR.SIN.IND.NOM
+7	är	vara	VB	VB.PRS.AKT
+8	idioti	idioti	NN	NN.UTR.SIN.IND.NOM
+9	att	att	IE	IE
+10	importera	importera	VB	VB.INF.AKT
+11	enligt	enligt	PP	PP
+12	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+13	från	från	PP	PP
+14	England	England	PM	PM.NOM
+15	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	titta	titta	VB	VB.INF.AKT
+3	i	i	PP	PP
+4	första	i första hand:3	RO	RO.NOM
+5	hand	hand	NN	NN.UTR.SIN.IND.NOM
+6	på	på	PP	PP
+7	Tyskland	Tyskland	PM	PM.NOM
+8	,	,	MID	MID
+9	även	även	AB	AB
+10	på	på	PP	PP
+11	de	en	DT	DT.UTR+NEU.PLU.DEF
+12	äldre	gammal	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+13	cabbarna	cabb	NN	NN.UTR.PLU.DEF.NOM
+14	!	!	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	9000	9000	RG	RG.NOM
+3	Aero	Aero	PM	PM.NOM
+4	alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+5	dagar	dag	NN	NN.UTR.PLU.IND.NOM
+6	i	i	PP	PP
+7	veckan	vecka	NN	NN.UTR.SIN.DEF.NOM
+8	.	.	MAD	MAD
+
+1	Inte	inte	AB	AB
+2	billig	billig	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	att	att	IE	IE
+4	äga	äga	VB	VB.INF.AKT
+5	dock	dock	AB	AB
+6	.	.	MAD	MAD
+
+1	http://www.blocket.se/kalmar/Saab_90....htm?ca=14&w=3	http://www.blocket.se/kalmar/Saab_90....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	NN	NN.AN
+
+1	-	-	MID	MID
+
+1	Kompisen	kompis	NN	NN.UTR.SIN.DEF.NOM
+2	bytte	byta	VB	VB.PRT.AKT
+3	in	in	PL	PL
+4	sin	sig	PS	PS.UTR.SIN.DEF
+5	9-5	9-5	RG	RG.NOM
+6	aero	aero	NN	NN.AN
+7	05a	05a	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Gått	gå	VB	VB.SUP.AKT
+2	23	23	RG	RG.NOM
+3	000	000	RG	RG.NOM
+4	.	.	MAD	MAD
+
+1	Han	han	PN	PN.UTR.SIN.DEF.SUB
+2	fick	få	VB	VB.PRT.AKT
+3	18	18	RG	RG.NOM
+4	000:-	000:-	RG	RG.SMS
+5	av	av	PP	PP
+6	bilfirman	bilfirma	NN	NN.UTR.SIN.DEF.NOM
+7	för	för	PP	PP
+8	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+9	i	i	PP	PP
+10	inbyte	inbyte	NN	NN.NEU.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	hamna	hamna	VB	VB.PRS.AKT
+3	sedan	sedan	AB	AB
+4	på	på	PP	PP
+5	blocket	block	NN	NN.NEU.SIN.DEF.NOM
+6	för	för	PP	PP
+7	40	40	RG	RG.NOM
+8	och	och	KN	KN
+9	såldes	sälja	VB	VB.PRT.SFO
+10	för	för	PP	PP
+11	35	35	RG	RG.NOM
+12	.	.	MAD	MAD
+
+1	Firman	firma	NN	NN.UTR.SIN.DEF.NOM
+2	hade	ha	VB	VB.PRT.AKT
+3	av	av	PP	PP
+4	bilderna	bild	NN	NN.UTR.PLU.DEF.NOM
+5	att	att	IE	IE
+6	döma	döma	VB	VB.INF.AKT
+7	,	,	MID	MID
+8	tvättat	tvätta	VB	VB.SUP.AKT
+9	av	av	PL	PL
+10	och	och	KN	KN
+11	städat	städa	VB	VB.SUP.AKT
+12	ur	ur	PP	PP
+13	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+14	och	och	KN	KN
+15	sen	sen	AB	AB
+16	ut	ut	PL	PL
+17	med	med	PP	PP
+18	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+19	på	på	PP	PP
+20	blocket	block	NN	NN.NEU.SIN.DEF.NOM
+21	.	.	MAD	MAD
+
+1	Låter	låta	VB	VB.PRS.AKT
+2	som	som	KN	KN
+3	den	den	DT	DT.UTR.SIN.DEF
+4	här	här	AB	AB
+5	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+6	är	vara	VB	VB.PRS.AKT
+7	spot	spot	UO	UO
+8	on	on	UO	UO
+9	.	.	MAD	MAD
+
+1	Perfekt	perfekt	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	bil	bil	NN	NN.UTR.SIN.IND.NOM
+3	för	för	PP	PP
+4	en	en	DT	DT.UTR.SIN.IND
+5	student	student	NN	NN.UTR.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	http://www.blocket.se/helsingborg/Ni....htm?ca=14&w=3	http://www.blocket.se/helsingborg/Ni....htm?ca=14&w=3	NN	NN.AN
+
+1	Hårt	hård	AB	AB.POS
+2	körda	köra	PC	PC.PRF.UTR+NEU.PLU.IND+DEF.NOM
+3	,	,	MID	MID
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	är	vara	VB	VB.PRS.AKT
+6	alal	alal	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+7	gti	gti	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+8	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+9	,	,	MID	MID
+10	nästan	nästan	AB	AB
+11	.	.	MAD	MAD
+
+1	Dyr	dyr	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	skatt	skatt	NN	NN.UTR.SIN.IND.NOM
+3	/	/	MID	MID
+4	försäkring	försäkring	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	tycker	tycka	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	ska	skola	VB	VB.PRS.AKT
+6	skaffa	skaffa	VB	VB.INF.AKT
+7	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+8	nån	någon	DT	DT.UTR.SIN.IND
+9	mera	mera	AB	AB.KOM
+10	"	"	PAD	PAD
+11	basic	basic	UO	UO
+12	"	"	PAD	PAD
+13	bil	bil	NN	NN.UTR.SIN.IND.NOM
+14	ibörjan	ibörjan	NN	NN.UTR.SIN.DEF.NOM
+15	och	och	KN	KN
+16	inte	inte	AB	AB
+17	köra	köra	VB	VB.INF.AKT
+18	på	på	PP	PP
+19	gti	gti	NN	NN.UTR.SIN.IND.NOM
+20	direkt	direkt	AB	AB.POS
+21	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	golf	golf	NN	NN.UTR.SIN.IND.NOM
+3	2	2	RG	RG.NOM
+4	1	1	RG	RG.NOM
+5	,	,	MID	MID
+6	8i	8i	NN	NN.AN
+7	90-91	90-91	RG	RG.NOM
+8	?	?	MAD	MAD
+
+1	90	90	RG	RG.NOM
+2	hk	hk	NN	NN.AN
+3	,	,	MID	MID
+4	de	en	DT	DT.UTR+NEU.PLU.DEF
+5	snygga	snygg	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+6	kofångarna	kofångare	NN	NN.UTR.PLU.DEF.NOM
+7	och	och	KN	KN
+8	inte	inte	AB	AB
+9	jätte	jätte	AB	AB
+10	dyra	dyr	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+11	.	.	MAD	MAD
+
+1	Exempel	exempel	NN	NN.NEU.SIN.IND.NOM
+2	:	:	MID	MID
+3	http://www.blocket.se/vi/16277845.htm?ca=14_s	http://www.blocket.se/vi/16277845.htm?ca=14_s	RG	RG.NOM
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	glömde	glömma	VB	VB.PRT.AKT
+3	smidda	smida	PC	PC.PRF.UTR+NEU.PLU.IND+DEF.NOM
+4	stakar	stake	NN	NN.UTR.PLU.IND.NOM
+5	...	...	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	saaben	saab	NN	NN.UTR.SIN.DEF.NOM
+3	en	en	DT	DT.UTR.SIN.IND
+4	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+5	?	?	MAD	MAD
+
+1	Laga	laga	VB	VB.INF.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	.	.	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	inte	inte	AB	AB
+4	.	.	MAD	MAD
+
+1	Sälj	sälja	VB	VB.IMP.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	eller	eller	KN	KN
+4	skrota	skrota	VB	VB.IMP.AKT
+5	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	.	.	MAD	MAD
+
+1	Vid	vid	PP	PP
+2	köp	köp	NN	NN.NEU.SIN.IND.NOM
+3	av	av	PP	PP
+4	en	en	DT	DT.UTR.SIN.IND
+5	ny	ny	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	bil	bil	NN	NN.UTR.SIN.IND.NOM
+7	skulle	skola	VB	VB.PRT.AKT
+8	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+9	ta	ta	VB	VB.INF.AKT
+10	och	och	KN	KN
+11	kolla	kolla	VB	VB.INF.AKT
+12	på	på	PP	PP
+13	en	en	DT	DT.UTR.SIN.IND
+14	9-5	9-5	RG	RG.NOM
+15	.	.	MAD	MAD
+
+1	Års	år	NN	NN.NEU.SIN.IND.GEN
+2	modell	modell	NN	NN.UTR.SIN.IND.NOM
+3	1999-	1999-	RG	RG.NOM
+4	.	.	MAD	MAD
+
+1	Exempel	exempel	NN	NN.NEU.SIN.IND.NOM
+2	:	:	MAD	MAD
+
+1	http://www.blocket.se/vi/16474839.htm?ca=14_s	http://www.blocket.se/vi/16474839.htm?ca=14_s	RG	RG.NOM
+
+1	Förmodligen	förmodligen	AB	AB
+2	en	en	DT	DT.UTR.SIN.IND
+3	"	"	PAD	PAD
+4	Sport	Sport	UO	UO
+5	edition	edition	UO	UO
+6	"	"	PAD	PAD
+7	eller	eller	KN	KN
+8	Aero	Aero	PM	PM.NOM
+9	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	tur	tur	NN	NN.UTR.SIN.IND.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+6	en	en	DT	DT.UTR.SIN.IND
+7	aero	aero	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Då	då	AB	AB
+2	har	ha	VB	VB.PRS.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	skin	skin	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	inredning	inredning	NN	NN.UTR.SIN.IND.NOM
+6	osv	osv	AB	AB.AN
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	tog	ta	VB	VB.PRT.AKT
+3	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+4	bara	bara	AB	AB
+5	som	som	KN	KN
+6	exempel	exempel	NN	NN.NEU.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Exempel	exempel	NN	NN.NEU.SIN.IND.NOM
+2	igen	igen	AB	AB
+3	:	:	MID	MID
+4	http://www.blocket.se/vi/16263253.htm?ca=14_s	http://www.blocket.se/vi/16263253.htm?ca=14_s	RG	RG.NOM
+
+1	9-3	9-3	RG	RG.NOM
+2	TTid	TTid	PM	PM.NOM
+3	?	?	MAD	MAD
+
+1	https://www.blocket.se/annons/skane/...180hk/92996703	https://www.blocket.se/annons/skane/...180hk/92996703	RG	RG.NOM
+
+1	https://www.blocket.se/annons/kronob...combi/92689231	https://www.blocket.se/annons/kronob...combi/92689231	RG	RG.NOM
+
+1	https://www.blocket.se/annons/osterg...180hk/92154508	https://www.blocket.se/annons/osterg...180hk/92154508	RG	RG.NOM
+
+1	Volvos	Volvo	PM	PM.GEN
+2	billigaste	billig	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+3	modell	modell	NN	NN.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Märks	märka	VB	VB.PRS.SFO
+2	att	att	SN	SN
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	är	vara	VB	VB.PRS.AKT
+5	Ford	Ford	PM	PM.NOM
+6	.	.	MAD	MAD
+
+1	Mycket	Mycket	JJ	JJ.POS.NEU.SIN.IND.NOM
+2	fel	fel	NN	NN.NEU.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	Skit	skita	VB	VB.IMP.AKT
+2	bil	bil	NN	NN.UTR.SIN.IND.NOM
+3	rent	ren	AB	AB.POS
+4	ut	ut	AB	AB
+5	sagt	sagd	PC	PC.PRF.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	intresserade	intressera	PC	PC.PRF.UTR+NEU.PLU.IND+DEF.NOM
+3	av	av	PP	PP
+4	att	att	IE	IE
+5	köpa	köpa	VB	VB.INF.AKT
+6	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+7	en	en	DT	DT.UTR.SIN.IND
+8	Saab	Saab	PM	PM.NOM
+9	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Dock	dock	AB	AB
+2	vet	veta	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	absolut	absolut	AB	AB.POS
+5	inte	inte	AB	AB
+6	vilken	vilken	HD	HD.UTR.SIN.IND
+7	modell	modell	NN	NN.UTR.SIN.IND.NOM
+8	,	,	MID	MID
+9	vad	vad	HP	HP.NEU.SIN.IND
+10	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+11	finns	finna	VB	VB.PRS.SFO
+12	för	för	PP	PP
+13	nackdelar	nackdel	NN	NN.UTR.PLU.IND.NOM
+14	med	med	PP	PP
+15	just	just	AB	AB
+16	de	en	DT	DT.UTR+NEU.PLU.DEF
+17	modellerna	modell	NN	NN.UTR.PLU.DEF.NOM
+18	,	,	MID	MID
+19	och	och	KN	KN
+20	fördelar	fördel	NN	NN.UTR.PLU.IND.NOM
+21	.	.	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	intresserad	intressera	PC	PC.PRF.UTR.SIN.IND.NOM
+3	av	av	PP	PP
+4	nån	någon	DT	DT.UTR.SIN.IND
+5	följande	följa	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	:	:	MAD	MAD
+
+1	*	*	MID	MID
+2	Saab	Saab	PM	PM.NOM
+3	900OG	900OG	RG	RG.NOM
+4	turbo	turbo	NN	NN.NEU.SIN.IND.NOM
+5	88-93	88-93	RG	RG.NOM
+
+1	*	*	MID	MID
+2	Saab	Saab	PM	PM.NOM
+3	900NG	900NG	RG	RG.NOM
+4	95-98	95-98	RG	RG.NOM
+
+1	*	*	MID	MID
+2	Saab	Saab	PM	PM.NOM
+3	9000	9000	RG	RG.NOM
+4	94-98	94-98	RG	RG.NOM
+5	.	.	MAD	MAD
+
+1	Kom	komma	VB	VB.IMP.AKT
+2	med	med	PP	PP
+3	förslag	förslag	NN	NN.NEU.SIN.IND.NOM
+4	tack	tack	NN	NN.NEU.SIN.IND.NOM
+5	på	på	PP	PP
+6	just	just	AB	AB
+7	den	den	DT	DT.UTR.SIN.DEF
+8	modellen	modell	NN	NN.UTR.SIN.DEF.NOM
+9	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+10	föredrar	föredra	VB	VB.PRS.AKT
+11	,	,	MID	MID
+12	och	och	KN	KN
+13	varför	varför	HA	HA
+14	.	.	MAD	MAD
+
+1	Okej	Okej	IN	IN
+2	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	låter	låta	VB	VB.PRS.AKT
+3	trevligt	trevlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	väl	väl	AB	AB
+5	samma	samma	DT	DT.UTR+NEU.SIN+PLU.IND
+6	motor	motor	NN	NN.UTR.SIN.IND.NOM
+7	i	i	PP	PP
+8	NG900	NG900	PM	PM.NOM
+9	som	som	KN	KN
+10	9000	9000	RG	RG.NOM
+11	?	?	MAD	MAD
+
+1	Dvs	dvs	AB	AB.AN
+2	.	.	MAD	MAD
+
+1	T5	T5	PM	PM.NOM
+2	.	.	MAD	MAD
+
+1	Va	Va	HA	HA
+2	tycker	tycka	VB	VB.PRS.AKT
+3	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+4	om	om	PP	PP
+5	NG900	NG900	PM	PM.NOM
+6	?	?	MAD	MAD
+
+1	Hur	hur	HA	HA
+2	mycket	mycket	JJ	JJ.POS.NEU.SIN.IND.NOM
+3	effekt	effekt	NN	NN.UTR.SIN.IND.NOM
+4	tåls	tåla	VB	VB.PRS.SFO
+5	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+6	innan	innan	SN	SN
+7	växellådan	växellåda	NN	NN.UTR.SIN.DEF.NOM
+8	rasar	rasa	VB	VB.PRS.AKT
+9	?	?	MAD	MAD
+
+1	Glömde	glömma	VB	VB.PRT.AKT
+2	denna	denna	DT	DT.UTR.SIN.DEF
+3	tråd	tråd	NN	NN.UTR.SIN.IND.NOM
+4	,	,	MID	MID
+5	så	så	AB	AB
+6	starta	starta	VB	VB.INF.AKT
+7	en	en	DT	DT.UTR.SIN.IND
+8	ny	ny	JJ	JJ.POS.UTR.SIN.IND.NOM
+9	Blir	bli	VB	VB.PRS.AKT
+10	nog	nog	AB	AB
+11	en	en	DT	DT.UTR.SIN.IND
+12	9-3	9-3	RG	RG.NOM
+13	98-99	98-99	RG	RG.NOM
+14	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	varit	vara	VB	VB.SUP.AKT
+3	o	o	KN	KN
+4	provkört	provköra	VB	VB.SUP.AKT
+5	ng900	ng900	RG	RG.NOM
+6	och	och	KN	KN
+7	og9-3	og9-3	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Lite	lite	AB	AB.POS
+2	skillnad	skillnad	NN	NN.UTR.SIN.IND.NOM
+3	på	på	PP	PP
+4	dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+5	,	,	MID	MID
+6	men	men	KN	KN
+7	inte	inte	AB	AB
+8	alls	alls	AB	AB
+9	så	så	AB	AB
+10	stor	stor	JJ	JJ.POS.UTR.SIN.IND.NOM
+11	som	som	HA	HA
+12	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+13	trodde	tro	VB	VB.PRT.AKT
+14	.	.	MAD	MAD
+
+1	Vet	veta	VB	VB.PRS.AKT
+2	att	att	SN	SN
+3	väghållningen	väghållning	NN	NN.UTR.SIN.DEF.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	ganska	ganska	AB	AB
+6	dålig	dålig	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	i	i	PP	PP
+8	ng900	ng900	RG	RG.NOM
+9	,	,	MID	MID
+10	i	i	PP	PP
+11	og9-3	og9-3	RG	RG.NOM
+12	för	för	PP	PP
+13	den	den	DT	DT.UTR.SIN.DEF
+14	delen	del	NN	NN.UTR.SIN.DEF.NOM
+15	med	med	PP	PP
+16	,	,	MID	MID
+17	men	men	KN	KN
+18	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+19	är	vara	VB	VB.PRS.AKT
+20	bättre	bra	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+21	.	.	MAD	MAD
+
+1	Så	så	AB	AB
+2	tänkte	tänka	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	köper	köpa	VB	VB.PRS.AKT
+5	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+6	en	en	DT	DT.UTR.SIN.IND
+7	finare	fin	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+8	ng900	ng900	RG	RG.NOM
+9	,	,	MID	MID
+10	lägger	lägga	VB	VB.PRS.AKT
+11	ner	ner	PL	PL
+12	lite	lite	AB	AB.POS
+13	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+14	på	på	PP	PP
+15	väghållning	väghållning	NN	NN.UTR.SIN.IND.NOM
+16	,	,	MID	MID
+17	steg	stiga	VB	VB.PRT.AKT
+18	1	1	RG	RG.NOM
+19	trim	trim	NN	NN.UTR.SIN.IND.NOM
+20	,	,	MID	MID
+21	3	3	RG	RG.NOM
+22	"	"	PAD	PAD
+23	,	,	MID	MID
+24	17-19	17-19	RG	RG.NOM
+25	"	"	PAD	PAD
+26	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+27	och	och	KN	KN
+28	lite	lite	AB	AB.POS
+29	styling	styling	NN	NN.UTR.SIN.IND.NOM
+30	(	(	PAD	PAD
+31	inget	ingen	DT	DT.NEU.SIN.IND
+32	jävla	jävla	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+33	kjolpaket	kjolpaket	NN	NN.NEU.SIN.IND.NOM
+34	,	,	MID	MID
+35	orginal	orginal	NN	NN.UTR.SIN.IND.NOM
+36	ska	skola	VB	VB.PRS.AKT
+37	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+38	vara	vara	VB	VB.INF.AKT
+39	)	)	PAD	PAD
+40	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	sen	sen	AB	AB
+3	skickar	skicka	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	lådan	låda	NN	NN.UTR.SIN.DEF.NOM
+6	och	och	KN	KN
+7	förstärker	förstärka	VB	VB.PRS.AKT
+8	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+9	.	.	MAD	MAD
+
+1	Va	Va	HA	HA
+2	tror	tro	VB	VB.PRS.AKT
+3	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+4	om	om	PP	PP
+5	nån	någon	PN	PN.UTR.SIN.IND.SUB+OBJ
+6	av	av	PP	PP
+7	dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+8	?	?	MAD	MAD
+
+1	1	1	RG	RG.NOM
+2	.	.	MAD	MAD
+
+1	Ser	se	VB	VB.PRS.AKT
+2	fin	fin	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	ut	ut	AB	AB
+4	,	,	MID	MID
+5	gått	gå	VB	VB.SUP.AKT
+6	långt	lång	AB	AB.POS
+7	,	,	MID	MID
+8	men	men	KN	KN
+9	inga	ingen	DT	DT.UTR+NEU.PLU.IND
+10	problem	problem	NN	NN.NEU.PLU.IND.NOM
+11	för	för	PP	PP
+12	en	en	DT	DT.UTR.SIN.IND
+13	T5	T5	PM	PM.NOM
+14	?	?	MAD	MAD
+
+1	Nya	ny	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+2	delar	del	NN	NN.UTR.PLU.IND.NOM
+
+1	http://www.blocket.se/stockholm/SAAB....htm?ca=14&w=3	http://www.blocket.se/stockholm/SAAB....htm?ca=14&w=3	NN	NN.AN
+
+1	2	2	RG	RG.NOM
+2	.	.	MAD	MAD
+
+1	Coupé	Coupé	PM	PM.NOM
+2	,	,	MID	MID
+3	fint	fin	AB	AB.POS
+4	.	.	MAD	MAD
+
+1	Lite	lite	AB	AB.POS
+2	trim	trim	NN	NN.UTR.SIN.IND.NOM
+3	,	,	MID	MID
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	är	vara	VB	VB.PRS.AKT
+6	trevligt	trevlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Lite	lite	AB	AB.POS
+2	fix	fix	NN	NN.NEU.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	Rullat	rulla	VB	VB.SUP.AKT
+2	långt	lång	AB	AB.POS
+3	.	.	MAD	MAD
+
+1	"	"	PAD	PAD
+2	Boy	Boy	UO	UO
+3	racer	racer	UO	UO
+4	"	"	PAD	PAD
+5	ett	en	DT	DT.NEU.SIN.IND
+6	minus	minus	NN	NN.NEU.SIN.IND.NOM
+7	?	?	MAD	MAD
+
+1	http://www.blocket.se/dalarna/Saab_9....htm?ca=14&w=3	http://www.blocket.se/dalarna/Saab_9....htm?ca=14&w=3	NN	NN.UTR.SIN.DEF.NOM
+
+1	3	3	RG	RG.NOM
+2	.	.	MAD	MAD
+
+1	Talladega	Talladega	PM	PM.NOM
+2	,	,	MID	MID
+3	fin	fin	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+5	,	,	MID	MID
+6	ser	se	VB	VB.PRS.AKT
+7	lite	lite	AB	AB.POS
+8	annorlunda	annorlunda	AB	AB
+9	ut	ut	PL	PL
+10	med	med	PP	PP
+11	sitt	sig	PS	PS.NEU.SIN.DEF
+12	kjolpaket	kjolpaket	NN	NN.NEU.SIN.IND.NOM
+13	.	.	MAD	MAD
+
+1	Rullat	rulla	VB	VB.SUP.AKT
+2	långt	lång	AB	AB.POS
+3	.	.	MAD	MAD
+
+1	http://www.blocket.se/uppsala/Saab_9....htm?ca=14&w=3	http://www.blocket.se/uppsala/Saab_9....htm?ca=14&w=3	NN	NN.AN
+
+1	Sen	sen	AB	AB
+2	har	ha	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	en	en	DT	DT.UTR.SIN.IND
+5	fråga	fråga	NN	NN.UTR.SIN.IND.NOM
+6	med	med	PP	PP
+7	,	,	MID	MID
+8	hur	hur	HA	HA
+9	märker	märka	VB	VB.PRS.AKT
+10	man	man	PN	PN.UTR.SIN.IND.SUB
+11	att	att	SN	SN
+12	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+13	är	vara	VB	VB.PRS.AKT
+14	dessa	denna	DT	DT.UTR+NEU.PLU.DEF
+15	förbannat	förbannad	AB	AB
+16	sensonic	sensonic	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+17	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+18	?	?	MAD	MAD
+
+1	Dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+2	skriver	skriva	VB	VB.PRS.AKT
+3	ju	ju	AB	AB
+4	ut	ut	PL	PL
+5	dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+6	som	som	KN	KN
+7	manuell	manuell	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	,	,	MID	MID
+9	fast	fast	SN	SN
+10	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+11	är	vara	VB	VB.PRS.AKT
+12	halvautomat	halvautomat	NN	NN.UTR.SIN.IND.NOM
+13	.	.	MAD	MAD
+
+1	Nåt	någon	DT	DT.NEU.SIN.IND
+2	sånt	sån	JJ	JJ.POS.NEU.SIN.IND.NOM
+3	skit	skit	NN	NN.UTR.SIN.IND.NOM
+4	vill	vilja	VB	VB.PRS.AKT
+5	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+6	inte	inte	AB	AB
+7	ha	ha	VB	VB.INF.AKT
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	inte	inte	AB	AB
+3	bestämma	bestämma	VB	VB.INF.AKT
+4	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+5	.	.	MAD	MAD
+
+1	Efter	efter	PP	PP
+2	att	att	IE	IE
+3	ha	ha	VB	VB.INF.AKT
+4	kört	köra	VB	VB.SUP.AKT
+5	en	en	DT	DT.UTR.SIN.IND
+6	trimmad	trimma	PC	PC.PRF.UTR.SIN.IND.NOM
+7	900	900	RG	RG.NOM
+8	så	så	AB	AB
+9	kändes	känna	VB	VB.PRT.SFO
+10	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+11	som	som	KN	KN
+12	en	en	DT	DT.UTR.SIN.IND
+13	hal	hal	JJ	JJ.POS.UTR.SIN.IND.NOM
+14	ål	ål	NN	NN.UTR.SIN.IND.NOM
+15	på	på	PP	PP
+16	vägen	väg	NN	NN.UTR.SIN.DEF.NOM
+17	.	.	MAD	MAD
+
+1	Därför	därför	AB	AB
+2	har	ha	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	börjat	börja	VB	VB.SUP.AKT
+5	titta	titta	VB	VB.INF.AKT
+6	på	på	PP	PP
+7	9000	9000	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	vad	vad	HP	HP.NEU.SIN.IND
+3	kan	kunna	VB	VB.PRS.AKT
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	kosta	kosta	VB	VB.INF.AKT
+6	att	att	IE	IE
+7	äga	äga	VB	VB.INF.AKT
+8	som	som	KN	KN
+9	första	första	RO	RO.NOM
+10	bil	bil	NN	NN.UTR.SIN.IND.NOM
+11	?	?	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	Aero	Aero	PM	PM.NOM
+3	kostade	kosta	VB	VB.PRT.AKT
+4	att	att	IE	IE
+5	trafikförsäkra	trafikförsäkra	VB	VB.INF.AKT
+6	2265kr	2265kr	RG	RG.NOM
+7	per	per	PP	PP
+8	år	år	NN	NN.NEU.SIN.IND.NOM
+9	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	9000	9000	RG	RG.NOM
+3	A50	A50	NN	NN.AN
+4	kostade	kosta	VB	VB.PRT.AKT
+5	2385kr	2385kr	RG	RG.NOM
+6	att	att	IE	IE
+7	trafikförsäkra	trafikförsäkra	VB	VB.INF.AKT
+8	på	på	PP	PP
+9	mamma	mamma	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	ska	skola	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	ju	ju	AB	AB
+5	skatt	skatt	NN	NN.UTR.SIN.IND.NOM
+6	o	o	KN	KN
+7	bensin	bensin	NN	NN.UTR.SIN.IND.NOM
+8	till	till	PP	PP
+9	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+10	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	kollat	kolla	VB	VB.SUP.AKT
+3	på	på	PP	PP
+4	denna	denna	PN	PN.UTR.SIN.DEF.SUB+OBJ
+5	:	:	MAD	MAD
+
+1	http://www.blocket.se/orebro/Saab_90....htm?ca=14&w=3	http://www.blocket.se/orebro/Saab_90....htm?ca=14&w=3	NN	NN.AN
+
+1	Mycket	mycket	AB	AB.POS
+2	intressant	intressant	JJ	JJ.POS.NEU.SIN.IND.NOM
+3	tkr	tkr	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	!	!	MAD	MAD
+
+1	Hur	hur	HA	HA
+2	ligger	ligga	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	till	till	PL	PL
+5	med	med	PP	PP
+6	9000	9000	RG	RG.NOM
+7	som	som	HP	HP.-.-.-
+8	är	vara	VB	VB.PRS.AKT
+9	långmilare	långmilare	NN	NN.UTR.SIN.IND.NOM
+10	?	?	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	några	någon	DT	DT.UTR+NEU.PLU.IND
+4	problem	problem	NN	NN.NEU.PLU.IND.NOM
+5	?	?	MAD	MAD
+
+1	Typ	typ	NN	NN.UTR.SIN.IND.NOM
+2	denna	denna	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	:	:	MAD	MAD
+
+1	http://www.blocket.se/skaraborg/Saab....htm?ca=14&w=3	http://www.blocket.se/skaraborg/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	Har	ha	VB	VB.PRS.AKT
+2	inte	inte	AB	AB
+3	bestämt	bestämma	VB	VB.SUP.AKT
+4	eller	eller	KN	KN
+5	köpt	köpa	VB	VB.SUP.AKT
+6	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+7	ännu	ännu	AB	AB
+8	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	900s	900s	RG	RG.NOM
+3	1991	1991	RG	RG.NOM
+4	,	,	MID	MID
+5	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+6	att	att	IE	IE
+7	ha	ha	VB	VB.INF.AKT
+8	?	?	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	ser	se	VB	VB.PRS.AKT
+3	två	två	RG	RG.NOM
+4	minus	minus	NN	NN.NEU.PLU.IND.NOM
+5	med	med	PP	PP
+6	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+7	:	:	MAD	MAD
+
+1	*	*	MID	MID
+2	Kan	kunna	VB	VB.PRS.AKT
+3	bryta	bryta	VB	VB.INF.AKT
+4	sig	sig	PN	PN.UTR+NEU.SIN+PLU.DEF.OBJ
+5	in	in	PL	PL
+6	hur	hur	HA	HA
+7	lätt	lätt	AB	AB.POS
+8	som	som	KN	KN
+9	helst	gärna	AB	AB.SUV
+10	,	,	MID	MID
+11	Hur	hur	HA	HA
+12	stoppar	stoppa	VB	VB.PRS.AKT
+13	man	man	PN	PN.UTR.SIN.IND.SUB
+14	detta	denna	PN	PN.NEU.SIN.DEF.SUB+OBJ
+15	?	?	MAD	MAD
+
+1	*	*	MID	MID
+2	Måste	måste	VB	VB.PRS.AKT
+3	lyfta	lyfta	VB	VB.INF.AKT
+4	motorn	motor	NN	NN.UTR.SIN.DEF.NOM
+5	för	för	PP	PP
+6	och	och	KN	KN
+7	byta	byta	VB	VB.INF.AKT
+8	låda	låda	NN	NN.UTR.SIN.IND.NOM
+9	,	,	MID	MID
+10	Kommer	komma	VB	VB.PRS.AKT
+11	få	få	VB	VB.INF.AKT
+12	lyfta	lyfta	VB	VB.INF.AKT
+13	motorn	motor	NN	NN.UTR.SIN.DEF.NOM
+14	väldigt	väldig	AB	AB.POS
+15	snart	snar	AB	AB.POS
+16	isåfall	isåfall	AB	AB
+17	Fast	fast	KN	KN
+18	då	då	AB	AB
+19	blir	bli	VB	VB.PRS.AKT
+20	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+21	förstärkt	förstärka	PC	PC.PRF.NEU.SIN.IND.NOM
+22	.	.	MAD	MAD
+
+1	Annars	annars	AB	AB
+2	verkar	verka	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	vara	vara	VB	VB.INF.AKT
+5	en	en	DT	DT.UTR.SIN.IND
+6	riktigt	riktig	AB	AB
+7	trevlig	trevlig	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	bil	bil	NN	NN.UTR.SIN.IND.NOM
+9	.	.	MAD	MAD
+
+1	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	NN	NN.AN
+
+1	Något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+2	att	att	IE	IE
+3	ha	ha	VB	VB.INF.AKT
+4	?	?	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	är	vara	VB	VB.PRS.AKT
+3	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+4	för	för	PP	PP
+5	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+6	på	på	PP	PP
+7	bakskärmen	bakskärm	NN	NN.UTR.SIN.DEF.NOM
+8	precis	precis	AB	AB
+9	bakom	bakom	PP	PP
+10	listen	list	NN	NN.UTR.SIN.DEF.NOM
+11	?	?	MAD	MAD
+
+1	Maptun	Maptun	PM	PM.NOM
+2	har	ha	VB	VB.PRS.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	Quaife	Quaife	UO	UO
+5	rakskuren	rakskuren	UO	UO
+6	bolt	bolt	UO	UO
+7	on	on	UO	UO
+8	för	för	PP	PP
+9	70	70	RG	RG.NOM
+10	000	000	RG	RG.NOM
+11	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+4	.	.	MAD	MAD
+
+1	Lifta	lifta	VB	VB.IMP.AKT
+2	.	.	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	är	vara	VB	VB.PRS.AKT
+3	dyrare	dyr	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+4	att	att	IE	IE
+5	laga	laga	VB	VB.INF.AKT
+6	på	på	PP	PP
+7	244:an	244:an	NN	NN.UTR.SIN.DEF.NOM
+8	?	?	MAD	MAD
+
+1	Galvad	galvad	NN	NN.UTR.SIN.IND.NOM
+2	från	från	PP	PP
+3	1988	1988	RG	RG.NOM
+4	.	.	MAD	MAD
+
+1	Inga	ingen	DT	DT.UTR+NEU.PLU.IND
+2	problem	problem	NN	NN.NEU.PLU.IND.NOM
+3	.	.	MAD	MAD
+
+1	Alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+2	NG900	NG900	PM	PM.NOM
+3	/	/	MID	MID
+4	OG9-3	OG9-3	RG	RG.NOM
+5	har	ha	VB	VB.PRS.AKT
+6	2,0	2,0	RG	RG.NOM
+7	när	när	HA	HA
+8	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+9	gäller	gälla	VB	VB.PRS.AKT
+10	turbomotorer	turbomotor	NN	NN.UTR.PLU.IND.NOM
+11	förutom	förutom	PP	PP
+12	9-3	9-3	RG	RG.NOM
+13	viggen	vigg	NN	NN.UTR.SIN.DEF.NOM
+14	som	som	HP	HP.-.-.-
+15	hade	ha	VB	VB.PRT.AKT
+16	2	2	RG	RG.NOM
+17	,	,	MID	MID
+18	3:a	3:a	NN	NN.UTR.SIN.IND.NOM
+19	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	köpt	köpa	VB	VB.SUP.AKT
+3	nån	någon	PN	PN.UTR.SIN.IND.SUB+OBJ
+4	av	av	PP	PP
+5	dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+6	:	:	MAD	MAD
+
+1	http://www.blocket.se/jonkoping/Fin_....htm?ca=14&w=3	http://www.blocket.se/jonkoping/Fin_....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	NN	NN.AN
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	där	där	AB	AB
+3	håller	hålla	VB	VB.PRS.AKT
+4	aldrig	aldrig	AB	AB
+5	.	.	MAD	MAD
+
+1	Minsta	liten	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+2	spik	spik	NN	NN.UTR.SIN.IND.NOM
+3	och	och	KN	KN
+4	stakarna	stake	NN	NN.UTR.PLU.DEF.NOM
+5	har	ha	VB	VB.PRS.AKT
+6	sagt	säga	VB	VB.SUP.AKT
+7	sitt	sig	PS	PS.NEU.SIN.DEF
+8	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	9000	9000	RG	RG.NOM
+3	eller	eller	KN	KN
+4	NG900	NG900	PM	PM.NOM
+5	.	.	MAD	MAD
+
+1	Byta	byta	VB	VB.INF.AKT
+2	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+3	,	,	MID	MID
+4	spridare	spridare	NN	NN.UTR.SIN.IND.NOM
+5	,	,	MID	MID
+6	koppling	koppling	NN	NN.UTR.SIN.IND.NOM
+7	och	och	KN	KN
+8	sen	sen	AB	AB
+9	fixa	fixa	VB	VB.INF.AKT
+10	en	en	DT	DT.UTR.SIN.IND
+11	annan	annan	JJ	JJ.POS.UTR.SIN.IND.NOM
+12	programvara	programvara	NN	NN.UTR.SIN.IND.NOM
+13	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	kan	kunna	VB	VB.PRS.AKT
+3	du	du	PN	PN.UTR.SIN.DEF.SUB
+4	plocka	plocka	VB	VB.INF.AKT
+5	500hk	500hk	RG	RG.NOM
+6	utan	utan	PP	PP
+7	problem	problem	NN	NN.NEU.PLU.IND.NOM
+8	innan	innan	SN	SN
+9	man	man	PN	PN.UTR.SIN.IND.SUB
+10	bör	böra	VB	VB.PRS.AKT
+11	byta	byta	VB	VB.INF.AKT
+12	stakar	stake	NN	NN.UTR.PLU.IND.NOM
+13	.	.	MAD	MAD
+
+1	Växellådan	växellåda	NN	NN.UTR.SIN.DEF.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	dock	dock	AB	AB
+4	en	en	DT	DT.UTR.SIN.IND
+5	annan	annan	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	historia	historia	NN	NN.UTR.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Tills	tills	SN	SN
+2	en	en	DT	DT.UTR.SIN.IND
+3	stake	stake	NN	NN.UTR.SIN.IND.NOM
+4	kollar	kolla	VB	VB.PRS.AKT
+5	ut	ut	PL	PL
+6	genom	genom	PP	PP
+7	blocket	block	NN	NN.NEU.SIN.DEF.NOM
+8	.	.	MAD	MAD
+
+1	Akta	akta	VB	VB.IMP.AKT
+2	kolvar	kolv	NN	NN.UTR.PLU.IND.NOM
+3	och	och	KN	KN
+4	stakar	stake	NN	NN.UTR.PLU.IND.NOM
+5	.	.	MAD	MAD
+
+1	Kupéfläktar	kupéfläkt	NN	NN.UTR.PLU.IND.NOM
+2	som	som	KN	KN
+3	viner	vin	NN	NN.NEU.PLU.IND.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	vanligt	vanlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Läckande	läcka	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	värmepaket	värmepaket	NN	NN.NEU.SIN.IND.NOM
+3	som	som	HP	HP.-.-.-
+4	ger	ge	VB	VB.PRS.AKT
+5	en	en	DT	DT.UTR.SIN.IND
+6	fet	fet	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	immig	immig	NN	NN.UTR.SIN.IND.NOM
+8	hinna	hinna	VB	VB.INF.AKT
+9	på	på	PP	PP
+10	insidan	insida	NN	NN.UTR.SIN.DEF.NOM
+11	av	av	PP	PP
+12	vindrutan	vindruta	NN	NN.UTR.SIN.DEF.NOM
+13	.	.	MAD	MAD
+
+1	Växellådsolja	växellådsolja	NN	NN.UTR.SIN.IND.NOM
+2	kan	kunna	VB	VB.PRS.AKT
+3	vara	vara	VB	VB.INF.AKT
+4	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	att	att	IE	IE
+6	byta	byta	VB	VB.INF.AKT
+7	när	när	HA	HA
+8	milen	mil	NN	NN.UTR.SIN.DEF.NOM
+9	rullar	rulla	VB	VB.PRS.AKT
+10	på	på	PL	PL
+11	.	.	MAD	MAD
+
+1	Många	mången	PN	PN.UTR+NEU.PLU.IND.SUB+OBJ
+2	som	som	HP	HP.-.-.-
+3	glömmer	glömma	VB	VB.PRS.AKT
+4	.	.	MAD	MAD
+
+1	Kostar	kosta	VB	VB.PRS.AKT
+2	200-300kr	200-300kr	RG	RG.NOM
+3	att	att	IE	IE
+4	göra	göra	VB	VB.INF.AKT
+5	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	och	och	KN	KN
+7	gjort	göra	VB	VB.SUP.AKT
+8	på	på	PP	PP
+9	max	max	PP	PP
+10	30	30	RG	RG.NOM
+11	min	min	NN	NN.AN
+12	.	.	MAD	MAD
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	förändra	förändra	VB	VB.INF.AKT
+3	hela	hel	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+4	känslan	känsla	NN	NN.UTR.SIN.DEF.NOM
+5	i	i	PP	PP
+6	växellådan	växellåda	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	9000	9000	RG	RG.NOM
+2	.	.	MAD	MAD
+
+1	Växellådsolja	växellådsolja	NN	NN.UTR.SIN.IND.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	väl	väl	AB	AB
+4	aldrig	aldrig	AB	AB
+5	fel	fel	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	att	att	IE	IE
+7	byta	byta	VB	VB.INF.AKT
+8	oavsett	oavsett	PP	PP
+9	bil	bil	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Bytte	byta	VB	VB.PRT.AKT
+2	på	på	PP	PP
+3	en	en	DT	DT.UTR.SIN.IND
+4	9-5a	9-5a	RG	RG.NOM
+5	som	som	HP	HP.-.-.-
+6	rullat	rulla	VB	VB.SUP.AKT
+7	30	30	RG	RG.NOM
+8	000	000	RG	RG.NOM
+9	nyligen	nyligen	AB	AB
+10	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	var	vara	VB	VB.PRT.AKT
+3	kolsvart	kolsvart	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	vad	vad	HP	HP.NEU.SIN.IND
+3	kan	kunna	VB	VB.PRS.AKT
+4	man	man	PN	PN.UTR.SIN.IND.SUB
+5	begära	begära	VB	VB.INF.AKT
+6	efter	efter	PP	PP
+7	30	30	RG	RG.NOM
+8	000	000	RG	RG.NOM
+9	mil	mil	NN	NN.UTR.PLU.IND.NOM
+10	på	på	PP	PP
+11	samma	samma	DT	DT.UTR+NEU.SIN+PLU.IND
+12	olja	olja	NN	NN.UTR.SIN.IND.NOM
+13	...	...	MAD	MAD
+
+1	Nya	ny	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+2	saab	saab	NN	NN.UTR.SIN.IND.NOM
+3	9-3	9-3	RG	RG.NOM
+4	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	räknas	räkna	VB	VB.PRS.SFO
+3	som	som	KN	KN
+4	gubb	gubb	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	bil	bil	NN	NN.UTR.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Med	med	PP	PP
+2	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+3	kan	kunna	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	absolut	absolut	AB	AB.POS
+6	inte	inte	AB	AB
+7	hålla	hålla	VB	VB.INF.AKT
+8	med	med	PL	PL
+9	om	om	PP	PP
+10	med	med	PP	PP
+11	nya	ny	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+12	9-3:an	9-3:an	NN	NN.UTR.SIN.DEF.NOM
+13	.	.	MAD	MAD
+
+1	Eller	eller	KN	KN
+2	,	,	MID	MID
+3	de	en	DT	DT.UTR+NEU.PLU.DEF
+4	flesta	mången	JJ	JJ.SUV.UTR+NEU.PLU.DEF.NOM
+5	saabar	saab	NN	NN.NEU.PLU.IND.NOM
+6	har	ha	VB	VB.PRS.AKT
+7	ju	ju	AB	AB
+8	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+9	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	är	vara	VB	VB.PRS.AKT
+3	inte	inte	AB	AB
+4	så	så	AB	AB
+5	gubbigt	gubbig	JJ	JJ.POS.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Mer	mer	AB	AB.KOM
+2	gubbigt	gubbig	AB	AB.POS
+3	med	med	PP	PP
+4	gammal	gammal	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	sketen	sketen	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	merca	merca	NN	NN.UTR.SIN.IND.NOM
+7	/	/	MID	MID
+8	bmw	bmw	NN	NN.UTR.SIN.IND.NOM
+9	med	med	PP	PP
+10	sugmotor	sugmotor	NN	NN.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	http://www.picoodle.com/view.php?img....jpg&srv=img28	http://www.picoodle.com/view.php?img....jpg&srv=img28	AB	AB.AN
+
+1	Evo	Evo	PM	PM.NOM
+2	utan	utan	PP	PP
+3	tvekan	tvekan	NN	NN.UTR.SIN.IND.NOM
+4	...	...	MAD	MAD
+
+1	http://www.blocket.se/malmo/Mitsubis....htm?ca=14&w=3	http://www.blocket.se/malmo/Mitsubis....htm?ca=14&w=3	AB	AB.AN
+
+1	http://www.blocket.se/lund/Mitsubish....htm?ca=14&w=3	http://www.blocket.se/lund/Mitsubish....htm?ca=14&w=3	NN	NN.AN
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	jävla	jävla	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	tur	tur	NN	NN.UTR.SIN.IND.NOM
+6	att	att	SN	SN
+7	vi	vi	PN	PN.UTR.PLU.DEF.SUB
+8	har	ha	VB	VB.PRS.AKT
+9	olika	olik	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+10	åsiker	åsiker	NN	NN.UTR.PLU.IND.NOM
+11	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	gammal	gammal	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	slut	slut	NN	NN.UTR.SIN.IND.NOM
+4	trimmad	trimma	PC	PC.PRF.UTR.SIN.IND.NOM
+5	940	940	RG	RG.NOM
+6	som	som	HP	HP.-.-.-
+7	gått	gå	VB	VB.SUP.AKT
+8	30	30	RG	RG.NOM
+9	-	-	MID	MID
+10	35	35	RG	RG.NOM
+11	000	000	RG	RG.NOM
+12	mil	mil	NN	NN.UTR.PLU.IND.NOM
+13	för	för	PP	PP
+14	20	20	RG	RG.NOM
+15	lök	lök	NN	NN.UTR.SIN.IND.NOM
+16	.	.	MAD	MAD
+
+1	När	när	HA	HA
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	kan	kunna	VB	VB.PRS.AKT
+4	få	få	VB	VB.INF.AKT
+5	en	en	DT	DT.UTR.SIN.IND
+6	9-5:a	9-5:a	RG	RG.NOM
+7	för	för	PP	PP
+8	samma	samma	DT	DT.UTR+NEU.SIN+PLU.IND
+9	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+10	och	och	KN	KN
+11	under	under	PP	PP
+12	20	20	RG	RG.NOM
+13	000	000	RG	RG.NOM
+14	mil	mil	NN	NN.UTR.PLU.IND.NOM
+15	.	.	MAD	MAD
+
+1	http://www.blocket.se/kristianstad/S....htm?ca=14&w=3	http://www.blocket.se/kristianstad/S....htm?ca=14&w=3	NN	NN.AN
+
+1	Bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+2	skillnad	skillnad	NN	NN.UTR.SIN.IND.NOM
+3	i	i	PP	PP
+4	åkkomfort	åkkomfort	NN	NN.UTR.SIN.IND.NOM
+5	mellan	mellan	PP	PP
+6	en	en	DT	DT.UTR.SIN.IND
+7	bil	bil	NN	NN.UTR.SIN.IND.NOM
+8	som	som	HP	HP.-.-.-
+9	började	börja	VB	VB.PRT.AKT
+10	tillverkas	tillverka	VB	VB.INF.SFO
+11	1984	1984	RG	RG.NOM
+12	mot	mot	PP	PP
+13	1998	1998	RG	RG.NOM
+14	.	.	MAD	MAD
+
+1	Köpte	köpa	VB	VB.PRT.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	Saab	Saab	PM	PM.NOM
+4	900	900	RG	RG.NOM
+5	2	2	RG	RG.NOM
+6	,	,	MID	MID
+7	3i	3i	RG	RG.NOM
+8	1997a	1997a	RG	RG.NOM
+9	för	för	PP	PP
+10	500kr	500kr	RG	RG.NOM
+11	med	med	PP	PP
+12	trasig	trasig	JJ	JJ.POS.UTR.SIN.IND.NOM
+13	startmotor	startmotor	NN	NN.UTR.SIN.IND.NOM
+14	.	.	MAD	MAD
+
+1	Bytte	byta	VB	VB.PRT.AKT
+2	startmotor	startmotor	NN	NN.UTR.SIN.IND.NOM
+3	vilket	vilket	HP	HP.NEU.SIN.IND
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	hade	ha	VB	VB.PRT.AKT
+6	liggandes	liggandes	VB	VB.INF.SFO
+7	.	.	MAD	MAD
+
+1	Åkte	åka	VB	VB.PRT.AKT
+2	in	in	PL	PL
+3	och	och	KN	KN
+4	besikta	besikta	VB	VB.INF.AKT
+5	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+6	.	.	MAD	MAD
+
+1	Gick	gå	VB	VB.PRT.AKT
+2	igenom	gå igenom:1	PL	PL
+3	med	med	PP	PP
+4	blankt	blank	JJ	JJ.POS.NEU.SIN.IND.NOM
+5	papper	papper	NN	NN.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Detta	denna	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	var	vara	VB	VB.PRT.AKT
+3	i	i	PP	PP
+4	Maj	maj	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	ACn	ACn	PM	PM.NOM
+3	var	vara	VB	VB.PRT.AKT
+4	nyligen	nyligen	AB	AB
+5	reparerad	reparera	PC	PC.PRF.UTR.SIN.IND.NOM
+6	efter	efter	PP	PP
+7	trasig	trasig	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	kondensor	kondensor	NN	NN.UTR.SIN.IND.NOM
+9	och	och	KN	KN
+10	fylld	fylla	PC	PC.PRF.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Så	så	KN	KN
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	kylde	kyla	VB	VB.PRT.AKT
+4	riktigt	riktig	AB	AB
+5	fint	fin	AB	AB.POS
+6	.	.	MAD	MAD
+
+1	Körde	köra	VB	VB.PRT.AKT
+2	totalt	total	AB	AB.POS
+3	skiten	skit	NN	NN.UTR.SIN.DEF.NOM
+4	ur	ur	PP	PP
+5	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+6	i	i	PP	PP
+7	ca	ca	AB	AB.AN
+8	2	2	RG	RG.NOM
+9	månader	månad	NN	NN.UTR.PLU.IND.NOM
+10	innan	innan	SN	SN
+11	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+12	tröttnade	tröttna	VB	VB.PRT.AKT
+13	på	på	PP	PP
+14	avsaknaden	avsaknad	NN	NN.UTR.SIN.DEF.NOM
+15	av	av	PP	PP
+16	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+17	.	.	MAD	MAD
+
+1	Sålde	sälja	VB	VB.PRT.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	för	för	PP	PP
+4	4000kr	4000kr	RG	RG.NOM
+5	.	.	MAD	MAD
+
+1	Så	så	KN	KN
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	kan	kunna	VB	VB.PRS.AKT
+4	få	få	VB	VB.INF.AKT
+5	,	,	MID	MID
+6	en	en	DT	DT.UTR.SIN.IND
+7	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+8	bil	bil	NN	NN.UTR.SIN.IND.NOM
+9	i	i	PP	PP
+10	detta	denna	DT	DT.NEU.SIN.DEF
+11	fallet	fall	NN	NN.NEU.SIN.DEF.NOM
+12	för	för	PP	PP
+13	899kr	899kr	RG	RG.NOM
+14	exkl.	exkl.	NN	NN.AN
+15	skatt	skatt	NN	NN.UTR.SIN.IND.NOM
+16	och	och	KN	KN
+17	försäkring	försäkring	NN	NN.UTR.SIN.IND.NOM
+18	.	.	MAD	MAD
+
+1	Hela	hel	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+2	VAG	vag	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	koncernen	koncern	NN	NN.UTR.SIN.DEF.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	skit	skit	NN	NN.UTR.SIN.IND.NOM
+6	och	och	KN	KN
+7	den	den	DT	DT.UTR.SIN.DEF
+8	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+9	är	vara	VB	VB.PRS.AKT
+10	inget	ingen	DT	DT.NEU.SIN.IND
+11	undantag	undantag	NN	NN.NEU.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Volvo	Volvo	PM	PM.NOM
+2	tar	ta	VB	VB.PRS.AKT
+3	ut	ut	PL	PL
+4	en	en	DT	DT.UTR.SIN.IND
+5	månadskostnad	månadskostnad	NN	NN.UTR.SIN.IND.NOM
+6	för	för	PP	PP
+7	att	att	IE	IE
+8	tillhandahålla	tillhandahålla	VB	VB.INF.AKT
+9	Volvo	Volvo	PM	PM.NOM
+10	Vida	vida	AB	AB
+11	med	med	PP	PP
+12	all	all	DT	DT.UTR.SIN.IND+DEF
+13	dess	den	PS	PS.UTR+NEU.SIN+PLU.DEF
+14	information	information	NN	NN.UTR.SIN.IND.NOM
+15	och	och	KN	KN
+16	support	support	NN	NN.UTR.SIN.IND.NOM
+17	vilken	vilken	HP	HP.UTR.SIN.IND
+18	gör	göra	VB	VB.PRS.AKT
+19	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+20	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+21	för	för	PP	PP
+22	verkstaden	verkstad	NN	NN.UTR.SIN.DEF.NOM
+23	att	att	IE	IE
+24	arbeta	arbeta	VB	VB.INF.AKT
+25	med	med	PP	PP
+26	bilarna	bil	NN	NN.UTR.PLU.DEF.NOM
+27	.	.	MAD	MAD
+
+1	Utan	utan	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	blir	bli	VB	VB.PRS.AKT
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	mer	mer	AB	AB.KOM
+6	eller	eller	KN	KN
+7	mindre	föga	AB	AB.KOM
+8	omöjligt	omöjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+9	att	att	IE	IE
+10	täcka	täcka	VB	VB.INF.AKT
+11	alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+12	jobben	jobb	NN	NN.NEU.PLU.DEF.NOM
+13	som	som	HP	HP.-.-.-
+14	inkommer	inkomma	VB	VB.PRS.AKT
+15	på	på	PP	PP
+16	verkstaden	verkstad	NN	NN.UTR.SIN.DEF.NOM
+17	.	.	MAD	MAD
+
+1	Handlaren	handlare	NN	NN.UTR.SIN.DEF.NOM
+2	i	i	PP	PP
+3	sin	sig	PS	PS.UTR.SIN.DEF
+4	tur	tur	NN	NN.UTR.SIN.IND.NOM
+5	vill	vilja	VB	VB.PRS.AKT
+6	ju	ju	AB	AB
+7	såklart	såklart	AB	AB.POS
+8	ha	ha	VB	VB.INF.AKT
+9	igen	igen	PL	PL
+10	dessa	denna	DT	DT.UTR+NEU.PLU.DEF
+11	pengarna	peng	NN	NN.UTR.PLU.DEF.NOM
+12	och	och	KN	KN
+13	sedan	sedan	AB	AB
+14	även	även	AB	AB
+15	dra	dra	VB	VB.INF.AKT
+16	in	in	PL	PL
+17	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+18	på	på	PP	PP
+19	sin	sig	PS	PS.UTR.SIN.DEF
+20	verksamhet	verksamhet	NN	NN.UTR.SIN.IND.NOM
+21	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	blir	bli	VB	VB.PRS.AKT
+3	då	då	AB	AB
+4	kunden	kund	NN	NN.UTR.SIN.DEF.NOM
+5	som	som	HP	HP.-.-.-
+6	får	få	VB	VB.PRS.AKT
+7	betala	betala	VB	VB.INF.AKT
+8	för	för	PP	PP
+9	detta	denna	PN	PN.NEU.SIN.DEF.SUB+OBJ
+10	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+4	att	att	SN	SN
+5	du	du	PN	PN.UTR.SIN.DEF.SUB
+6	,	,	MID	MID
+7	just	just	AB	AB
+8	i	i	PP	PP
+9	felsökning	felsökning	NN	NN.UTR.SIN.IND.NOM
+10	,	,	MID	MID
+11	kommit	komma	VB	VB.SUP.AKT
+12	billigare	billig	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+13	undan	undan	AB	AB
+14	om	om	SN	SN
+15	du	du	PN	PN.UTR.SIN.DEF.SUB
+16	låtit	låta	VB	VB.SUP.AKT
+17	t.ex	t.ex	AB	AB.AN
+18	Mekonomen	Mekonomen	PM	PM.NOM
+19	kopplat	koppla	VB	VB.SUP.AKT
+20	in	in	PL	PL
+21	sin	sig	PS	PS.UTR.SIN.DEF
+22	Autocom	Autocom	PM	PM.NOM
+23	och	och	KN	KN
+24	läst	läsa	VB	VB.SUP.AKT
+25	av	av	PP	PP
+26	felkoderna	felkod	NN	NN.UTR.PLU.DEF.NOM
+27	på	på	PP	PP
+28	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+29	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	hade	ha	VB	VB.PRT.AKT
+4	inte	inte	AB	AB
+5	kunnat	kunna	VB	VB.SUP.AKT
+6	be	be	VB	VB.INF.AKT
+7	Mekonomen	Mekonomen	PM	PM.NOM
+8	läsa	läsa	VB	VB.INF.AKT
+9	ut	ut	PL	PL
+10	felkoderna	felkod	NN	NN.UTR.PLU.DEF.NOM
+11	för	för	PP	PP
+12	att	att	IE	IE
+13	sedan	sedan	AB	AB
+14	ta	ta	VB	VB.INF.AKT
+15	med	med	PL	PL
+16	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+17	felkoderna	felkod	NN	NN.UTR.PLU.DEF.NOM
+18	till	till	PP	PP
+19	Volvo	Volvo	PM	PM.NOM
+20	och	och	KN	KN
+21	säga	säga	VB	VB.INF.AKT
+22	:	:	MID	MID
+23	"	"	PAD	PAD
+24	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+25	vill	vilja	VB	VB.PRS.AKT
+26	att	att	SN	SN
+27	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+28	byter	byta	VB	VB.PRS.AKT
+29	haldexpumpen	haldexpumpen	NN	NN.UTR.SIN.DEF.NOM
+30	åt	åt	PP	PP
+31	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+32	för	för	KN	KN
+33	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+34	är	vara	VB	VB.PRS.AKT
+35	fel	fel	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+36	på	på	PP	PP
+37	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+38	"	"	PAD	PAD
+39	.	.	MAD	MAD
+
+1	Stolarna	stol	NN	NN.UTR.PLU.DEF.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	knappast	knapp	AB	AB.SUV
+4	något	någon	DT	DT.NEU.SIN.IND
+5	unikt	unik	JJ	JJ.POS.NEU.SIN.IND.NOM
+6	längre	länge	AB	AB.KOM
+7	anser	anse	VB	VB.PRS.AKT
+8	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+9	.	.	MAD	MAD
+
+1	525TD	525TD	RG	RG.NOM
+2	skulle	skola	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	hellre	gärna	AB	AB.KOM
+5	köpt	köpa	VB	VB.SUP.AKT
+6	än	än	KN	KN
+7	Volvon	Volvon	PM	PM.NOM
+8	:	:	MAD	MAD
+
+1	http://www.blocket.se/varmland/Bmw_5....htm?ca=14&w=3	http://www.blocket.se/varmland/Bmw_5....htm?ca=14&w=3	NN	NN.AN
+
+1	Sen	sen	AB	AB
+2	finns	finna	VB	VB.PRS.SFO
+3	ju	ju	AB	AB
+4	Saab	Saab	PM	PM.NOM
+5	9-5	9-5	RG	RG.NOM
+6	diesel	diesel	NN	NN.UTR.SIN.IND.NOM
+7	med	med	PP	PP
+8	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	skulle	skola	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	aldrig	aldrig	AB	AB
+5	köpa	köpa	VB	VB.INF.AKT
+6	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	och	och	KN	KN
+3	diesel	diesel	NN	NN.UTR.SIN.IND.NOM
+4	hör	höra	VB	VB.PRS.AKT
+5	inte	inte	AB	AB
+6	ihop	ihop	PL	PL
+7	.	.	MAD	MAD
+
+1	Tur	tur	NN	NN.UTR.SIN.IND.NOM
+2	att	att	SN	SN
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	är	vara	VB	VB.PRS.AKT
+5	lätt	lätt	JJ	JJ.POS.NEU.SIN.IND.NOM
+6	för	för	PP	PP
+7	ett	en	DT	DT.NEU.SIN.IND
+8	tränat	träna	PC	PC.PRF.NEU.SIN.IND.NOM
+9	öga	öga	NN	NN.NEU.SIN.IND.NOM
+10	att	att	IE	IE
+11	avgöra	avgöra	VB	VB.INF.AKT
+12	om	om	SN	SN
+13	en	en	DT	DT.UTR.SIN.IND
+14	E61	E61	PM	PM.NOM
+15	gått	gå	VB	VB.SUP.AKT
+16	20	20	RG	RG.NOM
+17	000	000	RG	RG.NOM
+18	eller	eller	KN	KN
+19	40	40	RG	RG.NOM
+20	000	000	RG	RG.NOM
+21	mil	mil	NN	NN.UTR.PLU.IND.NOM
+22	.	.	MAD	MAD
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	lär	lär	VB	VB.PRS.AKT
+3	dels	dels	KN	KN
+4	inte	inte	AB	AB
+5	ha	ha	VB	VB.INF.AKT
+6	några	någon	DT	DT.UTR+NEU.PLU.IND
+7	bromsar	broms	NN	NN.UTR.PLU.IND.NOM
+8	kvar	kvar	AB	AB
+9	,	,	MID	MID
+10	diverse	diverse	JJ	JJ.POS.UTR+NEU.PLU.IND.NOM
+11	elfel	elfel	NN	NN.NEU.PLU.IND.NOM
+12	och	och	KN	KN
+13	hel	hel	JJ	JJ.POS.UTR.SIN.IND.NOM
+14	utsliten	slita ut	PC	PC.PRF.UTR.SIN.IND.NOM
+15	framvagn	framvagn	NN	NN.UTR.SIN.IND.NOM
+16	.	.	MAD	MAD
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	målar	måla	VB	VB.PRS.AKT
+3	upp	upp	PL	PL
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	som	som	HP	HP.-.-.-
+6	ofta	ofta	AB	AB.POS
+7	,	,	MID	MID
+8	volvoraggarna	volvoraggare	NN	NN.UTR.PLU.DEF.NOM
+9	gör	göra	VB	VB.PRS.AKT
+10	,	,	MID	MID
+11	att	att	SN	SN
+12	740	740	RG	RG.NOM
+13	/	/	MID	MID
+14	940	940	RG	RG.NOM
+15	är	vara	VB	VB.PRS.AKT
+16	världens	värld	NN	NN.UTR.SIN.DEF.GEN
+17	bästa	bra	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+18	bil	bil	NN	NN.UTR.SIN.IND.NOM
+19	utan	utan	PP	PP
+20	några	någon	DT	DT.UTR+NEU.PLU.IND
+21	bekymmer	bekymmer	NN	NN.NEU.PLU.IND.NOM
+22	.	.	MAD	MAD
+
+1	Att	att	SN	SN
+2	BMW	BMW	PM	PM.NOM
+3	E60	E60	PM	PM.NOM
+4	/	/	MID	MID
+5	E61	E61	PM	PM.NOM
+6	är	vara	VB	VB.PRS.AKT
+7	en	en	DT	DT.UTR.SIN.IND
+8	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+9	bil	bil	NN	NN.UTR.SIN.IND.NOM
+10	är	vara	VB	VB.PRS.AKT
+11	ingen	ingen	DT	DT.UTR.SIN.IND
+12	tvekan	tvekan	NN	NN.UTR.SIN.IND.NOM
+13	om	om	PP	PP
+14	,	,	MID	MID
+15	men	men	KN	KN
+16	även	även	AB	AB
+17	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+18	har	ha	VB	VB.PRS.AKT
+19	sina	sig	PS	PS.UTR+NEU.PLU.DEF
+20	brister	brist	NN	NN.UTR.PLU.IND.NOM
+21	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	svårt	svår	JJ	JJ.POS.NEU.SIN.IND.NOM
+4	att	att	IE	IE
+5	avgöra	avgöra	VB	VB.INF.AKT
+6	.	.	MAD	MAD
+
+1	Den	den	DT	DT.UTR.SIN.DEF
+2	äldre	gammal	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+3	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+4	kanske	kanske	AB	AB
+5	är	vara	VB	VB.PRS.AKT
+6	mycket	mycket	AB	AB.POS
+7	bättre	bra	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+8	än	än	KN	KN
+9	den	den	DT	DT.UTR.SIN.DEF
+10	nyare	ny	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+11	.	.	MAD	MAD
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	bero	bero	VB	VB.INF.AKT
+3	på	på	PP	PP
+4	bl.a	bl.a	AB	AB.AN
+5	kanske	kanske	AB	AB
+6	misskött	missköta	PC	PC.PRF.NEU.SIN.IND.NOM
+7	service	service	NN	NN.UTR.SIN.IND.NOM
+8	osv	osv	AB	AB.AN
+9	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	beror	bero	VB	VB.PRS.AKT
+3	helt	hel	AB	AB.POS
+4	på	på	PP	PP
+5	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	inget	ingen	PN	PN.NEU.SIN.IND.SUB+OBJ
+4	man	man	PN	PN.UTR.SIN.IND.SUB
+5	kan	kunna	VB	VB.PRS.AKT
+6	säga	säga	VB	VB.INF.AKT
+7	så	så	AB	AB
+8	här	här	AB	AB
+9	direkt	direkt	AB	AB.POS
+10	.	.	MAD	MAD
+
+1	Själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	hade	ha	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	köpt	köpa	VB	VB.SUP.AKT
+5	nån	någon	PN	PN.UTR.SIN.IND.SUB+OBJ
+6	av	av	PP	PP
+7	dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+8	för	för	PP	PP
+9	40	40	RG	RG.NOM
+10	000kr	000kr	RG	RG.NOM
+11	,	,	MID	MID
+12	vilket	vilket	HP	HP.NEU.SIN.IND
+13	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+14	anser	anse	VB	VB.PRS.AKT
+15	vara	vara	VB	VB.INF.AKT
+16	riktigt	riktig	AB	AB
+17	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+18	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+19	för	för	PP	PP
+20	det	den	DT	DT.NEU.SIN.DEF
+21	priset	pris	NN	NN.NEU.SIN.DEF.NOM
+22	du	du	PN	PN.UTR.SIN.DEF.SUB
+23	får	få	VB	VB.PRS.AKT
+24	ge	ge	VB	VB.INF.AKT
+25	.	.	MAD	MAD
+
+1	http://www.blocket.se/uppsala/Volvo_....htm?ca=14&w=3	http://www.blocket.se/uppsala/Volvo_....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/ostergotland/S....htm?ca=14&w=3	http://www.blocket.se/ostergotland/S....htm?ca=14&w=3	NN	NN.UTR.SIN.IND.NOM
+
+1	På	på	PP	PP
+2	motorer	motor	NN	NN.UTR.PLU.IND.NOM
+3	bör	böra	VB	VB.PRS.AKT
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	säga	säga	VB	VB.INF.AKT
+6	.	.	MAD	MAD
+
+1	Inget	ingen	DT	DT.NEU.SIN.IND
+2	annat	annan	PN	PN.NEU.SIN.IND.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+5	på	på	PP	PP
+6	japanare	japanare	NN	NN.UTR.SIN.IND.NOM
+7	direkt	direkt	AB	AB.POS
+8	i	i	PP	PP
+9	den	den	DT	DT.UTR.SIN.DEF
+10	prisklassen	prisklass	NN	NN.UTR.SIN.DEF.NOM
+11	.	.	MAD	MAD
+
+1	Måste	måste	VB	VB.PRS.AKT
+2	upp	upp	PL	PL
+3	till	till	PP	PP
+4	mer	mer	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	extrembilar	extrembil	NN	NN.UTR.PLU.IND.NOM
+6	,	,	MID	MID
+7	supra	supra	NN	NN.UTR.SIN.IND.NOM
+8	,	,	MID	MID
+9	skyline	skyline	NN	NN.UTR.SIN.IND.NOM
+10	eller	eller	KN	KN
+11	nyare	ny	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+12	japanare	japanare	NN	NN.UTR.SIN.IND.NOM
+13	för	för	PP	PP
+14	att	att	IE	IE
+15	få	få	VB	VB.INF.AKT
+16	lite	lite	AB	AB.POS
+17	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+18	.	.	MAD	MAD
+
+1	Va	Va	HA	HA
+2	fan	fan	IN	IN
+3	är	vara	VB	VB.PRS.AKT
+4	EU-bil	EU-bil	NN	NN.UTR.SIN.IND.NOM
+5	?	?	MAD	MAD
+
+1	Bepansrade	bepansra	VB	VB.PRT.AKT
+2	Audi	Audi	PM	PM.NOM
+3	och	och	KN	KN
+4	Merceders	Merceders	PM	PM.NOM
+5	?	?	MAD	MAD
+
+1	https://www.blocket.se/goteborg/Lada....htm?ca=14&w=3	https://www.blocket.se/goteborg/Lada....htm?ca=14&w=3	NN	NN.AN
+
+1	Kanske	kanske	AB	AB
+2	vore	vara	VB	VB.KON.PRT.AKT
+3	nåt	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+4	.	.	MAD	MAD
+
+1	Lär	lär	VB	VB.PRS.AKT
+2	åtminstone	åtminstone	AB	AB
+3	hålla	hålla	VB	VB.INF.AKT
+4	bättre	bra	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+6	än	än	KN	KN
+7	VAG	vag	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	där	där	AB	AB
+3	är	vara	VB	VB.PRS.AKT
+4	rena	ren	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+5	skiten	skit	NN	NN.UTR.SIN.DEF.NOM
+6	för	för	PP	PP
+7	de	en	DT	DT.UTR+NEU.PLU.DEF
+8	där	där	AB	AB
+9	pengarna	peng	NN	NN.UTR.PLU.DEF.NOM
+10	.	.	MAD	MAD
+
+1	http://www.blocket.se/kalmar/Saab_9_....htm?ca=14&w=3	http://www.blocket.se/kalmar/Saab_9_....htm?ca=14&w=3	NN	NN.AN
+
+1	Pruta	pruta	VB	VB.IMP.AKT
+2	ner	ner	PL	PL
+3	den	den	DT	DT.UTR.SIN.DEF
+4	där	där	AB	AB
+5	9000	9000	RG	RG.NOM
+6	så	så	AB	AB
+7	har	ha	VB	VB.PRS.AKT
+8	du	du	PN	PN.UTR.SIN.DEF.SUB
+9	50	50	RG	RG.NOM
+10	000	000	RG	RG.NOM
+11	extra	extra	AB	AB
+12	mot	mot	PP	PP
+13	om	om	SN	SN
+14	du	du	PN	PN.UTR.SIN.DEF.SUB
+15	skulle	skola	VB	VB.PRT.AKT
+16	köpa	köpa	VB	VB.INF.AKT
+17	den	den	DT	DT.UTR.SIN.DEF
+18	andra	andra	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+19	skiten	skit	NN	NN.UTR.SIN.DEF.NOM
+20	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	bara	bara	AB	AB
+5	åka	åka	VB	VB.INF.AKT
+6	till	till	PP	PP
+7	Maptun	Maptun	PM	PM.NOM
+8	så	så	KN	KN
+9	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+10	kan	kunna	VB	VB.PRS.AKT
+11	sätta	sätta	VB	VB.INF.AKT
+12	i	i	PP	PP
+13	ett	en	DT	DT.NEU.SIN.IND
+14	steg	steg	NN	NN.NEU.SIN.IND.NOM
+15	3	3	RG	RG.NOM
+16	så	så	AB	AB
+17	har	ha	VB	VB.PRS.AKT
+18	du	du	PN	PN.UTR.SIN.DEF.SUB
+19	ungefär	ungefär	AB	AB
+20	lika	lika	AB	AB
+21	mkt	mkt	JJ	JJ.POS.UTR.SIN.IND.NOM
+22	hk	hk	NN	NN.AN
+23	som	som	KN	KN
+24	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+25	i	i	PP	PP
+26	annonsen	annons	NN	NN.UTR.SIN.DEF.NOM
+27	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	skulle	skola	VB	VB.PRT.AKT
+3	dock	dock	AB	AB
+4	köpt	köpa	VB	VB.SUP.AKT
+5	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+6	en	en	DT	DT.UTR.SIN.IND
+7	viggen	vigg	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Aero	Aero	PM	PM.NOM
+2	2006-	2006-	RG	RG.NOM
+3	har	ha	VB	VB.PRS.AKT
+4	kortnos	kortnos	NN	NN.UTR.SIN.IND.NOM
+5	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+6	och	och	KN	KN
+7	kungskobra	kungskobra	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	har	ha	VB	VB.PRS.AKT
+3	inte	inte	AB	AB
+4	2	2	RG	RG.NOM
+5	,	,	MID	MID
+6	3T	3T	RG	RG.NOM
+7	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	har	ha	VB	VB.PRS.AKT
+3	långnos	långnos	VB	VB.SUP.AKT
+4	turbon	turbo	NN	NN.UTR.SIN.DEF.NOM
+5	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	renovering	renovering	NN	NN.UTR.SIN.IND.NOM
+3	av	av	PP	PP
+4	spakstället	spakstället	NN	NN.NEU.SIN.DEF.NOM
+5	kanske	kanske	AB	AB
+6	sitter	sitta	VB	VB.PRS.AKT
+7	på	på	PP	PP
+8	sin	sig	PS	PS.UTR.SIN.DEF
+9	tur	tur	NN	NN.UTR.SIN.IND.NOM
+10	?	?	MAD	MAD
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	ingen	ingen	PN	PN.UTR.SIN.IND.SUB+OBJ
+3	.	.	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	är	vara	VB	VB.PRS.AKT
+3	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+4	för	för	PP	PP
+5	skit	skit	NN	NN.UTR.SIN.IND.NOM
+6	du	du	PN	PN.UTR.SIN.DEF.SUB
+7	plockat	plocka	VB	VB.SUP.AKT
+8	fram	fram	PL	PL
+9	?	?	MAD	MAD
+
+1	Går	gå	VB	VB.PRS.AKT
+2	att	att	IE	IE
+3	få	få	VB	VB.INF.AKT
+4	fina	fin	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	9-5	9-5	RG	RG.NOM
+6	;	;	MID	MID
+7	or	or	NN	NN.UTR.SIN.IND.NOM
+8	som	som	HP	HP.-.-.-
+9	inte	inte	AB	AB
+10	alls	alls	AB	AB
+11	gått	gå	VB	VB.SUP.AKT
+12	så	så	AB	AB
+13	mkt	mkt	AB	AB
+14	jämfört	jämfört	AB	AB
+15	mot	mot	PP	PP
+16	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+17	där	där	AB	AB
+18	.	.	MAD	MAD
+
+1	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/goteborg/Saab_....htm?ca=14&w=3	http://www.blocket.se/goteborg/Saab_....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/malmo/SAAB_9_5....htm?ca=14&w=3	http://www.blocket.se/malmo/SAAB_9_5....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	http://www.blocket.se/halland/Saab_9....htm?ca=14&w=3	NN	NN.AN
+
+1	Var	vara	VB	VB.PRT.AKT
+2	några	någon	DT	DT.UTR+NEU.PLU.IND
+3	exempel	exempel	NN	NN.NEU.PLU.IND.NOM
+4	.	.	MAD	MAD
+
+1	Förstår	förstå	VB	VB.PRS.AKT
+2	inte	inte	AB	AB
+3	varför	varför	HA	HA
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	ska	skola	VB	VB.PRS.AKT
+6	plocka	plocka	VB	VB.INF.AKT
+7	fram	fram	PL	PL
+8	en	en	DT	DT.UTR.SIN.IND
+9	sleten	sleten	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	taxi	taxi	NN	NN.UTR.SIN.IND.NOM
+11	med	med	PP	PP
+12	30	30	RG	RG.NOM
+13	000	000	RG	RG.NOM
+14	mil	mil	NN	NN.UTR.PLU.IND.NOM
+15	för	för	PP	PP
+16	70k	70k	RG	RG.NOM
+17	,	,	MID	MID
+18	när	när	HA	HA
+19	du	du	PN	PN.UTR.SIN.DEF.SUB
+20	kan	kunna	VB	VB.PRS.AKT
+21	få	få	VB	VB.INF.AKT
+22	en	en	DT	DT.UTR.SIN.IND
+23	02-04	02-04	RG	RG.NOM
+24	vector	vector	NN	NN.UTR.PLU.IND.NOM
+25	med	med	PP	PP
+26	låga	låg	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+27	mil	mil	NN	NN.UTR.PLU.IND.NOM
+28	och	och	KN	KN
+29	mkt	mkt	JJ	JJ.POS.UTR.SIN.IND.NOM
+30	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+31	.	.	MAD	MAD
+
+1	Oil	Oil	PM	PM.NOM
+2	slugde	slugde	VB	VB.PRT.AKT
+3	försvann	försvinna	VB	VB.PRT.AKT
+4	helt	hel	AB	AB.POS
+5	från	från	PP	PP
+6	04	04	RG	RG.NOM
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	är	vara	VB	VB.PRS.AKT
+3	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+4	skött	sköta	VB	VB.SUP.AKT
+5	och	och	KN	KN
+6	har	ha	VB	VB.PRS.AKT
+7	uppdateringssatsen	uppdateringssats	NN	NN.UTR.SIN.DEF.NOM
+8	är	vara	VB	VB.PRS.AKT
+9	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+10	ingen	ingen	DT	DT.UTR.SIN.IND
+11	fara	fara	NN	NN.UTR.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Att	att	IE	IE
+2	hitta	hitta	VB	VB.INF.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	2	2	RG	RG.NOM
+5	,	,	MID	MID
+6	0t	0t	RG	RG.NOM
+7	med	med	PP	PP
+8	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+9	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+10	samt	samt	KN	KN
+11	antisladd	antisladd	NN	NN.UTR.SIN.IND.NOM
+12	är	vara	VB	VB.PRS.AKT
+13	nog	nog	AB	AB
+14	ganska	ganska	AB	AB
+15	svårt	svår	JJ	JJ.POS.NEU.SIN.IND.NOM
+16	.	.	MAD	MAD
+
+1	Du	Du	PN	PN.UTR.SIN.DEF.SUB
+2	förlorar	förlora	VB	VB.PRS.AKT
+3	massa	massa	NN	NN.UTR.SIN.IND.NOM
+4	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+5	på	på	PP	PP
+6	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+7	.	.	MAD	MAD
+
+1	De	en	DT	DT.UTR+NEU.PLU.DEF
+2	flesta	mången	JJ	JJ.SUV.UTR+NEU.PLU.DEF.NOM
+3	vector	vector	NN	NN.UTR.PLU.IND.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	2	2	RG	RG.NOM
+6	,	,	MID	MID
+7	3t	3t	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Ska	skola	VB	VB.PRS.AKT
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	ha	ha	VB	VB.INF.AKT
+4	2	2	RG	RG.NOM
+5	,	,	MID	MID
+6	0t	0t	RG	RG.NOM
+7	får	få	VB	VB.PRS.AKT
+8	du	du	PN	PN.UTR.SIN.DEF.SUB
+9	gå	gå	VB	VB.INF.AKT
+10	ner	ner	PL	PL
+11	till	till	PP	PP
+12	linear	linear	NN	NN.UTR.SIN.IND.NOM
+13	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	då	då	AB	AB
+3	får	få	VB	VB.PRS.AKT
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	inte	inte	AB	AB
+6	pilotpaket	pilotpaket	NN	NN.UTR.SIN.IND.NOM
+7	med	med	PP	PP
+8	t.ex.	t.ex.	AB	AB.AN
+9	Att	att	IE	IE
+10	betala	betala	VB	VB.INF.AKT
+11	lite	lite	AB	AB.POS
+12	mer	mer	AB	AB.KOM
+13	och	och	KN	KN
+14	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+15	drar	dra	VB	VB.PRS.AKT
+16	lite	lite	AB	AB.POS
+17	mer	mer	AB	AB.KOM
+18	i	i	PP	PP
+19	utbyte	utbyte	NN	NN.NEU.SIN.IND.NOM
+20	mot	mot	PP	PP
+21	den	den	DT	DT.UTR.SIN.DEF
+22	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+23	du	du	PN	PN.UTR.SIN.DEF.SUB
+24	får	få	VB	VB.PRS.AKT
+25	,	,	MID	MID
+26	så	så	AB	AB
+27	är	vara	VB	VB.PRS.AKT
+28	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+29	värt	värd	JJ	JJ.POS.NEU.SIN.IND.NOM
+30	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+31	.	.	MAD	MAD
+
+1	Sedan	sedan	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	billigare	billig	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+4	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	ovanligare	ovanlig	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+3	än	än	KN	KN
+4	kombi	kombi	NN	NN.AN
+5	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	välja	välja	VB	VB.INF.AKT
+3	säga	säga	VB	VB.INF.AKT
+4	på	på	PP	PP
+5	årsmodell	årsmodell	NN	NN.UTR.SIN.IND.NOM
+6	06-10	06-10	RG	RG.NOM
+7	(	(	PAD	PAD
+8	Sedan	sedan	PP	PP
+9	09	09	RG	RG.NOM
+10	)	)	PAD	PAD
+11	Så	så	AB	AB
+12	går	gå	VB	VB.PRS.AKT
+13	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+14	1	1	RG	RG.NOM
+15	sedan	sedan	AB	AB
+16	på	på	PP	PP
+17	10	10	RG	RG.NOM
+18	kombis	kombi	NN	NN.UTR.PLU.IND.NOM
+19	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	utsedd	utse	PC	PC.PRF.UTR.SIN.IND.NOM
+3	till	till	PP	PP
+4	Sveriges	Sverige	PM	PM.GEN
+5	säkraste	säker	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+6	bil	bil	NN	NN.UTR.SIN.IND.NOM
+7	,	,	MID	MID
+8	minns	minna	VB	VB.PRS.SFO
+9	inte	inte	AB	AB
+10	årtalet	årtal	NN	NN.NEU.SIN.DEF.NOM
+11	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	tänk	tänka	VB	VB.IMP.AKT
+3	på	på	PP	PP
+4	detta	denna	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	när	när	HA	HA
+6	du	du	PN	PN.UTR.SIN.DEF.SUB
+7	väljer	välja	VB	VB.PRS.AKT
+8	:	:	MAD	MAD
+
+1	"	"	PAD	PAD
+2	Volvo	Volvo	PM	PM.NOM
+3	åker	åka	VB	VB.PRS.AKT
+4	man	man	PN	PN.UTR.SIN.IND.SUB
+5	,	,	MID	MID
+6	Saab	Saab	PM	PM.NOM
+7	kör	köra	VB	VB.PRS.AKT
+8	man	man	PN	PN.UTR.SIN.IND.SUB
+9	.	.	MAD	MAD
+
+1	Volvo	Volvo	PM	PM.NOM
+2	tar	ta	VB	VB.PRS.AKT
+3	man	man	PN	PN.UTR.SIN.IND.SUB
+4	sig	sig	PN	PN.UTR+NEU.SIN+PLU.DEF.OBJ
+5	ifrån	ifrån	PP	PP
+6	punkt	punkt	NN	NN.UTR.SIN.IND.NOM
+7	A	A	NN	NN.NEU.SIN.IND.NOM
+8	till	till	PP	PP
+9	punkt	punkt	NN	NN.UTR.SIN.IND.NOM
+10	B	B	NN	NN.NEU.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	kör	köra	VB	VB.PRS.AKT
+3	man	man	PN	PN.UTR.SIN.IND.SUB
+4	där	där	AB	AB
+5	imellan	imellan	AB	AB
+6	.	.	MAD	MAD
+7	"	"	PAD	PAD
+
+1	Välj	välja	VB	VB.IMP.AKT
+2	9-5	9-5	RG	RG.NOM
+3	om	om	SN	SN
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	vill	vilja	VB	VB.PRS.AKT
+6	åka	åka	VB	VB.INF.AKT
+7	väldigt	väldig	AB	AB.POS
+8	säkert	säker	AB	AB.POS
+9	och	och	KN	KN
+10	ha	ha	VB	VB.INF.AKT
+11	körglädje	körglädje	NN	NN.UTR.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Ägd	äga	PC	PC.PRF.UTR.SIN.IND.NOM
+2	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	9-5	9-5	RG	RG.NOM
+3	En	man	PN	PN.UTR.SIN.IND.SUB+OBJ
+4	av	av	PP	PP
+5	Sveriges	Sverige	PM	PM.GEN
+6	säkraste	säker	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+7	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+8	,	,	MID	MID
+9	baserat	basera	PC	PC.PRF.NEU.SIN.IND.NOM
+10	på	på	PP	PP
+11	verkliga	verklig	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+12	olyckor	olycka	NN	NN.UTR.PLU.IND.NOM
+13	.	.	MAD	MAD
+
+1	Den	den	DT	DT.UTR.SIN.DEF
+2	meriten	merit	NN	NN.UTR.SIN.DEF.NOM
+3	har	ha	VB	VB.PRS.AKT
+4	inte	inte	AB	AB
+5	ens	ens	AB	AB
+6	v70:in	v70:in	PM	PM.NOM
+7	,	,	MID	MID
+8	endå	endå	AB	AB
+9	köper	köpa	VB	VB.PRS.AKT
+10	folk	folk	NN	NN.NEU.PLU.IND.NOM
+11	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+12	.	.	MAD	MAD
+
+1	Hur	hur	HA	HA
+2	kör	köra	VB	VB.PRS.AKT
+3	man	man	PN	PN.UTR.SIN.IND.SUB
+4	ecodriving	ecodriving	NN	NN.UTR.SIN.IND.NOM
+5	med	med	PP	PP
+6	automat	automat	NN	NN.UTR.SIN.IND.NOM
+7	?	?	MAD	MAD
+
+1	http://www.blocket.se/ostergotland/F....htm?ca=14&w=1	http://www.blocket.se/ostergotland/F....htm?ca=14&w=1	NN	NN.UTR.SIN.IND.NOM
+
+1	Bland	bland	PP	PP
+2	det	den	DT	DT.NEU.SIN.DEF
+3	säkraste	säker	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+4	,	,	MID	MID
+5	om	om	SN	SN
+6	inte	inte	AB	AB
+7	det	den	DT	DT.NEU.SIN.DEF
+8	säkraste	säker	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+9	du	du	PN	PN.UTR.SIN.DEF.SUB
+10	kan	kunna	VB	VB.PRS.AKT
+11	sätta	sätta	VB	VB.INF.AKT
+12	dina	du	PS	PS.UTR+NEU.PLU.DEF
+13	barn	barn	NN	NN.NEU.PLU.IND.NOM
+14	i	i	PP	PP
+15	,	,	MID	MID
+16	enligt	enligt	PP	PP
+17	försäkringsbolaget	försäkringsbolag	NN	NN.NEU.SIN.DEF.NOM
+18	Folksam	Folksam	PM	PM.NOM
+19	.	.	MAD	MAD
+
+1	Nej	nej	IN	IN
+2	.	.	MAD	MAD
+
+1	Reservdelar	reservdel	NN	NN.UTR.PLU.IND.NOM
+2	måste	måste	VB	VB.PRS.AKT
+3	dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+4	fortsätta	fortsätta	VB	VB.INF.AKT
+5	tillverka	tillverka	VB	VB.INF.AKT
+6	i	i	PP	PP
+7	10år	10år	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	Speedparts	Speedparts	PM	PM.NOM
+2	har	ha	VB	VB.PRS.AKT
+3	även	även	AB	AB
+4	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	ska	skola	VB	VB.PRS.AKT
+3	du	du	PN	PN.UTR.SIN.DEF.SUB
+4	ha	ha	VB	VB.INF.AKT
+5	den	den	DT	DT.UTR.SIN.DEF
+6	där	där	AB	AB
+7	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+8	får	få	VB	VB.PRS.AKT
+9	du	du	PN	PN.UTR.SIN.DEF.SUB
+10	nog	nog	AB	AB
+11	skynda	skynda	VB	VB.INF.AKT
+12	på	på	PL	PL
+13	.	.	MAD	MAD
+
+1	20lök	20lök	NN	NN.UTR.SIN.IND.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	billigt	billig	JJ	JJ.POS.NEU.SIN.IND.NOM
+4	,	,	MID	MID
+5	för	för	PP	PP
+6	vad	vad	HP	HP.NEU.SIN.IND
+7	du	du	PN	PN.UTR.SIN.DEF.SUB
+8	får	få	VB	VB.PRS.AKT
+9	.	.	MAD	MAD
+
+1	Ny	ny	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	motor	motor	NN	NN.UTR.SIN.IND.NOM
+3	,	,	MID	MID
+4	turbo	turbo	NN	NN.NEU.SIN.IND.NOM
+5	,	,	MID	MID
+6	stötdämpare	stötdämpare	NN	NN.UTR.SIN.IND.NOM
+7	osv	osv	AB	AB.AN
+8	.	.	MAD	MAD
+
+1	Edit	Edit	PM	PM.NOM
+2	:	:	MID	MID
+3	Borta	borta	AB	AB
+4	...	...	MAD	MAD
+
+1	Sitter	sitta	VB	VB.PRS.AKT
+2	Asin	Asin	PM	PM.NOM
+3	Warner	Warner	PM	PM.NOM
+4	lådor	låda	NN	NN.UTR.PLU.IND.NOM
+5	i	i	PP	PP
+6	båda	båda	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+7	två	två	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Koche	Koche	PM	PM.NOM
+2	Bil	bil	NN	NN.UTR.SIN.IND.NOM
+3	i	i	PP	PP
+4	Linköping	Linköping	PM	PM.NOM
+5	har	ha	VB	VB.PRS.AKT
+6	några	någon	DT	DT.UTR+NEU.PLU.IND
+7	fina	fin	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+8	9-5or	9-5or	RG	RG.NOM
+9	inne	inne	AB	AB
+10	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	en	en	DT	DT.UTR.SIN.IND
+4	smaksak	smaksak	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	vad	vad	HP	HP.NEU.SIN.IND
+6	man	man	PN	PN.UTR.SIN.IND.SUB
+7	vill	vilja	VB	VB.PRS.AKT
+8	ha	ha	VB	VB.INF.AKT
+9	.	.	MAD	MAD
+
+1	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	NN	NN.UTR.SIN.IND.NOM
+
+1	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	NN	NN.UTR.SIN.IND.NOM
+
+1	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	https://www.blocket.se/ostergotland/....htm?ca=14&w=3	NN	NN.UTR.SIN.IND.NOM
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	hade	ha	VB	VB.PRT.AKT
+3	dock	dock	AB	AB
+4	köpt	köpa	VB	VB.SUP.AKT
+5	Aero	Aero	PM	PM.NOM
+6	alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+7	dagar	dag	NN	NN.UTR.PLU.IND.NOM
+8	i	i	PP	PP
+9	veckan	vecka	NN	NN.UTR.SIN.DEF.NOM
+10	.	.	MAD	MAD
+
+1	260hk	260hk	RG	RG.NOM
+2	så	så	AB	AB
+3	pinar	pina	VB	VB.PRS.AKT
+4	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+5	på	på	PP	PP
+6	rätt	rätt	AB	AB
+7	så	så	AB	AB
+8	bra	bra	AB	AB.POS
+9	.	.	MAD	MAD
+
+1	Vad	vad	HP	HP.NEU.SIN.IND
+2	är	vara	VB	VB.PRS.AKT
+3	svårt	svår	JJ	JJ.POS.NEU.SIN.IND.NOM
+4	att	att	IE	IE
+5	få	få	VB	VB.INF.AKT
+6	tag	tag	NN	NN.NEU.SIN.IND.NOM
+7	på	på	PP	PP
+8	?	?	MAD	MAD
+
+1	Finns	finna	VB	VB.PRS.SFO
+2	hemma	hemma	PL	PL
+3	på	på	PP	PP
+4	lager	lager	NN	NN.NEU.SIN.IND.NOM
+5	i	i	PP	PP
+6	Nyköping	Nyköping	PM	PM.NOM
+7	.	.	MAD	MAD
+
+1	Beställer	beställa	VB	VB.PRS.AKT
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	imorgon	imorgon	AB	AB
+4	innan	innan	SN	SN
+5	kl	kl	AB	AB.AN
+6	14	14	RG	RG.NOM
+7	så	så	AB	AB
+8	har	ha	VB	VB.PRS.AKT
+9	man	man	PN	PN.UTR.SIN.IND.SUB
+10	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+11	hemma	hemma	AB	AB
+12	på	på	PP	PP
+13	Torsdag	torsdag	NN	NN.UTR.SIN.IND.NOM
+14	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	minskar	minska	VB	VB.PRS.AKT
+3	snabbt	snabb	AB	AB.POS
+4	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	blir	bli	VB	VB.PRS.AKT
+3	billigare	billig	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+4	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+5	med	med	PP	PP
+6	tiden	tid	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	då	då	AB	AB
+3	brister	brista	VB	VB.PRS.AKT
+4	även	även	AB	AB
+5	servicen	service	NN	NN.UTR.SIN.DEF.NOM
+6	.	.	MAD	MAD
+
+1	Vilket	Vilket	HP	HP.NEU.SIN.IND
+2	är	vara	VB	VB.PRS.AKT
+3	förödande	föröda	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+4	för	för	PP	PP
+5	9-5	9-5	RG	RG.NOM
+6	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	turboras	turboras	VB	VB.PRS.SFO
+3	/	/	MID	MID
+4	motorras	motorras	VB	VB.INF.SFO
+5	är	vara	VB	VB.PRS.AKT
+6	snart	snar	AB	AB.POS
+7	ett	en	DT	DT.NEU.SIN.IND
+8	faktum	faktum	NN	NN.NEU.SIN.IND.NOM
+9	.	.	MAD	MAD
+
+1	Lägg	lägga	VB	VB.IMP.AKT
+2	där	där	AB	AB
+3	till	till	PP	PP
+4	kostsamma	kostsam	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	besiktnings	besiktning	NN	NN.UTR.SIN.IND.NOM
+6	2or	2or	NN	NN.UTR.SIN.IND.NOM
+7	som	som	KN	KN
+8	länkarmar	länkarm	NN	NN.UTR.PLU.IND.NOM
+9	fram	fram	AB	AB
+10	,	,	MID	MID
+11	bromsrör	bromsrör	NN	NN.NEU.SIN.IND.NOM
+12	längsgående	längsgående	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+13	eller	eller	KN	KN
+14	länkarmslagringar	länkarmslagring	NN	NN.UTR.PLU.IND.NOM
+15	bak	bak	AB	AB
+16	så	så	AB	AB
+17	är	vara	VB	VB.PRS.AKT
+18	skroten	skrot	NN	NN.UTR.SIN.DEF.NOM
+19	bara	bara	AB	AB
+20	runt	runt	PP	PP
+21	hörnet	hörn	NN	NN.NEU.SIN.DEF.NOM
+22	.	.	MAD	MAD
+
+1	9-5	9-5	RG	RG.NOM
+2	dominerar	dominera	VB	VB.PRS.AKT
+3	nu	nu	AB	AB
+4	på	på	PP	PP
+5	skroten	skrot	NN	NN.UTR.SIN.DEF.NOM
+6	.	.	MAD	MAD
+
+1	9-3	9-3	RG	RG.NOM
+2	med	med	PP	PP
+3	främst	främst	AB	AB.SUV
+4	T7	T7	PM	PM.NOM
+5	motorerna	motor	NN	NN.UTR.PLU.DEF.NOM
+6	finns	finna	VB	VB.PRS.SFO
+7	med	med	PL	PL
+8	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	inte	inte	AB	AB
+3	alls	alls	AB	AB
+4	i	i	PP	PP
+5	samma	samma	DT	DT.UTR+NEU.SIN+PLU.IND
+6	storlek	storlek	NN	NN.UTR.SIN.IND.NOM
+7	som	som	KN	KN
+8	9-5	9-5	RG	RG.NOM
+9	.	.	MAD	MAD
+
+1	9000	9000	RG	RG.NOM
+2	börjar	börja	VB	VB.PRS.AKT
+3	försvinna	försvinna	VB	VB.INF.AKT
+4	från	från	PP	PP
+5	skroten	skrot	NN	NN.UTR.SIN.DEF.NOM
+6	med	med	PP	PP
+7	.	.	MAD	MAD
+
+1	De	en	DT	DT.UTR+NEU.PLU.DEF
+2	värsta	ond	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+3	skiten	skit	NN	NN.UTR.SIN.DEF.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	borta	borta	AB	AB
+6	,	,	MID	MID
+7	kvar	kvar	AB	AB
+8	är	vara	VB	VB.PRS.AKT
+9	bruksbilarna	bruksbil	NN	NN.UTR.PLU.DEF.NOM
+10	som	som	HP	HP.-.-.-
+11	hålls	hålla	VB	VB.PRS.SFO
+12	i	i	PP	PP
+13	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+14	skick	skick	NN	NN.NEU.SIN.IND.NOM
+15	samt	samt	KN	KN
+16	fin	fin	JJ	JJ.POS.UTR.SIN.IND.NOM
+17	bilarna	bil	NN	NN.UTR.PLU.DEF.NOM
+18	.	.	MAD	MAD
+
+1	Lokala	lokal	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+2	skroten	skrot	NN	NN.UTR.SIN.DEF.NOM
+3	får	få	VB	VB.PRS.AKT
+4	in	in	PL	PL
+5	mellan	mellan	PP	PP
+6	2-5	2-5	RG	RG.NOM
+7	st	st	NN	NN.AN
+8	9-5or	9-5or	RG	RG.NOM
+9	per	per	PP	PP
+10	vecka	vecka	NN	NN.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	då	då	AB	AB
+3	är	vara	VB	VB.PRS.AKT
+4	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+5	en	en	DT	DT.UTR.SIN.IND
+6	liten	liten	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	skrot	skrot	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	98-01	98-01	RG	RG.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	ovanligt	ovanlig	AB	AB.POS
+4	med	med	PP	PP
+5	.	.	MAD	MAD
+
+1	Nu	nu	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	02-05	02-05	RG	RG.NOM
+5	som	som	HP	HP.-.-.-
+6	dyker	dyka	VB	VB.PRS.AKT
+7	upp	upp	PL	PL
+8	hela	hel	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+9	tiden	tid	NN	NN.UTR.SIN.DEF.NOM
+10	.	.	MAD	MAD
+
+1	Vill	vilja	VB	VB.PRS.AKT
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	lösa	lösa	VB	VB.INF.AKT
+4	problemet	problem	NN	NN.NEU.SIN.DEF.NOM
+5	så	så	AB	AB
+6	går	gå	VB	VB.PRS.AKT
+7	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+8	.	.	MAD	MAD
+
+1	Begagnad	Begagnad	NN	NN.UTR.SIN.IND.NOM
+2	marknaden	marknad	NN	NN.UTR.SIN.DEF.NOM
+3	finns	finna	VB	VB.PRS.SFO
+4	alltid	alltid	AB	AB
+5	.	.	MAD	MAD
+
+1	Returbilen	returbil	NN	NN.UTR.SIN.DEF.NOM
+2	,	,	MID	MID
+3	främst	främst	AB	AB.SUV
+4	Kungsåra	kungsåra	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	del	del	NN	NN.UTR.SIN.IND.NOM
+4	06	06	RG	RG.NOM
+5	och	och	KN	KN
+6	framåt	framåt	AB	AB
+7	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	har	ha	VB	VB.PRS.AKT
+3	haft	ha	VB	VB.SUP.AKT
+4	inne	inne	PL	PL
+5	ett	en	DT	DT.NEU.SIN.IND
+6	par	par	NN	NN.NEU.SIN.IND.NOM
+7	st	st	NN	NN.AN
+8	som	som	HP	HP.-.-.-
+9	knappt	knapp	AB	AB.POS
+10	gått	gå	VB	VB.SUP.AKT
+11	10	10	RG	RG.NOM
+12	000	000	RG	RG.NOM
+13	mil	mil	NN	NN.UTR.PLU.IND.NOM
+14	.	.	MAD	MAD
+
+1	Finns	finna	VB	VB.PRS.SFO
+2	även	även	AB	AB
+3	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+4	som	som	HP	HP.-.-.-
+5	rullat	rulla	VB	VB.SUP.AKT
+6	mellan	mellan	PP	PP
+7	10-20	10-20	RG	RG.NOM
+8	000	000	RG	RG.NOM
+9	mil	mil	NN	NN.UTR.PLU.IND.NOM
+10	.	.	MAD	MAD
+
+1	9-5	9-5	RG	RG.NOM
+2	mår	må	VB	VB.PRS.AKT
+3	bra	bra	AB	AB.POS
+4	av	av	PP	PP
+5	att	att	IE	IE
+6	gå	gå	VB	VB.INF.AKT
+7	mycket	mycket	AB	AB.POS
+8	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	långt	lång	AB	AB.POS
+3	.	.	MAD	MAD
+
+1	"	"	PAD	PAD
+2	Förebygger	förebygga	VB	VB.PRS.AKT
+3	"	"	PAD	PAD
+4	oil	oil	UO	UO
+5	slugde	slugde	UO	UO
+6	.	.	MAD	MAD
+
+1	1	1	RG	RG.NOM
+2	veckas	vecka	NN	NN.UTR.SIN.IND.GEN
+3	leveranstid	leveranstid	NN	NN.UTR.SIN.IND.NOM
+4	på	på	PP	PP
+5	majoriteten	majoritet	NN	NN.UTR.SIN.DEF.NOM
+6	av	av	PP	PP
+7	Saabs	Saab	PM	PM.GEN
+8	delar	del	NN	NN.UTR.PLU.IND.NOM
+9	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	beställde	beställa	VB	VB.PRT.AKT
+3	delar	del	NN	NN.UTR.PLU.IND.NOM
+4	i	i	PP	PP
+5	Onsdags	i onsdags:4	PM	PM.GEN
+6	morse	morse	NN	NN.-.-.-.-
+7	,	,	MID	MID
+8	Torsdag	torsdag	NN	NN.UTR.SIN.IND.NOM
+9	09.00	09.00	RG	RG.NOM
+10	hade	ha	VB	VB.PRT.AKT
+11	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+12	delarna	del	NN	NN.UTR.PLU.DEF.NOM
+13	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	visst	visst	IN	IN
+3	,	,	MID	MID
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	kanske	kanske	AB	AB
+6	vill	vilja	VB	VB.PRS.AKT
+7	ha	ha	VB	VB.INF.AKT
+8	delarna	del	NN	NN.UTR.PLU.DEF.NOM
+9	teleporterade	teleporterade	PC	PC.PRF.UTR+NEU.PLU.IND+DEF.NOM
+10	till	till	PP	PP
+11	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+12	,	,	MID	MID
+13	och	och	KN	KN
+14	ja	ja	IN	IN
+15	.	.	MAD	MAD
+
+1	Då	då	AB	AB
+2	blir	bli	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	inte	inte	AB	AB
+5	lätt	lätt	JJ	JJ.POS.NEU.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Oavsett	oavsett	PP	PP
+2	tillverkare	tillverkare	NN	NN.UTR.SIN.IND.NOM
+3	.	.	MAD	MAD
+
+1	ÅF	ÅF	PM	PM.NOM
+2	har	ha	VB	VB.PRS.AKT
+3	allt	all	DT	DT.NEU.SIN.IND+DEF
+4	ansvar	ansvar	NN	NN.NEU.SIN.IND.NOM
+5	om	om	SN	SN
+6	Saab	Saab	PM	PM.NOM
+7	går	gå	VB	VB.PRS.AKT
+8	i	i	PP	PP
+9	konkurs	konkurs	NN	NN.UTR.SIN.IND.NOM
+10	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	reservdelar	reservdel	NN	NN.UTR.PLU.IND.NOM
+3	behöver	behöva	VB	VB.PRS.AKT
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	inte	inte	AB	AB
+6	oroa	oroa	VB	VB.INF.AKT
+7	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+8	över	över	PL	PL
+9	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	skulle	skola	VB	VB.PRT.AKT
+3	råda	rå	VB	VB.INF.AKT
+4	dig	du	PN	PN.UTR.SIN.DEF.OBJ
+5	köpa	köpa	VB	VB.INF.AKT
+6	en	en	DT	DT.UTR.SIN.IND
+7	sådan	sån	JJ	JJ.POS.UTR.SIN.IND.NOM
+8	här	här	AB	AB
+9	,	,	MID	MID
+10	Mycket	Mycket	JJ	JJ.POS.NEU.SIN.IND.NOM
+11	bil	bil	NN	NN.UTR.SIN.IND.NOM
+12	för	för	PP	PP
+13	pengarna	peng	NN	NN.UTR.PLU.DEF.NOM
+14	:	:	MAD	MAD
+
+1	http://www.blocket.se/vi/20266245.htm?ca=14_s	http://www.blocket.se/vi/20266245.htm?ca=14_s	RG	RG.NOM
+
+1	http://www.blocket.se/vi/20258903.htm?ca=14_s	http://www.blocket.se/vi/20258903.htm?ca=14_s	RG	RG.NOM
+
+1	Köp	köp	NN	NN.NEU.SIN.IND.NOM
+2	9-5	9-5	RG	RG.NOM
+3	från	från	PP	PP
+4	2001	2001	RG	RG.NOM
+5	och	och	KN	KN
+6	framåt	framåt	AB	AB
+7	med	med	PP	PP
+8	automaten	automat	NN	NN.UTR.SIN.DEF.NOM
+9	.	.	MAD	MAD
+
+1	Bytte	byta	VB	VB.PRT.AKT
+2	från	från	PP	PP
+3	4vxlad	4vxlad	PC	PC.PRF.UTR.SIN.IND.NOM
+4	till	till	PP	PP
+5	5vxlad	5vxlad	PC	PC.PRF.UTR.SIN.IND.NOM
+6	automat	automat	NN	NN.UTR.SIN.IND.NOM
+7	2001	2001	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	http://www.blocket.se/kalmar/Saab_9_....htm?ca=14&w=3	http://www.blocket.se/kalmar/Saab_9_....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/gavleborg/Saab....htm?ca=14&w=3	http://www.blocket.se/gavleborg/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	Tjena	Tjena	VB	VB.IMP.AKT
+2	tjena	tjena	VB	VB.INF.AKT
+3	.	.	MAD	MAD
+
+1	Vilken	Vilken	HD	HD.UTR.SIN.IND
+2	bil	bil	NN	NN.UTR.SIN.IND.NOM
+3	anser	anse	VB	VB.PRS.AKT
+4	ni	ni	PN	PN.UTR.SIN.DEF.SUB
+5	vara	vara	VB	VB.INF.AKT
+6	den	den	DT	DT.UTR.SIN.DEF
+7	bästa	bra	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+8	första	första	RO	RO.NOM
+9	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+10	om	om	SN	SN
+11	man	man	PN	PN.UTR.SIN.IND.SUB
+12	jämför	jämföra	VB	VB.PRS.AKT
+13	dessa	denna	DT	DT.UTR+NEU.PLU.DEF
+14	två	två	RG	RG.NOM
+15	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	900	900	RG	RG.NOM
+3	94-98	94-98	RG	RG.NOM
+4	eller	eller	KN	KN
+5	Saab	Saab	PM	PM.NOM
+6	9-3	9-3	RG	RG.NOM
+7	98-00	98-00	RG	RG.NOM
+8	med	med	PP	PP
+9	T5	T5	PM	PM.NOM
+10	motor	motor	NN	NN.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Max	Max	PM	PM.NOM
+2	pris	pris	NN	NN.NEU.SIN.IND.NOM
+3	20	20	RG	RG.NOM
+4	000kr	000kr	RG	RG.NOM
+5	.	.	MAD	MAD
+
+1	Njaa	njaa	IN	IN
+2	.	.	MAD	MAD
+
+1	Bara	bara	AB	AB
+2	Saab	Saab	PM	PM.NOM
+3	är	vara	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	intresserad	intressera	PC	PC.PRF.UTR.SIN.IND.NOM
+6	av	av	PP	PP
+7	.	.	MAD	MAD
+
+1	Og900	Og900	IN	IN
+2	då	då	AB	AB
+3	?	?	MAD	MAD
+
+1	Men	men	KN	KN
+2	vad	vad	HP	HP.NEU.SIN.IND
+3	kostar	kosta	VB	VB.PRS.AKT
+4	förstärkning	förstärkning	NN	NN.UTR.SIN.IND.NOM
+5	av	av	PP	PP
+6	växellådan	växellåda	NN	NN.UTR.SIN.DEF.NOM
+7	kan	kunna	VB	VB.PRS.AKT
+8	tro	tro	VB	VB.INF.AKT
+9	?	?	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	redan	redan	AB	AB
+3	köpt	köpa	VB	VB.SUP.AKT
+4	en	en	DT	DT.UTR.SIN.IND
+5	bil	bil	NN	NN.UTR.SIN.IND.NOM
+6	,	,	MID	MID
+7	tråd	tråd	NN	NN.UTR.SIN.IND.NOM
+8	kan	kunna	VB	VB.PRS.AKT
+9	låsas	låsa	VB	VB.INF.SFO
+10	.	.	MAD	MAD
+
+1	Fruktansvärt	fruktansvärd	AB	AB.POS
+2	snygga	snygg	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+3	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+4	,	,	MID	MID
+5	känner	känna	VB	VB.PRS.AKT
+6	för	för	PP	PP
+7	att	att	IE	IE
+8	slå	slå	VB	VB.INF.AKT
+9	till	till	PL	PL
+10	på	på	PP	PP
+11	båda	båda	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+12	två	två	RG	RG.NOM
+13	direkt	direkt	AB	AB.POS
+14	nu	nu	AB	AB
+15	.	.	MAD	MAD
+
+1	Tyvärr	tyvärr	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+4	en	en	DT	DT.UTR.SIN.IND
+5	sida	sida	NN	NN.UTR.SIN.IND.NOM
+6	som	som	HP	HP.-.-.-
+7	stoppar	stoppa	VB	VB.PRS.AKT
+8	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+9	.	.	MAD	MAD
+
+1	Annars	annars	AB	AB
+2	skulle	skola	VB	VB.PRT.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	slått	slått	VB	VB.SUP.AKT
+5	till	till	PL	PL
+6	direkt	direkt	AB	AB.POS
+7	.	.	MAD	MAD
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	innan	innan	SN	SN
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	köper	köpa	VB	VB.PRS.AKT
+6	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+7	:	:	MAD	MAD
+
+1	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	http://www.blocket.se/stockholm/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	annan	annan	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	fin	fin	JJ	JJ.POS.UTR.SIN.IND.NOM
+4	:	:	MAD	MAD
+
+1	http://www.blocket.se/varmland/Saab_....htm?ca=14&w=3	http://www.blocket.se/varmland/Saab_....htm?ca=14&w=3	NN	NN.AN
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	skit	skit	NN	NN.UTR.SIN.IND.NOM
+4	bil	bil	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Ska	skola	VB	VB.PRS.AKT
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	bara	bara	AB	AB
+4	åka	åka	VB	VB.INF.AKT
+5	sådär	sådär	AB	AB
+6	kommer	komma	VB	VB.PRS.AKT
+7	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+8	bli	bli	VB	VB.INF.AKT
+9	kondens	kondens	NN	NN.UTR.SIN.DEF.GEN
+10	i	i	PP	PP
+11	motorn	motor	NN	NN.UTR.SIN.DEF.NOM
+12	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	får	få	VB	VB.PRS.AKT
+4	byta	byta	VB	VB.INF.AKT
+5	olja	olja	NN	NN.UTR.SIN.IND.NOM
+6	skit	skit	NN	NN.UTR.SIN.IND.NOM
+7	ofta	ofta	AB	AB.POS
+8	.	.	MAD	MAD
+
+1	Pga	Pga	AB	AB.AN
+2	.	.	MAD	MAD
+3	att	att	SN	SN
+4	du	du	PN	PN.UTR.SIN.DEF.SUB
+5	kör	köra	VB	VB.PRS.AKT
+6	så	så	AB	AB
+7	korta	kort	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+8	sträckor	sträcka	NN	NN.UTR.PLU.IND.NOM
+9	,	,	MID	MID
+10	och	och	KN	KN
+11	motorn	motor	NN	NN.UTR.SIN.DEF.NOM
+12	aldrig	aldrig	AB	AB
+13	hinner	hinna	VB	VB.PRS.AKT
+14	bli	bli	VB	VB.INF.AKT
+15	varm	varm	JJ	JJ.POS.UTR.SIN.IND.NOM
+16	.	.	MAD	MAD
+
+1	16	16	RG	RG.NOM
+2	"	"	PAD	PAD
+3	aero	aero	NN	NN.UTR.SIN.IND.NOM
+4	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+5	?	?	MAD	MAD
+
+1	Brukar	bruka	VB	VB.PRS.AKT
+2	kunna	kunna	VB	VB.INF.AKT
+3	kränga	kränga	VB	VB.INF.AKT
+4	dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+5	för	för	PP	PP
+6	ganska	ganska	AB	AB
+7	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+8	priser	pris	NN	NN.NEU.PLU.IND.NOM
+9	då	då	HA	HA
+10	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+11	är	vara	VB	VB.PRS.AKT
+12	eftertraktade	eftertrakta	PC	PC.PRF.UTR+NEU.PLU.IND+DEF.NOM
+13	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	ingen	ingen	PN	PN.UTR.SIN.IND.SUB+OBJ
+4	av	av	PP	PP
+5	de	en	DT	DT.UTR+NEU.PLU.DEF
+6	fälgarna	fälg	NN	NN.UTR.PLU.DEF.NOM
+7	han	han	PN	PN.UTR.SIN.DEF.SUB
+8	har	ha	VB	VB.PRS.AKT
+9	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	där	där	AB	AB
+3	var	vara	VB	VB.PRT.AKT
+4	15	15	RG	RG.NOM
+5	"	"	PAD	PAD
+6	aero	aero	NN	NN.AN
+7	och	och	KN	KN
+8	16	16	RG	RG.NOM
+9	"	"	PAD	PAD
+10	super	super	UO	UO
+11	aero	aero	NN	NN.UTR.SIN.IND.NOM
+12	.	.	MAD	MAD
+
+1	Dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+2	har	ha	VB	VB.PRS.AKT
+3	han	han	PN	PN.UTR.SIN.DEF.SUB
+4	antagligen	antagligen	AB	AB
+5	:	:	MAD	MAD
+
+1	http://www.abbottracing.com/2003/ima.../saab_aero.jpg	http://www.abbottracing.com/2003/ima.../saab_aero.jpg	NN	NN.AN
+
+1	16	16	RG	RG.NOM
+2	"	"	PAD	PAD
+3	aero	aero	NN	NN.UTR.SIN.IND.NOM
+4	jubileum	jubileum	NN	NN.NEU.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	där	där	AB	AB
+3	är	vara	VB	VB.PRS.AKT
+4	gamla	gammal	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+5	Saab	Saab	PM	PM.NOM
+6	9000	9000	RG	RG.NOM
+7	CC	CC	NN	NN.AN
+8	turbo	turbo	NN	NN.UTR.SIN.IND.NOM
+9	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+10	.	.	MAD	MAD
+
+1	15	15	RG	RG.NOM
+2	"	"	PAD	PAD
+3	.	.	MAD	MAD
+
+1	Inte	inte	AB	AB
+2	värda	värd	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+3	mycket	mycket	AB	AB.POS
+4	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	tippa	tippa	VB	VB.INF.AKT
+3	du	du	PN	PN.UTR.SIN.DEF.SUB
+4	får	få	VB	VB.PRS.AKT
+5	max	max	PP	PP
+6	500	500	RG	RG.NOM
+7	.	.	MAD	MAD
+
+1	Köper	köpa	VB	VB.PRS.AKT
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	en	en	DT	DT.UTR.SIN.IND
+4	Ferrari	Ferrari	PM	PM.NOM
+5	så	så	AB	AB
+6	antar	anta	VB	VB.PRS.AKT
+7	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+8	man	man	PN	PN.UTR.SIN.IND.SUB
+9	kollar	kolla	VB	VB.PRS.AKT
+10	upp	upp	PL	PL
+11	så	så	AB	AB
+12	mycket	mycket	AB	AB.POS
+13	som	som	KN	KN
+14	möjligt	möjlig	JJ	JJ.POS.NEU.SIN.IND.NOM
+15	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+3	isåfall	isåfall	AB	AB
+4	se	se	VB	VB.INF.AKT
+5	att	att	SN	SN
+6	en	en	DT	DT.UTR.SIN.IND
+7	"	"	PAD	PAD
+8	relativt	relativ	AB	AB.POS
+9	ung	ung	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	"	"	PAD	PAD
+11	person	person	NN	NN.UTR.SIN.IND.NOM
+12	ägt	äga	VB	VB.SUP.AKT
+13	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+14	,	,	MID	MID
+15	och	och	KN	KN
+16	speciellt	speciell	AB	AB.POS
+17	bara	bara	AB	AB
+18	under	under	PP	PP
+19	en	en	DT	DT.UTR.SIN.IND
+20	säsong	säsong	NN	NN.UTR.SIN.IND.NOM
+21	så	så	AB	AB
+22	går	gå	VB	VB.PRS.AKT
+23	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+24	tvär	tvär	JJ	JJ.POS.UTR.SIN.IND.NOM
+25	bort	bort	AB	AB
+26	.	.	MAD	MAD
+
+1	Varför	varför	HA	HA
+2	bör	böra	VB	VB.PRS.AKT
+3	man	man	PN	PN.UTR.SIN.IND.SUB
+4	kunna	kunna	VB	VB.INF.AKT
+5	lista	lista	VB	VB.INF.AKT
+6	ut	ut	PL	PL
+7	ganska	ganska	AB	AB
+8	enkelt	enkel	AB	AB.POS
+9	.	.	MAD	MAD
+
+1	9000	9000	RG	RG.NOM
+2	2	2	RG	RG.NOM
+3	,	,	MID	MID
+4	3t	3t	RG	RG.NOM
+5	/	/	MID	MID
+6	2	2	RG	RG.NOM
+7	,	,	MID	MID
+8	3T	3T	RG	RG.NOM
+9	av	av	PP	PP
+10	senare	sen	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+11	årsmodell	årsmodell	NN	NN.UTR.SIN.IND.NOM
+12	,	,	MID	MID
+13	97-98	97-98	RG	RG.NOM
+14	är	vara	VB	VB.PRS.AKT
+15	sjukt	sjuk	AB	AB
+16	sjukt	sjuk	AB	AB
+17	prisvärda	prisvärd	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+18	idag	idag	AB	AB
+19	.	.	MAD	MAD
+
+1	Lyxbil	lyxbil	NN	NN.UTR.SIN.IND.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	väl	väl	AB	AB
+5	inte	inte	AB	AB
+6	direkt	direkt	JJ	JJ.POS.NEU.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	kan	kunna	VB	VB.PRS.AKT
+3	nog	nog	AB	AB
+4	ändå	ändå	AB	AB
+5	räknas	räkna	VB	VB.INF.SFO
+6	in	in	PL	PL
+7	,	,	MID	MID
+8	beroende	bero	PC	PC.PRS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+9	på	på	PP	PP
+10	person	person	NN	NN.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	9-5	9-5	RG	RG.NOM
+3	Griffin	Griffin	PM	PM.NOM
+4	.	.	MAD	MAD
+
+1	Full	full	JJ	JJ.POS.UTR.SIN.IND.NOM
+2	utrustning	utrustning	NN	NN.UTR.SIN.IND.NOM
+3	i	i	PP	PP
+4	båda	båda	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	dessa	denna	PN	PN.UTR+NEU.PLU.DEF.SUB+OBJ
+6	.	.	MAD	MAD
+
+1	Mer	mer	AB	AB.KOM
+2	än	än	KN	KN
+3	vissa	viss	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+4	Aeros	Aeros	PM	PM.NOM
+5	ser	se	VB	VB.PRS.AKT
+6	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+7	.	.	MAD	MAD
+
+1	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	http://www.blocket.se/sodermanland/S....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/sodermanland/S...=14&w=3&last=1	http://www.blocket.se/sodermanland/S...=14&w=3&last=1	NN	NN.AN
+
+1	Har	ha	VB	VB.PRS.AKT
+2	du	du	PN	PN.UTR.SIN.DEF.SUB
+3	kollat	kolla	VB	VB.SUP.AKT
+4	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+5	på	på	PP	PP
+6	NG9-3	NG9-3	RG	RG.NOM
+7	?	?	MAD	MAD
+
+1	https://www.blocket.se/alvsborg/Saab....htm?ca=14&w=3	https://www.blocket.se/alvsborg/Saab....htm?ca=14&w=3	NN	NN.AN
+
+1	https://www.blocket.se/eslov/SAAB_9_...=14&w=3&last=1	https://www.blocket.se/eslov/SAAB_9_...=14&w=3&last=1	NN	NN.AN
+
+1	Mazda	Mazda	PM	PM.NOM
+2	323F	323F	RG	RG.NOM
+3	är	vara	VB	VB.PRS.AKT
+4	en	en	DT	DT.UTR.SIN.IND
+5	mycket	mycket	AB	AB.POS
+6	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+7	första	första	RO	RO.NOM
+8	bil	bil	NN	NN.UTR.SIN.IND.NOM
+9	på	på	PP	PP
+10	många	många	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+11	punkter	punkt	NN	NN.UTR.PLU.IND.NOM
+12	.	.	MAD	MAD
+
+1	Dock	Dock	KN	KN
+2	en	en	DT	DT.UTR.SIN.IND
+3	svaghet	svaghet	NN	NN.UTR.SIN.IND.NOM
+4	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	finns	finna	VB	VB.PRS.SFO
+3	inte	inte	AB	AB
+4	kvar	kvar	PL	PL
+5	efter	efter	PP	PP
+6	vintern	vinter	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Krockar	krocka	VB	VB.PRS.AKT
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	och	och	KN	KN
+4	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+5	står	stå	VB	VB.PRS.AKT
+6	på	på	PP	PP
+7	föräldrarna	förälder	NN	NN.UTR.PLU.DEF.NOM
+8	skulle	skola	VB	VB.PRT.AKT
+9	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+10	vilja	vilja	VB	VB.INF.AKT
+11	byta	byta	VB	VB.INF.AKT
+12	namn	namn	NN	NN.NEU.SIN.IND.NOM
+13	kvickt	kvick	AB	AB.POS
+14	som	som	KN	KN
+15	attan	attan	AB	AB
+16	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	går	gå	VB	VB.PRS.AKT
+3	på	på	PP	PP
+4	1050	1050	RG	RG.NOM
+5	i	i	PP	PP
+6	månaden	månad	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	är	vara	VB	VB.PRS.AKT
+3	inte	inte	AB	AB
+4	att	att	IE	IE
+5	rekommendera	rekommendera	VB	VB.INF.AKT
+6	.	.	MAD	MAD
+
+1	Köp	köpa	VB	VB.IMP.AKT
+2	en	en	DT	DT.UTR.SIN.IND
+3	Saab	Saab	PM	PM.NOM
+4	9000	9000	RG	RG.NOM
+5	A50	A50	PM	PM.NOM
+6	årsm	årsm	NN	NN.UTR.SIN.IND.NOM
+7	.	.	MAD	MAD
+
+1	1997	1997	RG	RG.NOM
+2	.	.	MAD	MAD
+
+1	Utrustad	utrusta	PC	PC.PRF.UTR.SIN.IND.NOM
+2	som	som	KN	KN
+3	en	en	DT	DT.UTR.SIN.IND
+4	Aero	Aero	PM	PM.NOM
+5	.	.	MAD	MAD
+
+1	Går	gå	VB	VB.PRS.AKT
+2	att	att	IE	IE
+3	få	få	VB	VB.INF.AKT
+4	fina	fin	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	idag	idag	AB	AB
+6	för	för	PP	PP
+7	cirkus	cirkus	NN	NN.UTR.SIN.IND.NOM
+8	20	20	RG	RG.NOM
+9	papp	papp	NN	NN.NEU.PLU.IND.NOM
+10	.	.	MAD	MAD
+
+1	Volvo	Volvo	PM	PM.NOM
+2	V60	V60	PM	PM.NOM
+3	köpte	köpa	VB	VB.PRT.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	har	ha	VB	VB.PRS.AKT
+3	kvar	kvar	PL	PL
+4	Saabarna	Saabarna	PM	PM.NOM
+5	.	.	MAD	MAD
+
+1	Volvon	Volvo	NN	NN.UTR.SIN.DEF.NOM
+2	kör	köra	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	bara	bara	AB	AB
+5	med	med	PP	PP
+6	,	,	MID	MID
+7	skiter	skita	VB	VB.PRS.AKT
+8	i	i	PP	PP
+9	allt	all	PN	PN.NEU.SIN.IND.SUB+OBJ
+10	.	.	MAD	MAD
+
+1	Servar	serva	VB	VB.PRS.AKT
+2	och	och	KN	KN
+3	åker	åka	VB	VB.PRS.AKT
+4	.	.	MAD	MAD
+
+1	Tvätta	tvätta	VB	VB.IMP.AKT
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	har	ha	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	nog	nog	AB	AB
+6	aldrig	aldrig	AB	AB
+7	gjort	göra	VB	VB.SUP.AKT
+8	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	sköter	sköta	VB	VB.PRS.AKT
+3	ju	ju	AB	AB
+4	naturen	natur	NN	NN.UTR.SIN.DEF.NOM
+5	så	så	AB	AB
+6	bra	bra	AB	AB.POS
+7	.	.	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	ju	ju	AB	AB
+3	trots	trots	PP	PP
+4	allt	all	PN	PN.NEU.SIN.IND.SUB+OBJ
+5	en	en	DT	DT.UTR.SIN.IND
+6	Volvo	Volvo	PM	PM.NOM
+7	.	.	MAD	MAD
+
+1	Massproducerat	massproducera	PC	PC.PRF.NEU.SIN.IND.NOM
+2	skit	skit	NN	NN.UTR.SIN.IND.NOM
+3	...	...	MAD	MAD
+
+1	Inte	inte	AB	AB
+2	för	för	KN	KN
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	är	vara	VB	VB.PRS.AKT
+5	expert	expert	NN	NN.UTR.SIN.IND.NOM
+6	,	,	MID	MID
+7	men	men	KN	KN
+8	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+9	finns	finna	VB	VB.PRS.SFO
+10	väl	väl	AB	AB
+11	chans	chans	NN	NN.UTR.SIN.IND.NOM
+12	mätaren	mätare	NN	NN.UTR.SIN.DEF.NOM
+13	kanske	kanske	AB	AB
+14	är	vara	VB	VB.PRS.AKT
+15	skruvad	skruva	PC	PC.PRF.UTR.SIN.IND.NOM
+16	på	på	PP	PP
+17	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+18	?	?	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+3	skulle	skola	VB	VB.PRT.AKT
+4	inte	inte	AB	AB
+5	gjort	göra	VB	VB.SUP.AKT
+6	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+7	!	!	MAD	MAD
+
+1	Citroen	Citroen	PM	PM.NOM
+2	C5	C5	PM	PM.NOM
+3	Business	Business	PM	PM.NOM
+4	?	?	MAD	MAD
+
+1	Beror	bero	VB	VB.PRS.AKT
+2	helt	hel	AB	AB.POS
+3	på	på	PP	PP
+4	hur	hur	HA	HA
+5	man	man	PN	PN.UTR.SIN.IND.SUB
+6	söker	söka	VB	VB.PRS.AKT
+7	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+8	.	.	MAD	MAD
+
+1	Sköter	sköta	VB	VB.PRS.AKT
+2	man	man	PN	PN.UTR.SIN.IND.SUB
+3	inte	inte	AB	AB
+4	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+5	går	gå	VB	VB.PRS.AKT
+6	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+7	sönder	sönder	PL	PL
+8	.	.	MAD	MAD
+
+1	Farsans	farsa	NN	NN.UTR.SIN.DEF.GEN
+2	9-5:a	9-5:a	RG	RG.NOM
+3	bara	bara	AB	AB
+4	rullar	rulla	VB	VB.PRS.AKT
+5	rullar	rulla	VB	VB.PRS.AKT
+6	och	och	KN	KN
+7	rullar	rulla	VB	VB.PRS.AKT
+8	.	.	MAD	MAD
+
+1	Dock	dock	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+4	pedant	pedant	AB	AB.POS
+5	skött	sköta	PC	PC.PRF.UTR.SIN.IND.NOM
+6	x	x	NN	NN.AN
+7	1000	1000	RG	RG.NOM
+8	.	.	MAD	MAD
+
+1	Kusinens	kusin	NN	NN.UTR.SIN.DEF.GEN
+2	9-5:a	9-5:a	RG	RG.NOM
+3	är	vara	VB	VB.PRS.AKT
+4	misshandlad	misshandla	PC	PC.PRF.UTR.SIN.IND.NOM
+5	x	x	NN	NN.AN
+6	1000	1000	RG	RG.NOM
+7	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+3	bara	bara	AB	AB
+4	går	gå	VB	VB.PRS.AKT
+5	sönder	sönder	PL	PL
+6	och	och	KN	KN
+7	sönder	sönder	AB	AB
+8	.	.	MAD	MAD
+
+1	Beror	bero	VB	VB.PRS.AKT
+2	helt	hel	AB	AB.POS
+3	på	på	PP	PP
+4	hur	hur	HA	HA
+5	man	man	PN	PN.UTR.SIN.IND.SUB
+6	sköter	sköta	VB	VB.PRS.AKT
+7	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+8	.	.	MAD	MAD
+
+1	http://forum.saabturboclub.com/viewt...?f=30&t=245035	http://forum.saabturboclub.com/viewt...?f=30&t=245035	RG	RG.NOM
+
+1	Läs	läsa	VB	VB.IMP.AKT
+2	.	.	MAD	MAD
+
+1	0.64	0.64	RG	RG.NOM
+2	har	ha	VB	VB.PRS.AKT
+3	vi	vi	PN	PN.UTR.PLU.DEF.SUB
+4	kört	köra	VB	VB.SUP.AKT
+5	våran	våran	NN	NN.UTR.SIN.DEF.NOM
+6	på	på	PP	PP
+7	,	,	MID	MID
+8	fullastad	fullastad	PC	PC.PRF.UTR.SIN.IND.NOM
+9	.	.	MAD	MAD
+
+1	1740kr	1740kr	RG	RG.NOM
+2	tar	ta	VB	VB.PRS.AKT
+3	Speedparts	Speedparts	PM	PM.NOM
+4	.	.	MAD	MAD
+
+1	Troligen	troligen	AB	AB
+2	det	den	DT	DT.NEU.SIN.DEF
+3	billigaste	billig	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+4	alternativet	alternativ	NN	NN.NEU.SIN.DEF.NOM
+5	.	.	MAD	MAD
+
+1	Fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+2	finns	finna	VB	VB.PRS.SFO
+3	att	att	IE	IE
+4	få	få	VB	VB.INF.AKT
+5	tag	tag	NN	NN.NEU.SIN.IND.NOM
+6	i	i	PP	PP
+7	skit	skit	NN	NN.UTR.SIN.IND.NOM
+8	billigt	billig	AB	AB.POS
+9	nu	nu	AB	AB
+10	förtiden	nu förtiden:9	AB	AB
+11	.	.	MAD	MAD
+
+1	17	17	RG	RG.NOM
+2	"	"	PAD	PAD
+3	three	three	UO	UO
+4	spoke	spoke	UO	UO
+5	quad	quad	PM	PM.NOM
+6	eller	eller	KN	KN
+7	17	17	RG	RG.NOM
+8	"	"	PAD	PAD
+9	aero	aero	NN	NN.UTR.SIN.IND.NOM
+10	fälgarna	fälg	NN	NN.UTR.PLU.DEF.NOM
+11	.	.	MAD	MAD
+
+1	http://www.blocket.se/stockholm/Bmw_....htm?ca=14&w=3	http://www.blocket.se/stockholm/Bmw_....htm?ca=14&w=3	NN	NN.AN
+
+1	Där	där	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	aero	aero	NN	NN.UTR.SIN.IND.NOM
+4	fälgarna	fälg	NN	NN.UTR.PLU.DEF.NOM
+5	för	för	PP	PP
+6	2500:-	2500:-	RG	RG.SMS
+
+1	Three	Three	PM	PM.NOM
+2	spoke	spoke	PM	PM.NOM
+3	hittar	hitta	VB	VB.PRS.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	inte	inte	AB	AB
+6	nu	nu	AB	AB
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	inte	inte	AB	AB
+5	säsong	säsong	NN	NN.UTR.SIN.IND.NOM
+6	för	för	PP	PP
+7	dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+8	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	så	så	AB	AB
+3	här	här	AB	AB
+4	ser	se	VB	VB.PRS.AKT
+5	dem	de	PN	PN.UTR+NEU.PLU.DEF.OBJ
+6	ut	ut	PL	PL
+7	:	:	MAD	MAD
+
+1	http://www.blocket.se/ostergotland/S....htm?ca=14&w=3	http://www.blocket.se/ostergotland/S....htm?ca=14&w=3	NN	NN.UTR.SIN.IND.NOM
+
+1	Har	ha	VB	VB.PRS.AKT
+2	sett	se	VB	VB.SUP.AKT
+3	båda	båda	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+4	utförandena	utförande	NN	NN.NEU.PLU.DEF.NOM
+5	med	med	PP	PP
+6	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+7	däck	däck	NN	NN.NEU.PLU.IND.NOM
+8	för	för	PP	PP
+9	runt	runt	PP	PP
+10	2000	2000	RG	RG.NOM
+11	-	-	MID	MID
+12	2500	2500	RG	RG.NOM
+13	i	i	PP	PP
+14	somras	i somras:13	NN	NN.-.-.-.-
+15	.	.	MAD	MAD
+
+1	Dessa	denna	DT	DT.UTR+NEU.PLU.DEF
+2	2	2	RG	RG.NOM
+3	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+4	är	vara	VB	VB.PRS.AKT
+5	också	också	AB	AB
+6	de	en	DT	DT.UTR+NEU.PLU.DEF
+7	största	stor	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+8	,	,	MID	MID
+9	och	och	KN	KN
+10	de	en	DT	DT.UTR+NEU.PLU.DEF
+11	enda	enda	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+12	att	att	IE	IE
+13	tillgå	tillgå	VB	VB.INF.AKT
+14	under	under	PP	PP
+15	MY	MY	PM	PM.NOM
+16	98-01	98-01	RG	RG.NOM
+17	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	de	en	DT	DT.UTR+NEU.PLU.DEF
+5	fälgar	fälg	NN	NN.UTR.PLU.IND.NOM
+6	man	man	PN	PN.UTR.SIN.IND.SUB
+7	bör	böra	VB	VB.PRS.AKT
+8	ha	ha	VB	VB.INF.AKT
+9	på	på	PP	PP
+10	98-01	98-01	RG	RG.NOM
+11	anser	anse	VB	VB.PRS.AKT
+12	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+13	,	,	MID	MID
+14	om	om	SN	SN
+15	man	man	PN	PN.UTR.SIN.IND.SUB
+16	väljer	välja	VB	VB.PRS.AKT
+17	Saab	Saab	PM	PM.NOM
+18	original	original	NN	NN.NEU.SIN.IND.NOM
+19	då	då	AB	AB
+20	.	.	MAD	MAD
+
+1	http://www.skruvat.se/Kupeflakt-P19439.aspx	http://www.skruvat.se/Kupeflakt-P19439.aspx	NN	NN.AN
+
+1	Skruvat	skruva	PC	PC.PRF.NEU.SIN.IND.NOM
+2	var	vara	VB	VB.PRT.AKT
+3	visst	viss	AB	AB
+4	billigare	billig	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+5	.	.	MAD	MAD
+
+1	De	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+2	har	ha	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	inte	inte	AB	AB
+5	varit	vara	VB	VB.SUP.AKT
+6	med	med	PL	PL
+7	om	om	PP	PP
+8	tidigare	tidig	AB	AB.KOM
+9	.	.	MAD	MAD
+
+1	Kollade	kolla	VB	VB.PRT.AKT
+2	även	även	AB	AB
+3	andra	andra	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+4	sidor	sida	NN	NN.UTR.PLU.IND.NOM
+5	då	då	HA	HA
+6	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+7	vart	varda	VB	VB.PRT.AKT
+8	sådär	sådär	AB	AB
+9	.	.	MAD	MAD
+
+1	Mekonomen	Mekonomen	PM	PM.NOM
+2	tog	ta	VB	VB.PRT.AKT
+3	2000	2000	RG	RG.NOM
+4	ungefär	ungefär	AB	AB
+5	.	.	MAD	MAD
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	tyvärr	tyvärr	AB	AB
+3	inte	inte	AB	AB
+4	svara	svara	VB	VB.INF.AKT
+5	på	på	PP	PP
+6	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+7	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+3	vet	veta	VB	VB.PRS.AKT
+4	inte	inte	AB	AB
+5	hur	hur	HA	HA
+6	händig	händig	JJ	JJ.POS.UTR.SIN.IND.NOM
+7	du	du	PN	PN.UTR.SIN.DEF.SUB
+8	är	vara	VB	VB.PRS.AKT
+9	själv	själv	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	?	?	MAD	MAD
+
+1	Eller	eller	KN	KN
+2	kanske	kanske	AB	AB
+3	har	ha	VB	VB.PRS.AKT
+4	nån	någon	DT	DT.UTR.SIN.IND
+5	kompis	kompis	NN	NN.UTR.SIN.IND.NOM
+6	som	som	HP	HP.-.-.-
+7	är	vara	VB	VB.PRS.AKT
+8	händig	händig	JJ	JJ.POS.UTR.SIN.IND.NOM
+9	?	?	MAD	MAD
+
+1	Kolla	kolla	VB	VB.IMP.AKT
+2	här	här	AB	AB
+3	:	:	MAD	MAD
+
+1	http://photo.platonoff.com/Auto/2006..._Motor_Repair/	http://photo.platonoff.com/Auto/2006..._Motor_Repair/	AB	AB.AN
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	bör	böra	VB	VB.PRS.AKT
+3	öka	öka	VB	VB.INF.AKT
+4	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+5	.	.	MAD	MAD
+
+1	Kolla	kolla	VB	VB.IMP.AKT
+2	även	även	AB	AB
+3	in	in	PL	PL
+4	här	här	AB	AB
+5	:	:	MAD	MAD
+
+1	http://forum.saabturboclub.com/viewforum.php?f=19	http://forum.saabturboclub.com/viewforum.php?f=19	NN	NN.NEU.SIN.IND.NOM
+
+1	Okej	Okej	IN	IN
+2	.	.	MAD	MAD
+
+1	Vet	veta	VB	VB.PRS.AKT
+2	dock	dock	AB	AB
+3	inte	inte	AB	AB
+4	om	om	SN	SN
+5	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	slår	slå	VB	VB.PRS.AKT
+7	Renault	Renault	PM	PM.NOM
+8	Megane	Megane	PM	PM.NOM
+9	som	som	HP	HP.-.-.-
+10	en	en	DT	DT.UTR.SIN.IND
+11	verkstad	verkstad	NN	NN.UTR.SIN.IND.NOM
+12	tog	ta	VB	VB.PRT.AKT
+13	3000	3000	RG	RG.NOM
+14	för	för	PP	PP
+15	att	att	IE	IE
+16	byta	byta	VB	VB.INF.AKT
+17	lampa	lampa	NN	NN.UTR.SIN.IND.NOM
+18	på	på	PP	PP
+19	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	har	ha	VB	VB.PRS.AKT
+3	ingen	ingen	DT	DT.UTR.SIN.IND
+4	aning	aning	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	Bästa	bra	JJ	JJ.SUV.UTR+NEU.SIN+PLU.DEF.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	att	att	IE	IE
+4	ringa	ringa	VB	VB.INF.AKT
+5	och	och	KN	KN
+6	höra	höra	VB	VB.INF.AKT
+7	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	gör	göra	VB	VB.PRS.AKT
+3	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+4	alltid	alltid	AB	AB
+5	.	.	MAD	MAD
+
+1	Har	ha	VB	VB.PRS.AKT
+2	2	2	RG	RG.NOM
+3	verkstäder	verkstad	NN	NN.UTR.PLU.IND.NOM
+4	inom	inom	PP	PP
+5	2	2	RG	RG.NOM
+6	mil	mil	NN	NN.UTR.PLU.IND.NOM
+7	.	.	MAD	MAD
+
+1	Saab	Saab	PM	PM.NOM
+2	Auktoriserad	auktorisera	PC	PC.PRF.UTR.SIN.IND.NOM
+3	,	,	MID	MID
+4	Byta	byta	VB	VB.INF.AKT
+5	bussningar	bussning	NN	NN.UTR.PLU.IND.NOM
+6	skulle	skola	VB	VB.PRT.AKT
+7	en	man	PN	PN.UTR.SIN.IND.SUB+OBJ
+8	ha	ha	VB	VB.INF.AKT
+9	4200kr	4200kr	RG	RG.NOM
+10	för	för	PP	PP
+11	.	.	MAD	MAD
+
+1	Den	den	DT	DT.UTR.SIN.DEF
+2	andra	andra	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+3	3500kr	3500kr	RG	RG.NOM
+4	.	.	MAD	MAD
+
+1	Att	att	IE	IE
+2	byta	byta	VB	VB.INF.AKT
+3	rattrulle	rattrulle	NN	NN.UTR.SIN.IND.NOM
+4	i	i	PP	PP
+5	airbagen	airbag	NN	NN.UTR.SIN.DEF.NOM
+6	tog	ta	VB	VB.PRT.AKT
+7	den	den	DT	DT.UTR.SIN.DEF
+8	ena	ena	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+9	verkstaden	verkstad	NN	NN.UTR.SIN.DEF.NOM
+10	2200kr	2200kr	RG	RG.NOM
+11	,	,	MID	MID
+12	den	den	DT	DT.UTR.SIN.DEF
+13	andra	andra	JJ	JJ.POS.UTR+NEU.SIN.DEF.NOM
+14	1700kr	1700kr	RG	RG.NOM
+15	.	.	MAD	MAD
+
+1	Så	så	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	bara	bara	AB	AB
+5	ringa	ringa	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+6	och	och	KN	KN
+7	höra	höra	VB	VB.INF.AKT
+8	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	skulle	skola	VB	VB.PRT.AKT
+3	utan	utan	PP	PP
+4	tvekan	tvekan	NN	NN.UTR.SIN.IND.NOM
+5	lämna	lämna	VB	VB.INF.AKT
+6	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+7	till	till	PP	PP
+8	typ	typ	NN	NN.UTR.SIN.IND.NOM
+9	mekonomen	mekonomen	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	bilverkstad	bilverkstad	NN	NN.UTR.SIN.IND.NOM
+11	för	för	PP	PP
+12	byte	byte	NN	NN.NEU.SIN.IND.NOM
+13	av	av	PP	PP
+14	kupéfläkt	kupéfläkt	NN	NN.UTR.SIN.IND.NOM
+15	.	.	MAD	MAD
+
+1	Men	men	KN	KN
+2	med	med	PP	PP
+3	bussningar	bussning	NN	NN.UTR.PLU.IND.NOM
+4	,	,	MID	MID
+5	rattrullen	rattrulle	NN	NN.UTR.SIN.DEF.NOM
+6	etc.	etc.	AB	AB.AN
+7	väljer	välja	VB	VB.PRS.AKT
+8	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+9	hellre	gärna	AB	AB.KOM
+10	en	en	DT	DT.UTR.SIN.IND
+11	auktoriserad	auktorisera	PC	PC.PRF.UTR.SIN.IND.NOM
+12	Saab	Saab	PM	PM.GEN
+13	verkstad	verkstad	NN	NN.UTR.SIN.IND.NOM
+14	.	.	MAD	MAD
+
+1	Är	vara	VB	VB.PRS.AKT
+2	väl	väl	AB	AB
+3	N47	N47	PM	PM.NOM
+4	i	i	PP	PP
+5	den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+6	där	där	AB	AB
+7	?	?	MAD	MAD
+
+1	Kan	kunna	VB	VB.PRS.AKT
+2	säga	säga	VB	VB.INF.AKT
+3	pang	pang	NN	NN.UTR.SIN.IND.NOM
+4	närsom	närsom	NN	NN.UTR.SIN.IND.NOM
+5	.	.	MAD	MAD
+
+1	V60	V60	PM	PM.NOM
+2	med	med	PP	PP
+3	VEA	VEA	PM	PM.NOM
+4	motorerna	motor	NN	NN.UTR.PLU.DEF.NOM
+5	är	vara	VB	VB.PRS.AKT
+6	bara	bara	AB	AB
+7	dynga	dynga	NN	NN.UTR.SIN.IND.NOM
+8	.	.	MAD	MAD
+
+1	I	i	PP	PP
+2	så	så	AB	AB
+3	fall	fall	NN	NN.NEU.SIN.IND.NOM
+4	innan	innan	PP	PP
+5	2014	2014	RG	RG.NOM
+6	om	om	SN	SN
+7	man	man	PN	PN.UTR.SIN.IND.SUB
+8	ska	skola	VB	VB.PRS.AKT
+9	ha	ha	VB	VB.INF.AKT
+10	något	någon	PN	PN.NEU.SIN.IND.SUB+OBJ
+11	som	som	HP	HP.-.-.-
+12	håller	hålla	VB	VB.PRS.AKT
+13	bättre	bra	AB	AB.KOM
+14	.	.	MAD	MAD
+
+1	Samtliga	samtlig	JJ	JJ.POS.UTR+NEU.PLU.IND.NOM
+2	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+3	i	i	PP	PP
+4	Volvos	Volvo	PM	PM.GEN
+5	sortiment	sortiment	NN	NN.NEU.SIN.IND.NOM
+6	kvalar	kvala	VB	VB.PRS.AKT
+7	in	in	PL	PL
+8	på	på	PP	PP
+9	60	60	RG	RG.NOM
+10	%	%	NN	NN.AN
+11	av	av	PP	PP
+12	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+13	där	där	AB	AB
+14	.	.	MAD	MAD
+
+1	Den	den	PN	PN.UTR.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	väl	väl	AB	AB
+4	som	som	KN	KN
+5	alla	all	DT	DT.UTR+NEU.PLU.IND+DEF
+6	andra	andra	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+7	nya	ny	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+8	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+9	.	.	MAD	MAD
+
+1	Bra	bra	AB	AB.POS
+2	att	att	IE	IE
+3	ha	ha	VB	VB.INF.AKT
+4	i	i	PP	PP
+5	3	3	RG	RG.NOM
+6	år	år	NN	NN.NEU.PLU.IND.NOM
+7	,	,	MID	MID
+8	sen	sen	AB	AB
+9	ekonomisk	ekonomisk	JJ	JJ.POS.UTR.SIN.IND.NOM
+10	katastrof	katastrof	NN	NN.UTR.SIN.IND.NOM
+11	.	.	MAD	MAD
+
+1	Nyskick	nyskick	NN	NN.UTR.SIN.IND.NOM
+2	,	,	MID	MID
+3	knappast	knapp	AB	AB.SUV
+4	.	.	MAD	MAD
+
+1	Det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+2	är	vara	VB	VB.PRS.AKT
+3	visserligen	visserligen	AB	AB
+4	en	en	DT	DT.UTR.SIN.IND
+5	bedömningssak	bedömningssak	NN	NN.UTR.SIN.IND.NOM
+6	.	.	MAD	MAD
+
+1	Jag	jag	PN	PN.UTR.SIN.DEF.SUB
+2	jobbar	jobba	VB	VB.PRS.AKT
+3	dagligen	dagligen	AB	AB
+4	med	med	PP	PP
+5	nya	ny	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+6	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+7	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+3	är	vara	VB	VB.PRS.AKT
+4	bara	bara	AB	AB
+5	ren	ren	JJ	JJ.POS.UTR.SIN.IND.NOM
+6	skit	skit	NN	NN.UTR.SIN.IND.NOM
+7	,	,	MID	MID
+8	enligt	enligt	PP	PP
+9	mig	jag	PN	PN.UTR.SIN.DEF.OBJ
+10	.	.	MAD	MAD
+
+1	Massa	massa	NN	NN.UTR.SIN.IND.NOM
+2	fel	fel	NN	NN.NEU.PLU.IND.NOM
+3	,	,	MID	MID
+4	lustiga	lustig	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+5	fel	fel	NN	NN.NEU.PLU.IND.NOM
+6	,	,	MID	MID
+7	el	el	NN	NN.UTR.SIN.IND.NOM
+8	fel	fel	NN	NN.NEU.SIN.IND.NOM
+9	,	,	MID	MID
+10	och	och	KN	KN
+11	fel	fel	NN	NN.NEU.SIN.IND.NOM
+12	på	på	PP	PP
+13	skit	skit	NN	NN.UTR.SIN.IND.NOM
+14	som	som	HP	HP.-.-.-
+15	kunden	kund	NN	NN.UTR.SIN.DEF.NOM
+16	inte	inte	AB	AB
+17	har	ha	VB	VB.PRS.AKT
+18	en	en	DT	DT.UTR.SIN.IND
+19	aning	aning	NN	NN.UTR.SIN.IND.NOM
+20	om	om	PP	PP
+21	vad	vad	HP	HP.NEU.SIN.IND
+22	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+23	är	vara	VB	VB.PRS.AKT
+24	.	.	MAD	MAD
+
+1	Och	och	KN	KN
+2	vad	vad	HP	HP.NEU.SIN.IND
+3	dess	den	PS	PS.UTR+NEU.SIN+PLU.DEF
+4	funktion	funktion	NN	NN.UTR.SIN.IND.NOM
+5	är	vara	VB	VB.PRS.AKT
+6	.	.	MAD	MAD
+
+1	Ibland	ibland	AB	AB
+2	undrar	undra	VB	VB.PRS.AKT
+3	man	man	PN	PN.UTR.SIN.IND.SUB
+4	om	om	SN	SN
+5	de	de	PN	PN.UTR+NEU.PLU.DEF.SUB
+6	som	som	HP	HP.-.-.-
+7	tillverkat	tillverka	VB	VB.SUP.AKT
+8	bilen	bil	NN	NN.UTR.SIN.DEF.NOM
+9	själva	själv	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+10	har	ha	VB	VB.PRS.AKT
+11	en	en	DT	DT.UTR.SIN.IND
+12	aning	aning	NN	NN.UTR.SIN.IND.NOM
+13	om	om	PP	PP
+14	vad	vad	HP	HP.NEU.SIN.IND
+15	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+16	är	vara	VB	VB.PRS.AKT
+17	bra	bra	JJ	JJ.POS.UTR+NEU.SIN+PLU.IND+DEF.NOM
+18	för	för	PP	PP
+19	.	.	MAD	MAD
+
+1	Bilar	bil	NN	NN.UTR.PLU.IND.NOM
+2	förr	förr	AB	AB
+3	i	i	PP	PP
+4	tiden	tid	NN	NN.UTR.SIN.DEF.NOM
+5	var	vara	VB	VB.PRT.AKT
+6	mycket	mycket	AB	AB.POS
+7	mer	mer	JJ	JJ.KOM.UTR+NEU.SIN+PLU.IND+DEF.NOM
+8	kvalité	kvalité	NN	NN.UTR.SIN.IND.NOM
+9	än	var än:5	KN	KN
+10	vad	vad	HP	HP.NEU.SIN.IND
+11	dagens	dag	NN	NN.UTR.SIN.DEF.GEN
+12	moderna	modern	JJ	JJ.POS.UTR+NEU.PLU.IND+DEF.NOM
+13	bilar	bil	NN	NN.UTR.PLU.IND.NOM
+14	är	vara	VB	VB.PRS.AKT
+15	.	.	MAD	MAD
+
+1	En	en	DT	DT.UTR.SIN.IND
+2	förbrukningsvara	förbrukningsvara	NN	NN.UTR.SIN.IND.NOM
+3	som	som	HP	HP.-.-.-
+4	ska	skola	VB	VB.PRS.AKT
+5	hålla	hålla	VB	VB.INF.AKT
+6	några	någon	DT	DT.UTR+NEU.PLU.IND
+7	år	år	NN	NN.NEU.PLU.IND.NOM
+8	.	.	MAD	MAD
+
+1	Sen	sen	AB	AB
+2	är	vara	VB	VB.PRS.AKT
+3	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+4	dags	dag	NN	NN.UTR.-.-.-
+5	för	för	PP	PP
+6	skroten	skrot	NN	NN.UTR.SIN.DEF.NOM
+7	.	.	MAD	MAD
+
+1	Skulle	skola	VB	VB.PRT.AKT
+2	jag	jag	PN	PN.UTR.SIN.DEF.SUB
+3	lägga	lägga	VB	VB.INF.AKT
+4	mina	jag	PS	PS.UTR+NEU.PLU.DEF
+5	pengar	peng	NN	NN.UTR.PLU.IND.NOM
+6	på	på	PP	PP
+7	:	:	MAD	MAD
+
+1	http://www.blocket.se/skaraborg/VW_p....htm?ca=14&w=3	http://www.blocket.se/skaraborg/VW_p....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/kronoberg/Seat....htm?ca=14&w=3	http://www.blocket.se/kronoberg/Seat....htm?ca=14&w=3	NN	NN.AN
+
+1	http://www.blocket.se/stockholm/Seat....htm?ca=14&w=3	http://www.blocket.se/stockholm/Seat....htm?ca=14&w=3	NN	NN.AN
+
+1	V70	V70	PM	PM.NOM
+2	är	vara	VB	VB.PRS.AKT
+3	ju	ju	AB	AB
+4	pisstråkig	pisstråkig	JJ	JJ.POS.UTR.SIN.IND.NOM
+5	att	att	IE	IE
+6	köra	köra	VB	VB.INF.AKT
+7	ändå	ändå	AB	AB
+8	så	så	AB	AB
+9	spelar	spela	VB	VB.PRS.AKT
+10	väl	väl	AB	AB
+11	ingen	ingen	DT	DT.UTR.SIN.IND
+12	roll	roll	NN	NN.UTR.SIN.IND.NOM
+13	vad	vad	HP	HP.NEU.SIN.IND
+14	det	den	PN	PN.NEU.SIN.DEF.SUB+OBJ
+15	sitter	sitta	VB	VB.PRS.AKT
+16	för	för	PP	PP
+17	symaskin	symaskin	NN	NN.UTR.SIN.IND.NOM
+18	under	under	PP	PP
+19	locket	lock	NN	NN.NEU.SIN.DEF.NOM
+

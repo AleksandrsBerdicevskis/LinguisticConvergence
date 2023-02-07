@@ -1,8 +1,11 @@
+# -*- coding: UTF-8 -*-
+
 require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
 require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\math_tools.rb"
 
+
 corpus_label = ARGV[0]
-subforums = read_corpus_label(corpus_label)
+subforums = read_corpus_label(corpus_label,"array")
 subforum1 = subforums[0].split("-")[1]
 subforum2 = subforums[1].split("-")[1]
 #stderr.puts subforum1, subforum2
@@ -66,7 +69,10 @@ statuses = ["before","after"]
 path = "dist\\#{corpus_label}\\pairs#{no}_#{threshold}_i#{interaction_threshold}_d#{date_mode[0]}"
 STDERR.puts path
 
-filenames = Dir.children(path)
+opts = {}
+opts[:encoding] = "UTF-8"
+    
+filenames = Dir.children(path,opts)
 #STDERR.puts "nfiles", filenames.length
 o = File.open("dist\\#{corpus_label}\\distances#{no}_#{threshold}_p#{threshold_post_distance}_t#{threshold_time_distance}_i#{interaction_threshold}_d#{date_mode[0]}.tsv","w:utf-8")
 outline = "pair\tdistance_before\tdistance_after\tdiff\tnpositive"
@@ -97,7 +103,8 @@ filenames.each do |filename|
     if !users[pair].include?(user)
         users[pair] << user
     end
-    f = File.open("#{path}\\#{filename}","r:utf-8")
+    f = File.open("#{path}\\#{filename.encode("utf-8",invalid: :replace, undef: :replace, replace: "ē")}","r:utf-8")
+    #f = File.open("#{path}\\#{filename}",opts)
     f.each_line.with_index do |line,index|
         if index > 0
             rel_freqs[[pair,status,user,subforum]] << line.strip.split("\t")[1].to_f

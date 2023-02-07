@@ -395,7 +395,7 @@ if nowrapper_mode
     outtsv2.close
 end
 
-__END__
+
 if no == "" or no == "both"
     system "ruby extract_pairs.rb #{corpus_label} #{threshold} #{threshold_time_distance} #{threshold_post_distance} #{interaction_time_threshold} #{interaction_threshold} #{post_interaction_threshold} yes #{date_mode}"
 end

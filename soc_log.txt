@@ -4,6 +4,11 @@ process_pairs.rb -- uses extract_pairs' output to calculated distances and outpu
 output dir: dist
 wrapper2.rb
 
+wrapper3.rb: just temporary calculations for things that went wrong
+no = both: is it about interacting, non-interacting or both?
+get rid of 12000 (6000)
+sources about authors: in CassandraMy
+
 test_extract_users: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual)
 test_mix_conllu_token: mix the texts in each set, create 6 texts (threshold = 3 * actual)
 test_delta.rb: run the ranking system (threshold = actual)

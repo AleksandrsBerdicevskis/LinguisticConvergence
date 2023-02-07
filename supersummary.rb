@@ -17,9 +17,10 @@ def iqr(filename)
     return iqr2
 end
 
-for i in 1..6 do
+for i in 7..10 do
     STDERR.puts i
-    [3000,6000].each do |threshold|
+    #[3000,6000].each do |threshold|
+    [3000].each do |threshold|
         STDERR.puts threshold
         f1 = File.open("dist\\flashback-network#{i}\\summary_#{threshold}_p3_t5_i10_df.tsv","r:utf-8")
         lines = f1.readlines

@@ -1,8 +1,8 @@
 #update reading in corpus names
 
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\date_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\corpus_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\CassandraMy\\file_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\date_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
+require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\file_tools.rb"
 
 
 
@@ -15,7 +15,7 @@ PATH3 = "C:\\Sasha\\D\\DGU\\CassandraMy\\Gramino\\GeneralStatsSumTokensUpdated\\
 
 corpus_label = ARGV[0]
 maincorpus = get_maincorpus(corpus_label)
-subforums = read_corpus_label(corpus_label)
+subforums = read_corpus_label(corpus_label,"array")
 filenames = []
 subforums.each do |subforum|
     filenames << "#{PATH4}#{subforum}_sentence.conllu"
