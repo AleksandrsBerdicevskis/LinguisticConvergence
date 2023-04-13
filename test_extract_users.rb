@@ -1,4 +1,4 @@
-f = File.open("C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\flashback-fordon_sentence.conllu","r:utf-8")
+f = File.open("flashback-fordon_sentence.conllu","r:utf-8")
 setindex = ARGV[0].to_i #1, 2, 3 osv
 #sentencethreshold = ARGV[1].to_i #300, 600 etc.
 tokenthreshold = ARGV[1].to_i #1500, 3000, 6000

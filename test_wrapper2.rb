@@ -10,8 +10,10 @@
 #system "ruby test_mix_conllu_token.rb #{istart} #{ifinish} #{ntokens} #{ntexts} #{dir}"
 
 res = File.open("test_results.tsv","w:utf-8")
-res.puts "set_id\tntokens\tvectorlen\tpr\tiqrp\tsr\tiqrs\td\tiqrd"
+res.puts "set_id\tntokens\tvectorlen\tspearman\tiqr_spearman\tpearson\tiqr_pearson\td\tiqrd"
 res.close
+
+
 #res.puts "#{dir}\t#{ntokens/3}\t#{vectorlen}"
 
 ihash = {4500 => 10000, 9000 => 20000, 13500 => 30000, 18000 => 40000}

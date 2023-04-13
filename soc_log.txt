@@ -1,3 +1,19 @@
+This repository contains the data and the scripts that are necessary to reproduce the study described in the Nodalida 2023 paper:
+
+You say tomato, I say the same: A large-scale study of linguistic accommodation in online communities
+
+The source corpora containing Flashback posts are not provided. You can download the scrambled xml files from the Språkbanken Text website and use the provided script large_xml_to_conllu2.rb to convert them to the conllu format. After that, they can be used as an input for the provided scripts.
+
+The token frequency source file can be downloaded from here: http://demo.spraakdata.gu.se/sasha/flashback_uncased.zip. Unzip it and put it into the wordstats folder.
+
+test_extract_users: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual)
+test_mix_conllu_token: mix the texts in each set, create 6 texts (threshold = 3 * actual)
+test_delta.rb: run the ranking system (threshold = actual)
+test_wrapper2.rb
+
+
+To run the test
+
 soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files; inherits some unnecessary complexity from socnetwork7.rb)
 extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files)
 process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
@@ -9,10 +25,8 @@ no = both: is it about interacting, non-interacting or both?
 get rid of 12000 (6000)
 sources about authors: in CassandraMy
 
-test_extract_users: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual)
-test_mix_conllu_token: mix the texts in each set, create 6 texts (threshold = 3 * actual)
-test_delta.rb: run the ranking system (threshold = actual)
-test_wrapper2.rb
 
 ttests_dist.rb: run t-tests on the output in dist (currently int vs no-int)
 supersummary.rb = summarize the results in dist
+
+contact: aleksandrs.berdicevskis@gu.se
