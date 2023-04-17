@@ -6,13 +6,19 @@ The source corpora containing Flashback posts are not provided. You can download
 
 The token frequency source file can be downloaded from here: http://demo.spraakdata.gu.se/sasha/flashback_uncased.zip. Unzip it and put it into the wordstats folder.
 
-test_extract_users: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual)
-test_mix_conllu_token: mix the texts in each set, create 6 texts (threshold = 3 * actual)
-test_delta.rb: run the ranking system (threshold = actual)
-test_wrapper2.rb
+1. Reproducing the metric evaluation experiment (Section 2.3)
 
+test_extract_users.rb: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual. If you want threshold 300, pass the value 900 to the script). You'll need flashback-fordon_sentence.conllu to run this file. 
 
-To run the test
+test_mix_conllu_token.rb: mix the texts in each set, create 6 texts (threshold = 3 * actual). test_extract_users.rb must be run first.
+
+test_delta.rb: run the ranking system (threshold = actual (pass 300 if you want 300)).
+test_extract_users.rb and test_mix_conllu_token.rb have already been run, so you can run only test_delta.rb. It will use the files in the Sets10000-40000 folders.
+
+test_wrapper2.rb will run all three scripts (reproduce the whole experiment).
+
+2.
+
 
 soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files; inherits some unnecessary complexity from socnetwork7.rb)
 extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files)
