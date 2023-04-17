@@ -1,7 +1,7 @@
 
 
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\date_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
+require_relative "date_tools.rb"
+require_relative "corpus_tools.rb"
 
 #change reading variable? (remove variable. Can be added separately)
 
@@ -97,7 +97,7 @@ if nowrapper_mode
         end
     
     
-    PATH2 = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
+    PATH2 = ""
     PATH1 = "C:\\Sasha\\D\\DGU\\CassandraMy\\KorpApi\\"
     
     

@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\math_tools.rb"
+require_relative "corpus_tools.rb"
+require_relative "math_tools.rb"
 
 
 corpus_label = ARGV[0]

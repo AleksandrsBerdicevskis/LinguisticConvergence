@@ -1,8 +1,8 @@
 #update reading in corpus names
 
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\date_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\corpus_tools.rb"
-require_relative "C:\\Sasha\\D\\DGU\\Repos\\Cassandra\\file_tools.rb"
+require_relative "date_tools.rb"
+require_relative "corpus_tools.rb"
+require_relative "file_tools.rb"
 
 
 

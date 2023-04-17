@@ -6,7 +6,7 @@ The source corpora containing Flashback posts are not provided. You can download
 
 The token frequency source file can be downloaded from here: http://demo.spraakdata.gu.se/sasha/flashback_uncased.zip. Unzip it and put it into the wordstats folder.
 
-1. Reproducing the metric evaluation experiment (Section 2.3)
+1. To reproduce the metric evaluation experiment (Section 2.3):
 
 test_extract_users.rb: find 100 users for the evaluation experiment, create Text A and Text B (threshold = 3 * actual. If you want threshold 300, pass the value 900 to the script). You'll need flashback-fordon_sentence.conllu to run this file. 
 
@@ -15,24 +15,20 @@ test_mix_conllu_token.rb: mix the texts in each set, create 6 texts (threshold =
 test_delta.rb: run the ranking system (threshold = actual (pass 300 if you want 300)).
 test_extract_users.rb and test_mix_conllu_token.rb have already been run, so you can run only test_delta.rb. It will use the files in the Sets10000-40000 folders.
 
-test_wrapper2.rb will run all three scripts (reproduce the whole experiment).
+test_wrapper2.rb will run all three scripts with all the settings (reproduce the whole experiment).
 
-2.
+2. To reproduce the main experiment (Sections 2.4 and 3):
 
-
-soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files; inherits some unnecessary complexity from socnetwork7.rb)
-extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files)
+PATH soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files);
+PATH extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files);
 process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
 output dir: dist
-wrapper2.rb
+CORRECT wrapper2.rb: runs all t
 
-wrapper3.rb: just temporary calculations for things that went wrong
-no = both: is it about interacting, non-interacting or both?
-get rid of 12000 (6000)
-sources about authors: in CassandraMy
+EXTRAS:
+supersummary.rb = summarize the results in dist in a convenient table
 
+ttests_dist.rb: run t-tests on the output in dist (currently int vs no-int). Not reported in the paper.
 
-ttests_dist.rb: run t-tests on the output in dist (currently int vs no-int)
-supersummary.rb = summarize the results in dist
 
 contact: aleksandrs.berdicevskis@gu.se

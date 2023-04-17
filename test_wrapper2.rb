@@ -1,13 +1,13 @@
-#istart = ARGV[0].to_i
-#ifinish = istart + 49
-#ntokens = ARGV[1].to_i
-#nusers = ARGV[2]
-#ntexts = 6
-#dir = "Sets#{istart}"
-#vectorlen = ARGV[3]]
+istart = ARGV[0].to_i
+ifinish = istart + 49
+ntokens = ARGV[1].to_i
+nusers = ARGV[2]
+ntexts = 6
+dir = "Sets#{istart}"
+vectorlen = ARGV[3]]
 
-#system "ruby test_extract_users.rb #{istart} #{ntokens} #{nusers}"
-#system "ruby test_mix_conllu_token.rb #{istart} #{ifinish} #{ntokens} #{ntexts} #{dir}"
+system "ruby test_extract_users.rb #{istart} #{ntokens} #{nusers}"
+system "ruby test_mix_conllu_token.rb #{istart} #{ifinish} #{ntokens} #{ntexts} #{dir}"
 
 res = File.open("test_results.tsv","w:utf-8")
 res.puts "set_id\tntokens\tvectorlen\tspearman\tiqr_spearman\tpearson\tiqr_pearson\td\tiqrd"
