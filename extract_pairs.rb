@@ -8,10 +8,10 @@ require_relative "file_tools.rb"
 
 
 
-PATH4 = "C:\\Sasha\\D\\DGU\\CassandraMy\\SMCorpora\\"
-PATH1 = "C:\\Sasha\\D\\DGU\\CassandraMy\\KorpApi\\"
+PATH4 = ""
+#PATH1 = "authors"
 PATH2 = "dist\\"
-PATH3 = "C:\\Sasha\\D\\DGU\\CassandraMy\\Gramino\\GeneralStatsSumTokensUpdated\\"
+PATH3 = "wordstats\\"
 
 corpus_label = ARGV[0]
 maincorpus = get_maincorpus(corpus_label)

@@ -1,12 +1,5 @@
-
-
 require_relative "date_tools.rb"
 require_relative "corpus_tools.rb"
-
-#change reading variable? (remove variable. Can be added separately)
-
-
-
 
 corpus_label = ARGV[0]
 forum = get_maincorpus(corpus_label)
@@ -96,20 +89,18 @@ if nowrapper_mode
         end
         end
     
-    
+    PATH1 = "authors"
     PATH2 = ""
-    PATH1 = "C:\\Sasha\\D\\DGU\\CassandraMy\\KorpApi\\"
-    
+   
     
     STDERR.puts subforums.join(",")
     
     
-    #variable = "kommer+inf"
+
     if !with_variable
         variable = "dist"
     end
-    #vardir = "#{PATH1}variables\\#{variable}\\#{forum}\\#{sflabel}\\"
-    #=begin
+
     if !Dir.exist?("#{variable}") 
             Dir.mkdir("#{variable}")
     end
@@ -118,10 +109,6 @@ if nowrapper_mode
     end
     
     
-    #if !Dir.exist?("#{variable}\\#{forum}-#{sflabel}_anonymized") 
-    #    Dir.mkdir("#{variable}\\#{forum}-#{sflabel}_anonymized")
-    #end
-    #=end
     
     
     hash_of_authoryear_hashes = Hash.new{|hash, key| hash[key] = Hash.new}
@@ -137,7 +124,7 @@ if nowrapper_mode
         prolific_authors = []
         prolific_author_hash = Hash.new{|hash, key| hash[key] = Array.new}
         subforums.each do |subforum|
-            authorfile = File.open("#{w}authors\\#{forum}\\#{subforum}.tsv","r:utf-8")
+            authorfile = File.open("#{PATH1}\\#{forum}\\#{subforum}.tsv","r:utf-8")
             authorfile.each_line.with_index do |line, index|
                 line2 = line.strip.split("\t")
                 if index > 0

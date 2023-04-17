@@ -1,4 +1,4 @@
-This repository contains the data and the scripts that are necessary to reproduce the study described in the Nodalida 2023 paper:
+This repository contains the data and the scripts that are necessary to reproduce the study described in the Nodalida 2023 paper (and some additional tools, auxiliary files and pilot results not reported in the paper):
 
 You say tomato, I say the same: A large-scale study of linguistic accommodation in online communities
 
@@ -19,16 +19,15 @@ test_wrapper2.rb will run all three scripts with all the settings (reproduce the
 
 2. To reproduce the main experiment (Sections 2.4 and 3):
 
-PATH soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files);
-PATH extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files);
+soclingprox2.rb -- for every pair of users finds if they have had a necessary number of interactions, outputs that and info about interaction dates (outputs int files). Launches extract_pairs.rb automatically.
+extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files). Launches process_pairs.rb automatically.
 process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
 output dir: dist
-CORRECT wrapper2.rb: runs all t LABELS
+wrapper2.rb: reproduces the whole experiment
 
 EXTRAS:
 supersummary.rb = summarize the results in dist in a convenient table
 
 ttests_dist.rb: run t-tests on the output in dist (currently int vs no-int). Not reported in the paper.
-
 
 contact: aleksandrs.berdicevskis@gu.se
