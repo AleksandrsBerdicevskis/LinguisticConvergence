@@ -24,6 +24,9 @@ extract_pairs.rb -- uses soclingprox2's output to extract the production of the 
 process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
 output dir: dist
 wrapper2.rb: reproduces the whole experiment
+All results are stored in the dist folder (zipped).
+
+permutations.rb performs the bootstrap statistical test.
 
 EXTRAS:
 supersummary.rb = summarize the results in dist in a convenient table
