@@ -1,4 +1,4 @@
-for i in 7..7
+for i in 1..10
     system "ruby soclingprox2.rb flashback-network#{i} 12000 5 3 365 10 366 both true farthest"
 end
 

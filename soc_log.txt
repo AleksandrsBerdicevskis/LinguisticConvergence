@@ -23,7 +23,7 @@ PATH soclingprox2.rb -- for every pair of users finds if they have had a necessa
 PATH extract_pairs.rb -- uses soclingprox2's output to extract the production of the relevant pairs and create the frequency vectors (outputs the pairs folders takes a lot of time due to reading huge CONLLU files);
 process_pairs.rb -- uses extract_pairs' output to calculated distances and output the results (distances and summary files).
 output dir: dist
-CORRECT wrapper2.rb: runs all t
+CORRECT wrapper2.rb: runs all t LABELS
 
 EXTRAS:
 supersummary.rb = summarize the results in dist in a convenient table

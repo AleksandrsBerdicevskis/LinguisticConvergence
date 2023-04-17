@@ -137,7 +137,7 @@ if nowrapper_mode
         prolific_authors = []
         prolific_author_hash = Hash.new{|hash, key| hash[key] = Array.new}
         subforums.each do |subforum|
-            authorfile = File.open("#{PATH1}authors\\#{forum}\\#{subforum}.tsv","r:utf-8")
+            authorfile = File.open("#{w}authors\\#{forum}\\#{subforum}.tsv","r:utf-8")
             authorfile.each_line.with_index do |line, index|
                 line2 = line.strip.split("\t")
                 if index > 0
